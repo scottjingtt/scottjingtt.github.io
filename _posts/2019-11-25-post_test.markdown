@@ -38,6 +38,7 @@ This is the catalog section.
 This is an inline equation $T(n) = T(\frac{1}{n}) + \frac{1}{n^2} \cdot log_{5}{3^n}$
 
 Independent euqation test: 
+
 $$
 O(n) = \sum_{i=0}^{i=n}f_{XY}(x,y)
 $$
@@ -54,9 +55,10 @@ def TestFunc(x,y,n):
 ```
 
 ### Table Test
-| Col1 | Col2 | Col3|
-|----|------|------|
-|001| row one rowow one  | row one |
+
+| col1 | col2 | col3 |
+| :------- | :---------: | ---------: |
+| 02442424001 | 00020000 | 0452425424003 |
 
 ### Reference Test 
 

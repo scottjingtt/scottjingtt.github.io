@@ -5,8 +5,8 @@
     <description>Scott's Blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 25 Nov 2019 16:39:12 -0500</pubDate>
-    <lastBuildDate>Mon, 25 Nov 2019 16:39:12 -0500</lastBuildDate>
+    <pubDate>Mon, 25 Nov 2019 17:30:36 -0500</pubDate>
+    <lastBuildDate>Mon, 25 Nov 2019 17:30:36 -0500</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -163,8 +163,9 @@ return [0, 1].
 &lt;hr /&gt;
 &lt;p&gt;This is an inline equation $T(n) = T(\frac{1}{n}) + \frac{1}{n^2} \cdot log_{5}{3^n}$&lt;/p&gt;
 
-&lt;p&gt;Independent euqation test: 
-&lt;script type=&quot;math/tex&quot;&gt;O(n) = \sum_{i=0}^{i=n}f_{XY}(x,y)&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;Independent euqation test:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;O(n) = \sum_{i=0}^{i=n}f_{XY}(x,y)&lt;/script&gt;
 
 &lt;h3 id=&quot;code-test&quot;&gt;Code Test&lt;/h3&gt;
 &lt;hr /&gt;
@@ -182,9 +183,23 @@ return [0, 1].
 &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;table-test&quot;&gt;Table Test&lt;/h3&gt;
-&lt;p&gt;| Col1 | Col2 | Col3|
-|—-|——|——|
-|001| row one rowow one  | row one |&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;col1&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;col2&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;col3&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;02442424001&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;00020000&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;0452425424003&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;h3 id=&quot;reference-test&quot;&gt;Reference Test&lt;/h3&gt;
 
