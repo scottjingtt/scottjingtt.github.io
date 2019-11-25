@@ -1,29 +1,67 @@
 ---
 layout:     post
 title:      "First blog test"
-subtitle:   " \"First blog test subtitle.\""
+subtitle:   " \"Subtitle test.\""
 date:       2019-11-25 00:05:00
 author:     "Scott"
 header-img: "img/posts/post-bg-20191125.jpg"
 catalog: true
+mathjax: true
+header-mask: 0.5
 tags:
     - test
 ---
 
-> “Test ”
+> Indent test.
+---
 
-[Jump to id=section1 ](#section1) 
+[Jump to Catalog section ](#section1) 
 
 <p id = "section1"></p>
 
-### Section 1
-
-test
-
+### Catalog Test
 ---
-test
+This is the catalog section. 
+![Insert Image Test](img/posts/post-bg-20191125.jpg)
 
+### List Test
 ---
-`test`
+- Item One
+  - Sub item one
+  - Sub item two
+    - subsub item one
+- Item Two
+- Item Three
 
+### Math Equation Test
+---
+This is an inline equation $T(n) = T(\frac{1}{n}) + \frac{1}{n^2} \cdot log_{5}{3^n}$
 
+Independent euqation test: 
+$$
+O(n) = \sum_{i=0}^{i=n}f_{XY}(x,y)
+$$
+
+### Code Test
+---
+`This is an inline sample Python code`
+```python
+def TestFunc(x,y,n):
+    for i in range(n):
+        z = x+y
+    return z
+
+```
+
+### Table Test
+| Col1 | Col2 | Col3|
+|----|------|------|
+|001| row one rowow one  | row one |
+
+### Reference Test 
+
+Ref. One [1] 
+
+Ref. Two [2]
+
+Ref. Three [3]
