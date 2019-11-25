@@ -1,2 +1,1 @@
-# scottjingtt.github.io
- Scott's personal page
+### [View Demo](https://scottjingtt.github.io)  
