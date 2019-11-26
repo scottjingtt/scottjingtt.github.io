@@ -5,8 +5,8 @@
     <description>Scott's Homepage</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 26 Nov 2019 16:21:00 -0500</pubDate>
-    <lastBuildDate>Tue, 26 Nov 2019 16:21:00 -0500</lastBuildDate>
+    <pubDate>Tue, 26 Nov 2019 17:10:57 -0500</pubDate>
+    <lastBuildDate>Tue, 26 Nov 2019 17:10:57 -0500</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -71,14 +71,449 @@
 &lt;p&gt;[4] Peng, Xingchao, Qinxun Bai, Xide Xia, Zijun Huang, Kate Saenko, and Bo Wang. “Moment matching for multi-source domain adaptation.” In Proceedings of the IEEE International Conference on Computer Vision, pp. 1406-1415. 2019.&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 Nov 2019 11:18:00 -0500</pubDate>
-        <link>http://localhost:4000/2019/11/26/DomainAdaptation/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/26/DomainAdaptation/</guid>
+        <link>http://localhost:4000/2019/11/26/domain_adaptation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/26/domain_adaptation/</guid>
         
         <category>Domain Adaptation</category>
         
         <category>Just One Figure Paper Review</category>
         
         <category>paper review</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Leetcode: Selected Question List</title>
+        <description>&lt;h2 id=&quot;leetcode-selected-questions-list&quot;&gt;LeetCode Selected Questions List&lt;/h2&gt;
+&lt;p&gt;Please refer to the &lt;a href=&quot;https://github.com/scottjingtt/Algorithm&quot;&gt;Algorithm&lt;/a&gt; for more &lt;strong&gt;Algorithm&lt;/strong&gt; knowledge and Leetcode &lt;strong&gt;Solutions&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-array&quot;&gt;1. Array&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;27&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Remove Element&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;2-string&quot;&gt;2. String&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;28&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Implement strStr()&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;3-math&quot;&gt;3. Math&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://leetcode.com/problems/two-sum/&quot;&gt;Two Sum&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://github.com/scottjingtt/Algorithm/blob/master/leetcode/1_two_sum.md&quot;&gt;Python&lt;/a&gt; | &lt;a href=&quot;../../../11/25/1_two_sum/index.html&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;Easy&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Reverse Integer&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;4-tree&quot;&gt;4. Tree&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;144&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Binary Tree Preorder Traversal&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;5-backtracking&quot;&gt;5. Backtracking&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;78&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Subsets&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;6-dynamic-programming&quot;&gt;6. Dynamic Programming&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;70&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Climbing Stairs&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;7-linkedlist&quot;&gt;7. LinkedList&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;206&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Reverse Linked List&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;8-binary-search&quot;&gt;8. Binary Search&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;278&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;First Bad Version&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;9-matrix&quot;&gt;9. Matrix&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;48&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Rotate Image&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;10-dfs--bfs&quot;&gt;10. DFS &amp;amp; BFS&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;200&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Number of Islands&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;11-stack--priority-queue&quot;&gt;11. Stack &amp;amp; Priority Queue&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;155&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Min Stack&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;12-bit-manipulation&quot;&gt;12. Bit Manipulation&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;389&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Find the Difference&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;13-topological-sort&quot;&gt;13. Topological Sort&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;207&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Course Schedule&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;14-random&quot;&gt;14. Random&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;384&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Shuffle an Array&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;15-graph&quot;&gt;15. Graph&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;133&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Clone Graph&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;16-union-find&quot;&gt;16. Union Find&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;261&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Graph Valid Tree&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;17-trie&quot;&gt;17. Trie&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;211&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Add and Search Word - Data Structure Design&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;18-design&quot;&gt;18. Design&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;#&lt;/th&gt;
+      &lt;th&gt;Title&lt;/th&gt;
+      &lt;th&gt;Solution&lt;/th&gt;
+      &lt;th&gt;Difficulty&lt;/th&gt;
+      &lt;th&gt;Quick hint&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;359&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;Logger Rate Limiter&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;&quot;&gt;python&lt;/a&gt; | &lt;a href=&quot;&quot;&gt;Blog&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;–&lt;/td&gt;
+      &lt;td&gt;Available soon&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+        <pubDate>Tue, 26 Nov 2019 08:15:00 -0500</pubDate>
+        <link>http://localhost:4000/2019/11/26/question_list/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/26/question_list/</guid>
+        
+        <category>Leetcode</category>
         
         
       </item>
