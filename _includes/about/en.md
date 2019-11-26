@@ -51,7 +51,7 @@ I am a first year Ph.D. student at department of [Electrical and Computer Engine
   
 ---
 ### Education
-- **Ph.D** Student in Computer and Information Technology  &nbsp;&nbsp;(Jan. 2019 - **Present**) <br>
+- **Ph.D.** Student in Computer and Information Technology  &nbsp;&nbsp;(Jan. 2019 - **Present**) <br>
   [Department of Electrical and Computer Engineering<br>
   Purdue School of Engineering and Technology<br> 
   IUPUI, Indianapolis, USA](https://et.iupui.edu/departments/ece/)
