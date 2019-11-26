@@ -1,10 +1,10 @@
 # Site settings
 title: Mr. Jing
-SEOTitle: 景涛涛的个人主页 | Taotao(Scott)Jing's Homepage
+SEOTitle: 景涛涛的个人主页 | TaotaoJing's Homepage
 header-img: img/home-bg.jpg
 email: tomjayad@gmail.com
 description: "Scott's Homepage"
-keyword: "Scott, Blog, Homepage"
+keyword: "Taotao Jing,Scott, Blog, Homepage"
 url: "scottjingtt.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
