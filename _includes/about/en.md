@@ -7,8 +7,6 @@
 <td width="30%">
 <div>
 <br>
-<br>
-<br>
 <img src='/img/scott.jpg' align='center' height="100%" width="100%" />
 </div>
 </td>
@@ -48,8 +46,8 @@ I am a first year Ph.D. student at department of [Electrical and Computer Engine
 
 ---
 ### News
-- Jan. 2019: Begin my **Ph.D.** student journey at IUPUI, USA.
-- Spe. 2018: Start working as **Research Assistant** at IUPUI, USA
+- Jan. 2019: Begin my new journey as **Ph.D.** student at IUPUI, USA.
+- Sep. 2018: Start working as **Research Assistant** at IUPUI, USA
   
 ---
 ### Education
