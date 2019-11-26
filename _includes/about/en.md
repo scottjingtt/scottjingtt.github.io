@@ -58,7 +58,7 @@ I am a first year Ph.D. student at department of [Electrical and Computer Engine
 
 - **M.E.** Degree in Computer System Engineering&nbsp;&nbsp;(Sep. 2016 - Jul. 2018) <br>
   [Department of Electrical and Computer Engineering <br>
-  Xi'an Jiaotong University, Xi'an, China](https://ece.northeastern.edu/)
+  Northeastern University, Boston, USA](https://ece.northeastern.edu/)
 
 - **B.S.** Degree in Electronic Science and Technology &nbsp;&nbsp;(Sep. 2012 - Jul. 2016) <br>
   [Department of Electronic Science<br>
