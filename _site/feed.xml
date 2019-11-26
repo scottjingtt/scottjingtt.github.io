@@ -5,9 +5,83 @@
     <description>Scott's Homepage</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 26 Nov 2019 02:09:05 -0500</pubDate>
-    <lastBuildDate>Tue, 26 Nov 2019 02:09:05 -0500</lastBuildDate>
-    <generator>Jekyll v4.0.0</generator>
+    <pubDate>Tue, 26 Nov 2019 16:21:00 -0500</pubDate>
+    <lastBuildDate>Tue, 26 Nov 2019 16:21:00 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>Awesome Domain Adaptation Just One Figure Paper Review</title>
+        <description>&lt;h1 id=&quot;awesome-domain-adaptation-papers-just-one-figure-review&quot;&gt;Awesome Domain Adaptation Papers Just One Figure Review&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/scottjingtt/Just_One_Figure_Paper_Review/blob/master/DomainAdaptation.md&quot;&gt;Just One Figure Paper Review Project - Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;11-unsupervised-domain-adaptation&quot;&gt;1.1 Unsupervised Domain Adaptation&lt;/h2&gt;
+
+&lt;h3 id=&quot;111-complete-domain-adaptation&quot;&gt;1.1.1 Complete Domain Adaptation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CVPR 2019 &lt;a href=&quot;http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Domain-Symmetric_Networks_for_Adversarial_Domain_Adaptation_CVPR_2019_paper.html&quot;&gt;Domain-Symmetric Networks for Adversarial Domain Adaptation&lt;/a&gt; [1]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/paperreview/zhang2019domain_caption.png?raw=true&quot; alt=&quot;SymNets&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;112-partial-domain-adaptation&quot;&gt;1.1.2 Partial Domain Adaptation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ICCV 2019 &lt;a href=&quot;http://openaccess.thecvf.com/content_ICCV_2019/html/Xu_Larger_Norm_More_Transferable_An_Adaptive_Feature_Norm_Approach_for_ICCV_2019_paper.html&quot;&gt;Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation&lt;/a&gt; [2]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- ![AFN](https://github.com/scottjingtt/Just_One_Figure_Paper_Review/blob/master/img/xu2019larger_caption.png?raw=true) --&gt;
+&lt;div&gt;&lt;img width=&quot;330&quot; height=&quot;372&quot; src=&quot;/img/posts/paperreview/xu2019larger_caption.png?raw=true&quot; /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;113-multi-source-domain-adaptation&quot;&gt;1.1.3 Multi-Source Domain Adaptation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;AAAI 2019 &lt;a href=&quot;https://aaai.org/ojs/index.php/AAAI/article/view/4551&quot;&gt;Aligning Domain-Specific Distribution and Classifier for Cross-Domain Classification from Multiple Sources&lt;/a&gt; [3]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/paperreview/zhu2019aligning.png?raw=true&quot; alt=&quot;MFSAN&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ICCV 2019 &lt;a href=&quot;http://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Moment_Matching_for_Multi-Source_Domain_Adaptation_ICCV_2019_paper.pdf&quot;&gt;Moment Matching for Multi-Source Domain Adaptation&lt;/a&gt; [4]&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/paperreview/peng2019moment.png?raw=true&quot; alt=&quot;MMMSDA&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;114-openset-domain-adaptaion&quot;&gt;1.1.4 Openset Domain Adaptaion&lt;/h3&gt;
+
+&lt;h2 id=&quot;12-semi-supervised-domain-adaptation&quot;&gt;1.2 Semi-supervised Domain Adaptation&lt;/h2&gt;
+
+&lt;h2 id=&quot;13-domain-generalization&quot;&gt;1.3 Domain Generalization&lt;/h2&gt;
+
+&lt;h2 id=&quot;14-zero-shot-learning&quot;&gt;1.4 Zero-shot Learning&lt;/h2&gt;
+
+&lt;h2 id=&quot;15-one-shot-learning&quot;&gt;1.5 One-shot Learning&lt;/h2&gt;
+
+&lt;h2 id=&quot;16-few-shot-learning&quot;&gt;1.6 Few-shot Learning&lt;/h2&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;p&gt;[1] Zhang, Yabin, Hui Tang, Kui Jia, and Mingkui Tan. “Domain-Symmetric Networks for Adversarial Domain Adaptation.” In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5031-5040. 2019.&lt;/p&gt;
+
+&lt;p&gt;[2] Xu, Ruijia, Guanbin Li, Jihan Yang, and Liang Lin. “Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation.” In Proceedings of the IEEE International Conference on Computer Vision, pp. 1426-1435. 2019.&lt;/p&gt;
+
+&lt;p&gt;[3] Zhu, Yongchun, Fuzhen Zhuang, and Deqing Wang. “Aligning domain-specific distribution and classifier for cross-domain classification from multiple sources.” In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, pp. 5989-5996. 2019.&lt;/p&gt;
+
+&lt;p&gt;[4] Peng, Xingchao, Qinxun Bai, Xide Xia, Zijun Huang, Kate Saenko, and Bo Wang. “Moment matching for multi-source domain adaptation.” In Proceedings of the IEEE International Conference on Computer Vision, pp. 1406-1415. 2019.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 26 Nov 2019 11:18:00 -0500</pubDate>
+        <link>http://localhost:4000/2019/11/26/DomainAdaptation/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/26/DomainAdaptation/</guid>
+        
+        <category>Domain Adaptation</category>
+        
+        <category>Just One Figure Paper Review</category>
+        
+        <category>paper review</category>
+        
+        
+      </item>
     
       <item>
         <title>Leetcode: 1. Two Sum</title>
