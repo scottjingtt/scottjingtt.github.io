@@ -1,6 +1,9 @@
-> About who I am.
 
-About me test.[Google page](https://www.google.com)
+![Scott Jing](/img/scott.jpg)
+<img src='/img/scott.jpg'>
 
+Department of Electrical and Computer Engineering
 
+Purdue School of Engineering and Technology
 
+Indiana University Purdue University Indianapolis

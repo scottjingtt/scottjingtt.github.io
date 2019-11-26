@@ -15,14 +15,17 @@ tags:
 > Indent test.
 ---
 
-[Jump to Catalog section ](#section1) 
+[Jump to Code Test section ](#codetest) 
 
-<p id = "section1"></p>
 
-### Catalog Test
+
+### Image Test
 ---
 This is the catalog section. 
-![Insert Image Test](img/posts/post-bg-20191125.jpg)
+![Insert Image Test](../img/posts/post-bg-20191125.jpg)
+
+![Scott Jing](/img/scott.jpg) {:height="5px"}
+
 
 ### List Test
 ---
@@ -43,6 +46,7 @@ $$
 O(n) = \sum_{i=0}^{i=n}f_{XY}(x,y)
 $$
 
+<p id = "codetest"></p>
 ### Code Test
 ---
 `This is an inline sample Python code`

@@ -5,8 +5,8 @@
     <description>Scott's Blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 25 Nov 2019 17:30:36 -0500</pubDate>
-    <lastBuildDate>Mon, 25 Nov 2019 17:30:36 -0500</lastBuildDate>
+    <pubDate>Mon, 25 Nov 2019 18:03:54 -0500</pubDate>
+    <lastBuildDate>Mon, 25 Nov 2019 18:03:54 -0500</lastBuildDate>
     <generator>Jekyll v3.8.6</generator>
     
       <item>
@@ -133,14 +133,14 @@ return [0, 1].
   &lt;h2 id=&quot;indent-test&quot;&gt;Indent test.&lt;/h2&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href=&quot;#section1&quot;&gt;Jump to Catalog section &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;#codetest&quot;&gt;Jump to Code Test section &lt;/a&gt;&lt;/p&gt;
 
-&lt;p id=&quot;section1&quot;&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;catalog-test&quot;&gt;Catalog Test&lt;/h3&gt;
+&lt;h3 id=&quot;image-test&quot;&gt;Image Test&lt;/h3&gt;
 &lt;hr /&gt;
 &lt;p&gt;This is the catalog section. 
-&lt;img src=&quot;img/posts/post-bg-20191125.jpg&quot; alt=&quot;Insert Image Test&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;../img/posts/post-bg-20191125.jpg&quot; alt=&quot;Insert Image Test&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/scott.jpg&quot; alt=&quot;Scott Jing&quot; /&gt; {:height=”5px”}&lt;/p&gt;
 
 &lt;h3 id=&quot;list-test&quot;&gt;List Test&lt;/h3&gt;
 &lt;hr /&gt;
@@ -167,6 +167,7 @@ return [0, 1].
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;O(n) = \sum_{i=0}^{i=n}f_{XY}(x,y)&lt;/script&gt;
 
+&lt;p id=&quot;codetest&quot;&gt;&lt;/p&gt;
 &lt;h3 id=&quot;code-test&quot;&gt;Code Test&lt;/h3&gt;
 &lt;hr /&gt;
 &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;This is an inline sample Python code&lt;/code&gt;&lt;/p&gt;
