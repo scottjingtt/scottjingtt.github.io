@@ -5,12 +5,12 @@
     <description>Scott's Blog</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 25 Nov 2019 18:03:54 -0500</pubDate>
-    <lastBuildDate>Mon, 25 Nov 2019 18:03:54 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.6</generator>
+    <pubDate>Mon, 25 Nov 2019 19:59:37 -0500</pubDate>
+    <lastBuildDate>Mon, 25 Nov 2019 19:59:37 -0500</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>1. Two Sum</title>
+        <title>Leetcode: 1. Two Sum</title>
         <description>&lt;h2 id=&quot;1-two-sum&quot;&gt;1. Two Sum&lt;/h2&gt;
 &lt;p&gt;Given an array of integers, return indices of the two numbers such that they add up to a specific target.&lt;/p&gt;
 
@@ -128,7 +128,7 @@ return [0, 1].
       </item>
     
       <item>
-        <title>First blog test</title>
+        <title>First Blog Test</title>
         <description>&lt;blockquote&gt;
   &lt;h2 id=&quot;indent-test&quot;&gt;Indent test.&lt;/h2&gt;
 &lt;/blockquote&gt;
@@ -138,9 +138,9 @@ return [0, 1].
 &lt;h3 id=&quot;image-test&quot;&gt;Image Test&lt;/h3&gt;
 &lt;hr /&gt;
 &lt;p&gt;This is the catalog section. 
-&lt;img src=&quot;../img/posts/post-bg-20191125.jpg&quot; alt=&quot;Insert Image Test&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/img/posts/post-bg-20191125.jpg&quot; alt=&quot;Insert Image Test&quot; height=&quot;50%&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/img/scott.jpg&quot; alt=&quot;Scott Jing&quot; /&gt; {:height=”5px”}&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/img/scott.jpg&quot; alt=&quot;Scott Jing&quot; height=&quot;100px&quot; width=&quot;100px&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;list-test&quot;&gt;List Test&lt;/h3&gt;
 &lt;hr /&gt;
@@ -214,7 +214,7 @@ return [0, 1].
         <link>http://localhost:4000/2019/11/24/post_test/</link>
         <guid isPermaLink="true">http://localhost:4000/2019/11/24/post_test/</guid>
         
-        <category>test</category>
+        <category>Test</category>
         
         
       </item>

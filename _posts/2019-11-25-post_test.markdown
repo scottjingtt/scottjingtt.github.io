@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "First blog test"
-subtitle:   " \"Subtitle test.\""
+title:      "First Blog Test"
+subtitle:   " \"Subtitle Test.\""
 date:       2019-11-25 00:05:00
 author:     "Scott"
 header-img: "img/posts/post-bg-20191125.jpg"
@@ -9,7 +9,7 @@ catalog: true
 mathjax: true
 header-mask: 0.5
 tags:
-    - test
+    - Test
 ---
 
 > Indent test.
@@ -22,9 +22,9 @@ tags:
 ### Image Test
 ---
 This is the catalog section. 
-![Insert Image Test](../img/posts/post-bg-20191125.jpg)
+![Insert Image Test](/img/posts/post-bg-20191125.jpg){:height="50%" width="30%"}
 
-![Scott Jing](/img/scott.jpg) {:height="5px"}
+![Scott Jing](/img/scott.jpg){:height="100px" width="100px"}
 
 
 ### List Test
