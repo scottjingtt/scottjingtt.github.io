@@ -3,11 +3,11 @@
   <channel>
     <title>Mr. Jing</title>
     <description>Scott's Homepage</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 26 Nov 2019 17:56:56 -0500</pubDate>
-    <lastBuildDate>Tue, 26 Nov 2019 17:56:56 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.6</generator>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 04 May 2020 00:37:49 -0400</pubDate>
+    <lastBuildDate>Mon, 04 May 2020 00:37:49 -0400</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>Awesome Domain Adaptation Just One Figure Paper Review</title>
@@ -71,8 +71,8 @@
 &lt;p&gt;[4] Peng, Xingchao, Qinxun Bai, Xide Xia, Zijun Huang, Kate Saenko, and Bo Wang. “Moment matching for multi-source domain adaptation.” In Proceedings of the IEEE International Conference on Computer Vision, pp. 1406-1415. 2019.&lt;/p&gt;
 </description>
         <pubDate>Tue, 26 Nov 2019 11:18:00 -0500</pubDate>
-        <link>http://localhost:4000/2019/11/26/domain_adaptation/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/26/domain_adaptation/</guid>
+        <link>http://0.0.0.0:4000/2019/11/26/domain_adaptation/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/11/26/domain_adaptation/</guid>
         
         <category>Domain Adaptation</category>
         
@@ -510,8 +510,8 @@
 &lt;/table&gt;
 </description>
         <pubDate>Tue, 26 Nov 2019 08:15:00 -0500</pubDate>
-        <link>http://localhost:4000/2019/11/26/question_list/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/26/question_list/</guid>
+        <link>http://0.0.0.0:4000/2019/11/26/question_list/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/11/26/question_list/</guid>
         
         <category>Leetcode</category>
         
@@ -628,8 +628,8 @@ return [0, 1].
 &lt;/ol&gt;
 </description>
         <pubDate>Mon, 25 Nov 2019 08:15:00 -0500</pubDate>
-        <link>http://localhost:4000/2019/11/25/1_two_sum/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/25/1_two_sum/</guid>
+        <link>http://0.0.0.0:4000/2019/11/25/1_two_sum/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/11/25/1_two_sum/</guid>
         
         <category>Leetcode</category>
         
@@ -720,8 +720,8 @@ return [0, 1].
 &lt;p&gt;Ref. Three [3]&lt;/p&gt;
 </description>
         <pubDate>Sun, 24 Nov 2019 19:05:00 -0500</pubDate>
-        <link>http://localhost:4000/2019/11/24/post_test/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/24/post_test/</guid>
+        <link>http://0.0.0.0:4000/2019/11/24/post_test/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/2019/11/24/post_test/</guid>
         
         <category>Test</category>
         

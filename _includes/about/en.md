@@ -29,7 +29,7 @@ Email: jingt [AT] iu [DOT] edu
 </p>
 <p>
 <span>
-[<a href="">CV </a>]
+[<a href="/files/CV.pdf">CV </a>]
 [<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F6-__eFkrm63OpBS4VgdVrV1-N2SCT_3xaHOdiYUfuJpSMx9BnRLTnIAeW3JoBm_KKAC6XxAsLyjwfh2ShViz4VATiRoZfPOq-pG10SIH0_BgjuoyE&user=cvrjwJIAAAAJ"> Google Scholar </a>]
 [<a href = "https://dblp.uni-trier.de/pers/hd/j/Jing:Taotao"> DBLP </a>]
 [<a href = "https://www.linkedin.com/in/taotao-jing-4757a5b8/"> LinkedIn </a>]
@@ -42,13 +42,17 @@ Email: jingt [AT] iu [DOT] edu
 </table>
 
 ### Biography
-I am a first year Ph.D. student at department of [Electrical and Computer Engineering, IUPUI](https://et.iupui.edu/departments/ece/), advised by [Prof. Z. Allan Ding](http://allanding.net/). My research interests lie in machine learning, computer vision, deep learning, and transfer learning.
+I am currently a year Ph.D. student at the department of [Electrical and Computer Engineering, Purdue School of Engineering, IUPUI](https://et.iupui.edu/departments/ece/), advised by [Prof. Z. Allan Ding](http://allanding.net/). My research interests lie in machine learning, computer vision, deep learning, and transfer learning.
 
 ---
 ### News
 - Jan. 2019: Begin my new journey as **Ph.D.** student at IUPUI, USA.
 - Sep. 2018: Start working as **Research Assistant** at IUPUI, USA
   
+---
+### Publications
+- Lichen Wang, Bin Sun, Joseph Robinson, **Taotao Jing**, and Yun Fu, “EV-Action: Electromyography-Vision Multi-Modal Action Dataset,” 2020 IEEE International Conference on Automatic Face and Gesture Recognition (FG), Buenos Aires, Argentina&nbsp;[[Code](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset)] [[Paper](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset/blob/master/presentations/FG20_EVAction.pdf)] [Poster]
+
 ---
 ### Education
 - **Ph.D.** Student in Computer and Information Technology  &nbsp;&nbsp;(Jan. 2019 - **Present**) <br>
@@ -75,6 +79,14 @@ I am a first year Ph.D. student at department of [Electrical and Computer Engine
   [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), Xi'an, China
 
 ---
+### Academic Service
+##### Reviewer
+- IS&T SPIE Journal of Electronic Imaging (SPIE JEI)
+- European Conference on Artificial Intelligence (ECAI)
+  
+---
+
+
 <!-- ### Publications
 - Jounal Articles
   - 1. 
