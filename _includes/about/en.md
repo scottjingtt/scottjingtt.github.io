@@ -42,7 +42,7 @@ Email: jingt [AT] iu [DOT] edu
 </table>
 
 ### Biography
-I am currently a year Ph.D. student at the department of [Electrical and Computer Engineering, Purdue School of Engineering, IUPUI](https://et.iupui.edu/departments/ece/), advised by [Prof. Z. Allan Ding](http://allanding.net/). My research interests lie in machine learning, computer vision, deep learning, and transfer learning.
+I am currently a Ph.D. student at the department of [Electrical and Computer Engineering, Purdue School of Engineering, IUPUI](https://et.iupui.edu/departments/ece/), advised by [Prof. Z. Allan Ding](http://allanding.net/). My research interests lie in machine learning, computer vision, deep learning, and transfer learning.
 
 ---
 ### News
