@@ -15,8 +15,7 @@
 <p>
 <span style="font-weight:bold">Ph.D. Student</span><br>
 Department of Electrical and Computer Engineering<br>
-Purdue School of Engineering and Technology<br>
-Indiana University Purdue University Indianapolis
+Purdue University
 </p>
 <p>
 Room 245, Engineering and Technology Building<br>
@@ -42,12 +41,12 @@ Email: jingt [AT] iu [DOT] edu
 </table>
 
 ### Biography
-I am currently a Ph.D. student at the department of [Electrical and Computer Engineering, Purdue School of Engineering, IUPUI](https://et.iupui.edu/departments/ece/), advised by [Prof. Z. Allan Ding](http://allanding.net/). My research interests lie in machine learning, computer vision, deep learning, and transfer learning.
+I am currently a Ph.D. student at the department of [Electrical and Computer Engineering, Purdue University](https://engineering.purdue.edu/ECE), advised by [Prof. Z. Allan Ding](http://allanding.net/). My research interests lie in machine learning, computer vision, deep learning, and transfer learning.
 
 ---
 ### News
-- Jan. 2019: Begin my new journey as **Ph.D.** student at IUPUI, USA.
-- Sep. 2018: Start working as **Research Assistant** at IUPUI, USA
+- Jan. 2019: Begin my new journey as **Ph.D.** student at Purdue University, USA.
+- Sep. 2018: Start working as **Research Assistant** at Purdue University, USA
   
 ---
 ### Publications
@@ -55,10 +54,9 @@ I am currently a Ph.D. student at the department of [Electrical and Computer Eng
 
 ---
 ### Education
-- **Ph.D.** Student in Computer and Information Technology  &nbsp;&nbsp;(Jan. 2019 - **Present**) <br>
+- **Ph.D.** Student in Electrical and Computer Engineering &nbsp;&nbsp;(Jan. 2019 - **Present**) <br>
   [Department of Electrical and Computer Engineering<br>
-  Purdue School of Engineering and Technology<br> 
-  IUPUI, Indianapolis, USA](https://et.iupui.edu/departments/ece/)
+  Purdue University, Indianapolis, USA](https://engineering.purdue.edu/ECE)
 
 - **M.E.** Degree in Computer System Engineering&nbsp;&nbsp;(Sep. 2016 - Jul. 2018) <br>
   [Department of Electrical and Computer Engineering <br>
@@ -72,7 +70,7 @@ I am currently a Ph.D. student at the department of [Electrical and Computer Eng
 ---
 ### Research Experience
 - Research Assistant &nbsp;&nbsp; (Sep. 2018 - **Present**)<br>
-  [IUPUI]((https://et.iupui.edu/departments/ece/)), Indianapolis, USA
+  [Purdue University]((https://engineering.purdue.edu/ECE)), Indianapolis, USA
 - Research Assistant &nbsp;&nbsp; (Jan. 2018 - Jul. 2018)<br>
   [SmileLab](https://web.northeastern.edu/smilelab/), Northeastern University, Boston, USA
 - Research Assistant &nbsp;&nbsp; (Spe. 2015 - Jul. 2016)<br>
