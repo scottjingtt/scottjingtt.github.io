@@ -23,7 +23,7 @@ Room 245, Engineering and Technology Building<br>
 </p>
 <p>
 <span>
-Email: jingt [AT] iu [DOT] edu
+Email: scottjingtt [AT] gmail [DOT] com
 </span>
 </p>
 <p>
