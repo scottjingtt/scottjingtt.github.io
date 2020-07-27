@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Awesome Domain Adaptation Just One Figure Paper Review"
-subtitle:   "Just One Figure Paper Review - Domain Adaptation"
+title:      "Just One Figure Paper Review"
+subtitle:   "- Domain Adaptation"
 date:       2019-11-26 16:18:00
 author:     "Scott"
 header-img: "img/posts/post-bg-20191125.jpg"

@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Leetcode: Selected Question List"
-subtitle:   " Selected Leetcode Question List"
+title:      "Leetcode: Problem List"
+subtitle:   " Selected Leetcode Problem List"
 date:       2019-11-26 13:15:00
 author:     "Scott"
 header-img: "img/posts/post-bg-20191125.jpg"

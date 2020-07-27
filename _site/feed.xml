@@ -5,12 +5,12 @@
     <description>Scott's Homepage</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 27 Jul 2020 17:40:39 -0400</pubDate>
-    <lastBuildDate>Mon, 27 Jul 2020 17:40:39 -0400</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2020 17:46:05 -0400</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2020 17:46:05 -0400</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
-        <title>Awesome Domain Adaptation Just One Figure Paper Review</title>
+        <title>Just One Figure Paper Review</title>
         <description>&lt;h1 id=&quot;awesome-domain-adaptation-papers-just-one-figure-review&quot;&gt;Awesome Domain Adaptation Papers Just One Figure Review&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/scottjingtt/Just_One_Figure_Paper_Review/blob/master/DomainAdaptation.md&quot;&gt;Just One Figure Paper Review Project - Github&lt;/a&gt;&lt;/p&gt;
 
@@ -84,7 +84,7 @@
       </item>
     
       <item>
-        <title>Leetcode: Selected Question List</title>
+        <title>Leetcode: Problem List</title>
         <description>&lt;h2 id=&quot;leetcode-selected-questions-list&quot;&gt;LeetCode Selected Questions List&lt;/h2&gt;
 &lt;p&gt;Please refer to the &lt;a href=&quot;https://github.com/scottjingtt/Algorithm&quot;&gt;Algorithm&lt;/a&gt; for more &lt;strong&gt;Algorithm&lt;/strong&gt; knowledge and Leetcode &lt;strong&gt;Solutions&lt;/strong&gt;.&lt;/p&gt;
 
