@@ -1,4 +1,4 @@
-I"É	<blockquote>
+I"±	<blockquote>
   <h2 id="indent-test">Indent test.</h2>
 </blockquote>
 
@@ -34,12 +34,12 @@
 
 <p>Independent euqation test:</p>
 
-<script type="math/tex; mode=display">O(n) = \sum_{i=0}^{i=n}f_{XY}(x,y)</script>
+\[O(n) = \sum_{i=0}^{i=n}f_{XY}(x,y)\]
 
 <p id="codetest"></p>
 <h3 id="code-test">Code Test</h3>
 <hr />
-<p><code class="highlighter-rouge">This is an inline sample Python code</code></p>
+<p><code class="language-plaintext highlighter-rouge">This is an inline sample Python code</code></p>
 <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
 2
 3
