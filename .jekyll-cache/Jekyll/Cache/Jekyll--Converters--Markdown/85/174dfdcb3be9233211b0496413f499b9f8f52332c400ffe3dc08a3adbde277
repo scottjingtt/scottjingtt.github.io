@@ -1,0 +1,11 @@
+I"�<h1 id="partial-domain-adaptation">Partial Domain Adaptation</h1>
+
+<h3 id="1-iccv-2019-larger-norm-more-transferable-an-adaptive-feature-norm-approach-for-unsupervised-domain-adaptation-1">1. ICCV 2019 <a href="http://openaccess.thecvf.com/content_ICCV_2019/html/Xu_Larger_Norm_More_Transferable_An_Adaptive_Feature_Norm_Approach_for_ICCV_2019_paper.html">Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation</a> [1]</h3>
+
+<!-- ![AFN](https://github.com/scottjingtt/Just_One_Figure_Paper_Review/blob/master/img/xu2019larger_caption.png?raw=true) -->
+<div><img width="330" height="372" src="/img/posts/paperreview/xu2019larger_caption.png?raw=true" /></div>
+
+<h3 id="reference">Reference</h3>
+
+<p>[1] Xu, Ruijia, Guanbin Li, Jihan Yang, and Liang Lin. “Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation.” In Proceedings of the IEEE International Conference on Computer Vision, pp. 1426-1435. 2019.</p>
+:ET

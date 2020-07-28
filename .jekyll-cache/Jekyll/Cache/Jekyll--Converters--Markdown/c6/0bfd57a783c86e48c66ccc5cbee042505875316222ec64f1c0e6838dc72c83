@@ -1,0 +1,38 @@
+I"p<h1 id="multi-source-domain-adaptation">Multi-Source Domain Adaptation</h1>
+
+<h2 id="11">1.1</h2>
+
+<ul>
+  <li>AAAI 2019 <a href="https://aaai.org/ojs/index.php/AAAI/article/view/4551">Aligning Domain-Specific Distribution and Classifier for Cross-Domain Classification from Multiple Sources</a> [3]</li>
+</ul>
+
+<p><img src="/img/posts/paperreview/zhu2019aligning.png?raw=true" alt="MFSAN" /></p>
+
+<ul>
+  <li>ICCV 2019 <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Moment_Matching_for_Multi-Source_Domain_Adaptation_ICCV_2019_paper.pdf">Moment Matching for Multi-Source Domain Adaptation</a> [4]</li>
+</ul>
+
+<p><img src="/img/posts/paperreview/peng2019moment.png?raw=true" alt="MMMSDA" /></p>
+
+<h3 id="114-openset-domain-adaptaion">1.1.4 Openset Domain Adaptaion</h3>
+
+<h2 id="12-semi-supervised-domain-adaptation">1.2 Semi-supervised Domain Adaptation</h2>
+
+<h2 id="13-domain-generalization">1.3 Domain Generalization</h2>
+
+<h2 id="14-zero-shot-learning">1.4 Zero-shot Learning</h2>
+
+<h2 id="15-one-shot-learning">1.5 One-shot Learning</h2>
+
+<h2 id="16-few-shot-learning">1.6 Few-shot Learning</h2>
+
+<h3 id="reference">Reference</h3>
+
+<p>[1] Zhang, Yabin, Hui Tang, Kui Jia, and Mingkui Tan. “Domain-Symmetric Networks for Adversarial Domain Adaptation.” In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5031-5040. 2019.</p>
+
+<p>[2] Xu, Ruijia, Guanbin Li, Jihan Yang, and Liang Lin. “Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation.” In Proceedings of the IEEE International Conference on Computer Vision, pp. 1426-1435. 2019.</p>
+
+<p>[3] Zhu, Yongchun, Fuzhen Zhuang, and Deqing Wang. “Aligning domain-specific distribution and classifier for cross-domain classification from multiple sources.” In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, pp. 5989-5996. 2019.</p>
+
+<p>[4] Peng, Xingchao, Qinxun Bai, Xide Xia, Zijun Huang, Kate Saenko, and Bo Wang. “Moment matching for multi-source domain adaptation.” In Proceedings of the IEEE International Conference on Computer Vision, pp. 1406-1415. 2019.</p>
+:ET

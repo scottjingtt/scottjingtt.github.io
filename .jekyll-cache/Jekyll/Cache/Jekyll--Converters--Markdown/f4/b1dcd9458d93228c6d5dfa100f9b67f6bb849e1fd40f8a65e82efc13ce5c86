@@ -1,0 +1,16 @@
+I"�<h1 id="multi-source-domain-adaptation">Multi-Source Domain Adaptation</h1>
+
+<h3 id="1-aaai-2019-aligning-domain-specific-distribution-and-classifier-for-cross-domain-classification-from-multiple-sources-1">1. AAAI 2019 <a href="https://aaai.org/ojs/index.php/AAAI/article/view/4551">Aligning Domain-Specific Distribution and Classifier for Cross-Domain Classification from Multiple Sources</a> [1]</h3>
+
+<p><img src="/img/posts/paperreview/zhu2019aligning.png?raw=true" alt="MFSAN" /></p>
+
+<h3 id="2-iccv-2019-moment-matching-for-multi-source-domain-adaptation-2">2. ICCV 2019 <a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Peng_Moment_Matching_for_Multi-Source_Domain_Adaptation_ICCV_2019_paper.pdf">Moment Matching for Multi-Source Domain Adaptation</a> [2]</h3>
+
+<p><img src="/img/posts/paperreview/peng2019moment.png?raw=true" alt="MMMSDA" /></p>
+
+<h3 id="reference">Reference</h3>
+
+<p>[1] Zhu, Yongchun, Fuzhen Zhuang, and Deqing Wang. “Aligning domain-specific distribution and classifier for cross-domain classification from multiple sources.” In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, pp. 5989-5996. 2019.</p>
+
+<p>[2] Peng, Xingchao, Qinxun Bai, Xide Xia, Zijun Huang, Kate Saenko, and Bo Wang. “Moment matching for multi-source domain adaptation.” In Proceedings of the IEEE International Conference on Computer Vision, pp. 1406-1415. 2019.</p>
+:ET

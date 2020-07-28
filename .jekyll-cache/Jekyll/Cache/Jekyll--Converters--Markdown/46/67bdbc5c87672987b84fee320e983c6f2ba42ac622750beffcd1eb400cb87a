@@ -1,0 +1,12 @@
+I"w<!-- # Unsupervised Domain Adaptation -->
+<!-- [Just One Figure Paper Review Project - Github](https://github.com/scottjingtt/Just_One_Figure_Paper_Review/blob/master/DomainAdaptation.md) -->
+
+<!-- --- -->
+<h4 id="1-cvpr-2019-domain-symmetric-networks-for-adversarial-domain-adaptation-1">1. CVPR 2019 <a href="http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Domain-Symmetric_Networks_for_Adversarial_Domain_Adaptation_CVPR_2019_paper.html">Domain-Symmetric Networks for Adversarial Domain Adaptation</a> [1]</h4>
+
+<p><img src="/img/posts/paperreview/zhang2019domain_caption.png?raw=true" alt="SymNets" /></p>
+
+<h3 id="reference">Reference</h3>
+
+<p>[1] Zhang, Yabin, Hui Tang, Kui Jia, and Mingkui Tan. “Domain-Symmetric Networks for Adversarial Domain Adaptation.” In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5031-5040. 2019.</p>
+:ET
