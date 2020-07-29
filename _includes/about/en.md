@@ -29,7 +29,7 @@ Email: scottjingtt [AT] gmail [DOT] com
 <p>
 <span>
 [<a href="/files/CV.pdf">CV </a>]
-[<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F6-__eFkrm63OpBS4VgdVrV1-N2SCT_3xaHOdiYUfuJpSMx9BnRLTnIAeW3JoBm_KKAC6XxAsLyjwfh2ShViz4VATiRoZfPOq-pG10SIH0_BgjuoyE&user=cvrjwJIAAAAJ"> Google Scholar </a>]
+[<a href="https://scholar.google.com/citations?user=OTPyfwkAAAAJ&hl=en&oi=ao"> Google Scholar </a>]
 [<a href = "https://dblp.uni-trier.de/pers/hd/j/Jing:Taotao"> DBLP </a>]
 [<a href = "https://www.linkedin.com/in/taotao-jing-4757a5b8/"> LinkedIn </a>]
 [<a href="https://github.com/scottjingtt" > Github </a>]

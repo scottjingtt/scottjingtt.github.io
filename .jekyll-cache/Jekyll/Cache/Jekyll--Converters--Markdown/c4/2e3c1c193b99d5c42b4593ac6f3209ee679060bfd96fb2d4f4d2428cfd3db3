@@ -1,0 +1,118 @@
+I"�<!-- 
+![Scott Jing](/img/scott.jpg){:height="30%" width="30%"} -->
+
+<table>
+<tbody>
+<tr>
+<td width="30%">
+<div>
+<br />
+<img src="/img/scott.jpg" align="center" height="100%" width="100%" />
+</div>
+</td>
+<td width="70%">
+<h3 href="scottjingtt.github.io">Taotao(Scott) Jing</h3>
+<p>
+<span style="font-weight:bold">Ph.D. Student</span><br />
+Department of Electrical and Computer Engineering<br />
+Purdue University
+</p>
+<p>
+Room 245, Engineering and Technology Building<br />
+799 W Michigan Street, Indianapolis, IN 46202, USA
+</p>
+<p>
+<span>
+Email: scottjingtt [AT] gmail [DOT] com
+</span>
+</p>
+<p>
+<span>
+[<a href="/files/CV.pdf">CV </a>]
+[<a href="https://scholar.google.com/citations?user=OTPyfwkAAAAJ&amp;hl=en&amp;oi=ao"> Google Scholar </a>]
+[<a href="https://dblp.uni-trier.de/pers/hd/j/Jing:Taotao"> DBLP </a>]
+[<a href="https://www.linkedin.com/in/taotao-jing-4757a5b8/"> LinkedIn </a>]
+[<a href="https://github.com/scottjingtt"> Github </a>]
+</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="biography">Biography</h3>
+<p>I am currently a Ph.D. student at the department of <a href="https://engineering.purdue.edu/ECE">Electrical and Computer Engineering, Purdue University</a>, advised by <a href="http://allanding.net/">Prof. Z. Allan Ding</a>. My research interests lie in machine learning, computer vision, deep learning, and transfer learning.</p>
+
+<hr />
+<h3 id="news">News</h3>
+<ul>
+  <li>Jul. 2020: I get one paper accepted by <strong>ACM MM 2020</strong>.</li>
+  <li>Jan. 2020: We get one paper accepted by <strong>FG 2020</strong>.</li>
+  <li>Jan. 2019: Begin my new journey as a <strong>Ph.D.</strong> student at Purdue University, USA.</li>
+  <li>Sep. 2018: Start working as <strong>Research Assistant</strong> at Purdue University, USA</li>
+</ul>
+
+<hr />
+<h3 id="publications">Publications</h3>
+<ul>
+  <li><strong>Taotao Jing</strong>, Haifeng Xia, Zhengming Ding, “Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation,” ACM International Conference on Multimedia (<strong>MM</strong>), 2020. [Code][Paper][Poster]</li>
+  <li>Lichen Wang, Bin Sun, Joseph Robinson, <strong>Taotao Jing</strong>, and Yun Fu, “EV-Action: Electromyography-Vision Multi-Modal Action Dataset,” IEEE International Conference on Automatic Face and Gesture Recognition (<strong>FG</strong>), 2020.  [<a href="https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset">Code</a>] [<a href="https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset/blob/master/presentations/FG20_EVAction.pdf">Paper</a>] [Poster]</li>
+</ul>
+
+<hr />
+<h3 id="education">Education</h3>
+<ul>
+  <li>
+    <p><strong>Ph.D.</strong> Student in Electrical and Computer Engineering   (Jan. 2019 - <strong>Present</strong>) <br />
+<a href="https://engineering.purdue.edu/ECE">Department of Electrical and Computer Engineering<br />
+Purdue University, Indianapolis, USA</a></p>
+  </li>
+  <li>
+    <p><strong>M.E.</strong> Degree in Computer System Engineering  (Sep. 2016 - Jul. 2018) <br />
+<a href="https://ece.northeastern.edu/">Department of Electrical and Computer Engineering <br />
+Northeastern University, Boston, USA</a></p>
+  </li>
+  <li>
+    <p><strong>B.S.</strong> Degree in Electronic Science and Technology   (Sep. 2012 - Jul. 2016) <br />
+<a href="http://en.xjtu.edu.cn/">Department of Electronic Science<br />
+School of Electronic and Information Engineering<br />
+Xi’an Jiaotong University, Xi’an, China</a></p>
+  </li>
+</ul>
+
+<hr />
+<h3 id="research-experience">Research Experience</h3>
+<ul>
+  <li>Research Assistant    (Sep. 2018 - <strong>Present</strong>)<br />
+<a href="(https://engineering.purdue.edu/ECE)">Purdue University</a>, Indianapolis, USA</li>
+  <li>Research Assistant    (Jan. 2018 - Jul. 2018)<br />
+<a href="https://web.northeastern.edu/smilelab/">SmileLab</a>, Northeastern University, Boston, USA</li>
+  <li>Research Assistant    (Spe. 2015 - Jul. 2016)<br />
+<a href="http://en.xjtu.edu.cn/">Xi’an Jiaotong University</a>, Xi’an, China</li>
+</ul>
+
+<hr />
+<h3 id="academic-service">Academic Service</h3>
+<h5 id="reviewer">Reviewer</h5>
+<ul>
+  <li>IS&amp;T SPIE Journal of Electronic Imaging (SPIE JEI)</li>
+  <li>European Conference on Artificial Intelligence (ECAI)</li>
+</ul>
+
+<hr />
+
+<!-- ### Publications
+- Jounal Articles
+  - 1. 
+  - 2. 
+- Conference Articles
+  - 1. 
+  - 2. 
+--- -->
+<!-- ### Professional Activities
+- Reviewer for ...
+
+--- -->
+<!-- ### Awards -->
+
+:ET
