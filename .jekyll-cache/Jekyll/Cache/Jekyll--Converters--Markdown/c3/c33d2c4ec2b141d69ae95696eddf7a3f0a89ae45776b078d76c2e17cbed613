@@ -1,0 +1,431 @@
+I"�!<h2 id="leetcode-selected-problems-list">LeetCode Selected Problems List</h2>
+<p>Please refer to the <a href="https://github.com/scottjingtt/Algorithm">Algorithm</a> for more <strong>Algorithm</strong> knowledge and Leetcode <strong>Solutions</strong>.</p>
+
+<h3 id="1-array">1. Array</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>27</td>
+      <td><a href="">Remove Element</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="2-string">2. String</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>28</td>
+      <td><a href="">Implement strStr()</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="3-math">3. Math</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><a href="https://leetcode.com/problems/two-sum/">Two Sum</a></td>
+      <td><a href="https://github.com/scottjingtt/Algorithm/blob/master/leetcode/1_two_sum.md">Python</a> | <a href="../../../../2019/11/25/1_two_sum/index.html">Blog</a></td>
+      <td>Easy</td>
+      <td>Available soon</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td><a href="">Reverse Integer</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="4-tree">4. Tree</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>144</td>
+      <td><a href="">Binary Tree Preorder Traversal</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="5-backtracking">5. Backtracking</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>78</td>
+      <td><a href="">Subsets</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="6-dynamic-programming">6. Dynamic Programming</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>70</td>
+      <td><a href="">Climbing Stairs</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="7-linkedlist">7. LinkedList</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>206</td>
+      <td><a href="">Reverse Linked List</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="8-binary-search">8. Binary Search</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>35</td>
+      <td><a href="https://leetcode.com/problems/search-insert-position/">Search Insert Position</a></td>
+      <td><a href="">python</a>|<a href="../../../../2020/07/28/35_Search_Insert_position/index.html">Blog</a></td>
+      <td>Easy</td>
+      <td>Traverse or binary search</td>
+    </tr>
+    <tr>
+      <td>278</td>
+      <td><a href="">First Bad Version</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="9-matrix">9. Matrix</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>48</td>
+      <td><a href="">Rotate Image</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="10-dfs--bfs">10. DFS &amp; BFS</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>200</td>
+      <td><a href="">Number of Islands</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="11-stack--priority-queue">11. Stack &amp; Priority Queue</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>155</td>
+      <td><a href="">Min Stack</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="12-bit-manipulation">12. Bit Manipulation</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>389</td>
+      <td><a href="">Find the Difference</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="13-topological-sort">13. Topological Sort</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>207</td>
+      <td><a href="">Course Schedule</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="14-random">14. Random</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>384</td>
+      <td><a href="">Shuffle an Array</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="15-graph">15. Graph</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>133</td>
+      <td><a href="">Clone Graph</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="16-union-find">16. Union Find</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>261</td>
+      <td><a href="">Graph Valid Tree</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="17-trie">17. Trie</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>211</td>
+      <td><a href="">Add and Search Word - Data Structure Design</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="18-design">18. Design</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Solution</th>
+      <th>Difficulty</th>
+      <th>Quick hint</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>359</td>
+      <td><a href="">Logger Rate Limiter</a></td>
+      <td><a href="">python</a> | <a href="">Blog</a></td>
+      <td>–</td>
+      <td>Available soon</td>
+    </tr>
+  </tbody>
+</table>
+:ET

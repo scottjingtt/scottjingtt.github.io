@@ -38,7 +38,7 @@ Output: 0
 
 
 ### *Solution 1* - Loop all elements
-***Thinking***: Traverse all elements and check if it equal to the target. 
+***Thinking***: Traverse all elements and check if it equals to the target. 
 
 Time Complexity: $O(n)$
 
@@ -65,9 +65,9 @@ class Solution:
 ```
 
 ### *Solution 2* - Binary Search
-***Thinking***: Binary search insteaf of looping all elements. 
+***Thinking***: Binary search instead of looping all elements. 
 
-Time Complexity: $O(log \,\, n)$
+Time Complexity: $O(log  n)$
 
 Space Complexity: $O(1)$
 

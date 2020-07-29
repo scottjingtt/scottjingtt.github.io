@@ -2,7 +2,7 @@
 layout:     post
 title:      "Leetcode: Problem List"
 subtitle:   " Selected Leetcode Problem List"
-date:       2019-11-26 13:15:00
+date:       2020-07-29 01:18:00
 author:     "Scott"
 header-img: "img/posts/post-bg-20191125.jpg"
 catalog: true
@@ -12,7 +12,7 @@ tags:
     - Leetcode
 ---
 
-## LeetCode Selected Questions List
+## LeetCode Selected Problems List
 Please refer to the [Algorithm](https://github.com/scottjingtt/Algorithm) for more **Algorithm** knowledge and Leetcode **Solutions**.
 
 ### 1. Array
@@ -32,7 +32,7 @@ Please refer to the [Algorithm](https://github.com/scottjingtt/Algorithm) for mo
 
 | # | Title | Solution | Difficulty |      Quick hint  |
 |---| ----- | -------- | ---------- | -------------------------|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Python](https://github.com/scottjingtt/Algorithm/blob/master/leetcode/1_two_sum.md) \| [Blog](../../../11/25/1_two_sum/index.html)|Easy| Available soon |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Python](https://github.com/scottjingtt/Algorithm/blob/master/leetcode/1_two_sum.md) \| [Blog](../../../../2019/11/25/1_two_sum/index.html)| <font color='green'>Easy</font>| Hashmap; Look for remain |
 |7|[Reverse Integer]()| [python]() \| [Blog]()| -- | Available soon |
 
 ### 4. Tree
@@ -63,6 +63,7 @@ Please refer to the [Algorithm](https://github.com/scottjingtt/Algorithm) for mo
 
 | # | Title | Solution | Difficulty |      Quick hint  |
 |---| ----- | -------- | ---------- | -------------------------|
+|35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python]()\|[Blog](../../../../2020/07/28/35_Search_Insert_position/index.html) | <font color='green'>Easy</font>  | Traverse; Binary search |
 |278|[First Bad Version]()| [python]() \| [Blog]()| -- | Available soon |
 
 ### 9. Matrix
