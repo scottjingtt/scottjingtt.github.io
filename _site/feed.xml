@@ -5,8 +5,8 @@
     <description>Scott's Homepage</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 27 Jul 2020 20:17:26 -0400</pubDate>
-    <lastBuildDate>Mon, 27 Jul 2020 20:17:26 -0400</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2020 23:35:49 -0400</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2020 23:35:49 -0400</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
     
       <item>
@@ -37,13 +37,19 @@
 &lt;!-- [Just One Figure Paper Review Project - Github](https://github.com/scottjingtt/Just_One_Figure_Paper_Review/blob/master/DomainAdaptation.md) --&gt;
 
 &lt;!-- --- --&gt;
-&lt;h4 id=&quot;1-domain-symmetric-networks-for-adversarial-domain-adaptation-cvpr-2019--1&quot;&gt;1. &lt;a href=&quot;http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Domain-Symmetric_Networks_for_Adversarial_Domain_Adaptation_CVPR_2019_paper.html&quot;&gt;Domain-Symmetric Networks for Adversarial Domain Adaptation&lt;/a&gt;, CVPR 2019  [1]&lt;/h4&gt;
+&lt;h4 id=&quot;1-domain-symmetric-networks-for-adversarial-domain-adaptation-cvpr-2019-1&quot;&gt;1. &lt;a href=&quot;http://openaccess.thecvf.com/content_CVPR_2019/html/Zhang_Domain-Symmetric_Networks_for_Adversarial_Domain_Adaptation_CVPR_2019_paper.html&quot;&gt;Domain-Symmetric Networks for Adversarial Domain Adaptation&lt;/a&gt;, CVPR 2019 [1]&lt;/h4&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/posts/paperreview/zhang2019domain_caption.png?raw=true&quot; alt=&quot;SymNets&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-conditional-adversarial-domain-adaptation-nips-2018-2&quot;&gt;2. &lt;a href=&quot;http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation.pdf&quot;&gt;Conditional Adversarial Domain Adaptation&lt;/a&gt;, NIPS 2018 [2]&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/paperreview/long2018conditional.png?raw=true&quot; alt=&quot;CDAN&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
 
 &lt;p&gt;[1] Zhang, Yabin, Hui Tang, Kui Jia, and Mingkui Tan. “Domain-Symmetric Networks for Adversarial Domain Adaptation.” In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 5031-5040. 2019.&lt;/p&gt;
+
+&lt;p&gt;[2] Long, Mingsheng, Zhangjie Cao, Jianmin Wang, and Michael I. Jordan. “Conditional adversarial domain adaptation.” In Advances in Neural Information Processing Systems, pp. 1640-1650. 2018.&lt;/p&gt;
 </description>
         <pubDate>Mon, 27 Jul 2020 12:18:00 -0400</pubDate>
         <link>http://localhost:4000/2020/07/27/unsupervised_DA/</link>
