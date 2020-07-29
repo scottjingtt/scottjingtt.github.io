@@ -47,7 +47,7 @@ I am currently a Ph.D. student at the department of [Electrical and Computer Eng
 ### News
 - Jul. 2020: I get one paper accepted by **ACM MM 2020**.
 - Jan. 2020: We get one paper accepted by **FG 2020**.
-- Jan. 2019: Begin my new journey as **Ph.D.** student at Purdue University, USA.
+- Jan. 2019: Begin my new journey as a **Ph.D.** student at Purdue University, USA.
 - Sep. 2018: Start working as **Research Assistant** at Purdue University, USA
   
 ---

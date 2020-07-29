@@ -5,31 +5,9 @@
     <description>Scott's Homepage</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 28 Jul 2020 23:35:49 -0400</pubDate>
-    <lastBuildDate>Tue, 28 Jul 2020 23:35:49 -0400</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2020 23:44:38 -0400</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2020 23:44:38 -0400</lastBuildDate>
     <generator>Jekyll v4.1.1</generator>
-    
-      <item>
-        <title>Just One Figure Paper Review - ZSL</title>
-        <description>&lt;!-- # Zero-shot Learning --&gt;
-&lt;!-- [Just One Figure Paper Review Project - Github](https://github.com/scottjingtt/Just_One_Figure_Paper_Review/blob/master/DomainAdaptation.md) --&gt;
-
-&lt;h4 id=&quot;1&quot;&gt;1.&lt;/h4&gt;
-
-&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
-</description>
-        <pubDate>Mon, 27 Jul 2020 12:18:00 -0400</pubDate>
-        <link>http://localhost:4000/2020/07/27/zero_shot/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/07/27/zero_shot/</guid>
-        
-        <category>Zero-shot Learning</category>
-        
-        <category>Just One Figure Paper Review</category>
-        
-        <category>Paper Review</category>
-        
-        
-      </item>
     
       <item>
         <title>Just One Figure Paper Review - UDA</title>
@@ -51,11 +29,33 @@
 
 &lt;p&gt;[2] Long, Mingsheng, Zhangjie Cao, Jianmin Wang, and Michael I. Jordan. “Conditional adversarial domain adaptation.” In Advances in Neural Information Processing Systems, pp. 1640-1650. 2018.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 27 Jul 2020 12:18:00 -0400</pubDate>
-        <link>http://localhost:4000/2020/07/27/unsupervised_DA/</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/07/27/unsupervised_DA/</guid>
+        <pubDate>Tue, 28 Jul 2020 19:44:00 -0400</pubDate>
+        <link>http://localhost:4000/2020/07/28/unsupervised_DA/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/28/unsupervised_DA/</guid>
         
         <category>Domain Adaptation</category>
+        
+        <category>Just One Figure Paper Review</category>
+        
+        <category>Paper Review</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Just One Figure Paper Review - ZSL</title>
+        <description>&lt;!-- # Zero-shot Learning --&gt;
+&lt;!-- [Just One Figure Paper Review Project - Github](https://github.com/scottjingtt/Just_One_Figure_Paper_Review/blob/master/DomainAdaptation.md) --&gt;
+
+&lt;h4 id=&quot;1&quot;&gt;1.&lt;/h4&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+</description>
+        <pubDate>Mon, 27 Jul 2020 12:18:00 -0400</pubDate>
+        <link>http://localhost:4000/2020/07/27/zero_shot/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/07/27/zero_shot/</guid>
+        
+        <category>Zero-shot Learning</category>
         
         <category>Just One Figure Paper Review</category>
         

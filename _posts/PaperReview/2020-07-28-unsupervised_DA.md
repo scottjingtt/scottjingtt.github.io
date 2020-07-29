@@ -2,7 +2,7 @@
 layout:     post
 title:      "Just One Figure Paper Review - UDA"
 subtitle:   "- Unsupervised Domain Adaptation"
-date:       2020-07-27 16:18:00
+date:       2020-07-28 23:44:00
 author:     "Scott"
 header-img: "img/posts/post-bg-20191125.jpg"
 catalog: true
