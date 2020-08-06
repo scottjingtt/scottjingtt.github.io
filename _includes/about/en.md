@@ -31,7 +31,7 @@ Email: scottjingtt [AT] gmail [DOT] com
 [<a href="/files/CV.pdf">CV </a>]
 [<a href="https://scholar.google.com/citations?user=OTPyfwkAAAAJ&hl=en&oi=ao"> Google Scholar </a>]
 [<a href = "https://dblp.uni-trier.de/pers/hd/j/Jing:Taotao"> DBLP </a>]
-[<a href = "https://www.linkedin.com/in/taotao-jing-4757a5b8/"> LinkedIn </a>]
+[<a href = "https://www.linkedin.com/in/taotaojing/"> LinkedIn </a>]
 [<a href="https://github.com/scottjingtt" > Github </a>]
 </span>
 </p>
@@ -76,7 +76,7 @@ I am currently a Ph.D. student at the department of [Electrical and Computer Eng
   [Purdue University]((https://engineering.purdue.edu/ECE)), Indianapolis, USA
 - Research Assistant &nbsp;&nbsp; (Jan. 2018 - Jul. 2018)<br>
   [SmileLab](https://web.northeastern.edu/smilelab/), Northeastern University, Boston, USA
-- Research Assistant &nbsp;&nbsp; (Spe. 2015 - Jul. 2016)<br>
+- Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016)<br>
   [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), Xi'an, China
 
 ---
