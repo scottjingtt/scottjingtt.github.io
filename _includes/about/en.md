@@ -45,6 +45,7 @@ I am currently a Ph.D. student at the department of [Electrical and Computer Eng
 
 ---
 ### News
+- Aug. 2020: I get one paper accepted by **WACV 2021**.
 - Jul. 2020: I get one paper accepted by **ACM MM 2020**.
 - Jan. 2020: We get one paper accepted by **FG 2020**.
 - Jan. 2019: Begin my new journey as a **Ph.D.** student at Purdue University, USA.
@@ -52,8 +53,9 @@ I am currently a Ph.D. student at the department of [Electrical and Computer Eng
   
 ---
 ### Publications
-- **Taotao Jing**, Haifeng Xia, Zhengming Ding, "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation," ACM International Conference on Multimedia (**MM**), 2020. [Code][Paper][Poster]
-- Lichen Wang, Bin Sun, Joseph Robinson, **Taotao Jing**, and Yun Fu, “EV-Action: Electromyography-Vision Multi-Modal Action Dataset,” IEEE International Conference on Automatic Face and Gesture Recognition (**FG**), 2020. &nbsp;[[Code](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset)] [[Paper](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset/blob/master/presentations/FG20_EVAction.pdf)] [Poster]
+- **Taotao Jing**, Zhengming Ding, "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation", Winter Conference on Applications of Computer Vision (**WACV**), 2021. [[Code]()][[Paper]()][[Poster]()]
+- **Taotao Jing**, Haifeng Xia, Zhengming Ding, "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation," ACM International Conference on Multimedia (**MM**), 2020. [[Code]()][[Paper]()][[Poster]()]
+- Lichen Wang, Bin Sun, Joseph Robinson, **Taotao Jing**, and Yun Fu, “EV-Action: Electromyography-Vision Multi-Modal Action Dataset,” IEEE International Conference on Automatic Face and Gesture Recognition (**FG**), 2020. &nbsp;[[Code](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset)] [[Paper](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset/blob/master/presentations/FG20_EVAction.pdf)] [[Poster]()]
 
 ---
 ### Education
