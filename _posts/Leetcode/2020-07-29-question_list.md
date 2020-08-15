@@ -25,6 +25,7 @@ Please refer to the [Algorithm](https://github.com/scottjingtt/Algorithm) for mo
 
 | # | Title | Solution | Difficulty |      Quick hint  |
 |---| ----- | -------- | ---------- | -------------------------|
+|5 | [Longest Palindromic Substring]() | [Solution]() | <font color='green'>Easy</font> | middle to edge |
 |28|[Implement strStr()]()| [python]() \| [Blog]()| -- | Available soon |
 
 
