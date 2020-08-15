@@ -31,14 +31,14 @@ Output: "bb"
 ```
 
 
-### *Solution 1* - Loop all elements
+### *Solution 1*
 ***Thinking***:  Traverse all characters as "MIDDLE" or "LEFT & RIGHT"
 
 Time Complexity: $O(n^2)$
 
 Space Complexity: $O(1)$
 
-### <font color='green'>Success</font> 
+### <font color='green'>Accepted</font> 
 Runtime: 1072 ms
 
 Memory Usage: 13.9 MB

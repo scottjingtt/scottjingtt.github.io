@@ -19,14 +19,14 @@ Please refer to the [Algorithm](https://github.com/scottjingtt/Algorithm) for mo
 
 | # | Title | Solution | Difficulty |      Quick hint  |
 |---| ----- | -------- | --------- | -------------------------|
-|27|[Remove Element]()| [python](/_posts/Leetcode/2020-08-15-5_Longest_Palindromic_Substring.md) | -- | Available soon |
+|27|[Remove Element]()| [python]() | -- | Available soon |
 
 ### 2. String
 
 | # | Title | Solution | Difficulty |      Quick hint  |
 |---| ----- | -------- | ---------- | -------------------------|
-|5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python]() | <font color='gold'>Medium</font> | traverse middle |
-|28|[Implement strStr()]()| [Python](../../../../2020/08/15/5_Longest_Palindromic_Substring/index.html)| <font color='green'>Easy</font> | Available soon |
+|5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](/2020/08/15/5_Longest_Palindromic_Substring/index.html) | <font color='gold'>Medium</font> | traverse middle |
+|28|[Implement strStr()]()| [Python](/2020/08/15/28_Implement_strStr/index.html)| <font color='green'>Easy</font> | Available soon |
 
 
 ### 3. Math

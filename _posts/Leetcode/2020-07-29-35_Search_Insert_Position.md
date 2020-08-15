@@ -44,7 +44,7 @@ Time Complexity: $O(n)$
 
 Space Complexity: $O(1)$
 
-### <font color='green'>Success</font> 
+### <font color='green'>Accepted</font> 
 
 Runtime: **36** ms
 
