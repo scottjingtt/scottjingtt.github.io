@@ -25,10 +25,10 @@ tags:
 
 | # | Title | Solution | Difficulty |      Quick hint  |
 |---| ----- | -------- | ---------- | -------------------------|
-|5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](/2020/08/15/5_Longest_Palindromic_Substring/index.html) | <font color='gold'>Medium</font> | traverse middle |
-|28|[Implement strStr()]()| [Python](/2020/08/15/28_Implement_strStr/index.html)| <font color='green'>Easy</font> | -- |
-|125| [Valid Palindrome](hhttps://leetcode.com/problems/valid-palindrome/) | [Python](/2020/08/15/125_Valid_Palindrome/index.html) | <font color='green'>Easy</font> | -- |
-|409| [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](/2020/08/15/409_Longest_Palindrome/index.html) | <font color='green'>Easy</font> | -- |
+|5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](/2020/08/15/5_Longest_Palindromic_Substring/index.html) | <font color='gold'>Medium</font> | Traverse middle |
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)| [Python](/2020/08/15/28_Implement_strStr/index.html)| <font color='green'>Easy</font> | String  |
+|125| [Valid Palindrome](hhttps://leetcode.com/problems/valid-palindrome/) | [Python](/2020/08/15/125_Valid_Palindrome/index.html) | <font color='green'>Easy</font> | Two pointers |
+|409| [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Python](/2020/08/15/409_Longest_Palindrome/index.html) | <font color='green'>Easy</font> | Hashmap |
 
 
 ### 3. Math
