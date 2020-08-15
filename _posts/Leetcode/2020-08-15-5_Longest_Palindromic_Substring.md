@@ -39,9 +39,9 @@ Time Complexity: $O(n^2)$
 Space Complexity: $O(1)$
 
 ### <font color='green'>Accepted</font> 
-Runtime: 1072 ms
+Runtime: $<69.44\%$
 
-Memory Usage: 13.9 MB
+Memory Usage: $<52.34\%$
 
 ```python
 class Solution:

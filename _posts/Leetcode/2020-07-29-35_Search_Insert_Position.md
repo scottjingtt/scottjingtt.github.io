@@ -46,7 +46,7 @@ Space Complexity: $O(1)$
 
 ### <font color='green'>Accepted</font> 
 
-Runtime: **36** ms
+Runtime: $<99.86\%$
 
 Memory Usage: **14.7** MB
 

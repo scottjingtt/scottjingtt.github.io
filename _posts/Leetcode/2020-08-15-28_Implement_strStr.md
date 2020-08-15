@@ -34,14 +34,14 @@ Output: -1
 ### *Solution 1*
 ***Thinking***: To limit the time complexity, don't need to check all characters in the haystack, just when the left substring length is shorter than the needle length, can stop there. 
 
-Time Complexity: $O(N*M)$, where N is the string length, M is the needle length
+Time Complexity: $O(n*m)$, where n is the string length, m is the needle length
 
 Space Complexity: $O(1)$
 
 ### <font color='green'>Accepted</font> 
-Runtime: 36 ms
+Runtime: $<58.93\%$
 
-Memory Usage: 13.8 MB
+Memory Usage: $<95.93\%$
 
 ```python
 class Solution:
