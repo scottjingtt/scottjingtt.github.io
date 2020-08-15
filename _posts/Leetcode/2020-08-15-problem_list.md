@@ -66,7 +66,7 @@ tags:
 
 | # | Title | Solution | Difficulty |      Quick hint  |
 |---| ----- | -------- | ---------- | -------------------------|
-|35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python]()\|[Blog](../../../../2020/07/28/35_Search_Insert_position/index.html) | <font color='green'>Easy</font>  | Traverse; Binary search |
+|35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python](/2020/07/28/35_Search_Insert_position/index.html) | <font color='green'>Easy</font>  | Traverse; Binary search |
 |278|[First Bad Version]()| [python]() | -- | Available soon |
 
 ### 9. Matrix
