@@ -35,7 +35,7 @@ tags:
 
 | # | Title | Solution | Difficulty |      Quick hint  |
 |---| ----- | -------- | ---------- | -------------------------|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Python](../../../../2019/11/25/1_Two_Sum/index.html)| <font color='green'>Easy</font>| Hashmap; Look for remain |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Python](2019/11/25/1_Two_Sum/index.html)| <font color='green'>Easy</font>| Hashmap; Look for remain |
 |7|[Reverse Integer]()| [python]() | -- | Available soon |
 
 ### 4. Tree
@@ -68,6 +68,7 @@ tags:
 |---| ----- | -------- | ---------- | -------------------------|
 |35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python](/2020/07/28/35_Search_Insert_position/index.html) | <font color='green'>Easy</font>  | Traverse; Binary search |
 |278|[First Bad Version]()| [python]() | -- | Available soon |
+|704| [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](/2020/08/15/704_Binary_Search/index.html) | <font color='green'>Easy</font> | Recursion or Iteration |
 
 ### 9. Matrix
 
