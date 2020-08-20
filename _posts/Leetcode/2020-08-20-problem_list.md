@@ -2,7 +2,7 @@
 layout:     post
 title:      "Leetcode: Problem List"
 subtitle:   " Selected Leetcode Problem List"
-date:       2020-08-15 01:43:00
+date:       2020-08-20 13:20:00
 author:     "Scott"
 header-img: "img/posts/post-bg-20191125.jpg"
 catalog: true
@@ -69,6 +69,7 @@ tags:
 |35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [python](/2020/07/28/35_Search_Insert_position/index.html) | <font color='green'>Easy</font>  | Traverse; Binary search |
 |278|[First Bad Version]()| [python]() | -- | Available soon |
 |704| [Binary Search](https://leetcode.com/problems/binary-search/) | [Python](/2020/08/15/704_Binary_Search/index.html) | <font color='green'>Easy</font> | Recursion or Iteration |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Python](/2020/08/20/4_Median_of_Two_Sorted_Arrays/index.html) | <font color='red'>Hard</font> | Find Kth element | 
 
 ### 9. Matrix
 
