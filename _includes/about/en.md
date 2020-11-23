@@ -14,12 +14,12 @@
 <h3 href='scottjingtt.github.io'>Taotao(Scott) Jing</h3>
 <p>
 <span style="font-weight:bold">Ph.D. Student</span><br>
-Department of Electrical and Computer Engineering<br>
-Purdue University
+Department of Computer Science<br>
+Tulane University
 </p>
 <p>
-Room 245, Engineering and Technology Building<br>
-799 W Michigan Street, Indianapolis, IN 46202, USA
+6823 St. Charles Avenue<br>
+New Orleans, LA 70118
 </p>
 <p>
 <span>
@@ -41,10 +41,11 @@ Email: scottjingtt [AT] gmail [DOT] com
 </table>
 
 ### Biography
-I am currently a Ph.D. student at the department of [Electrical and Computer Engineering, Purdue University](https://engineering.purdue.edu/ECE), advised by [Prof. Z. Allan Ding](http://allanding.net/). My research interests lie in machine learning, computer vision, deep learning, and transfer learning.
+I am currently a Ph.D. student at the department of [Computer Science, Tulane University](https://sse.tulane.edu/cs), advised by [Prof. Z. Allan Ding](http://allanding.net/). My research interests lie in machine learning, computer vision, deep learning, and transfer learning.
 
 ---
 ### News
+- Dec. 2020 Start my new journey as a **Ph.D.** student at Tulane University, USA
 - Aug. 2020: I post one paper on Arxiv
 - Aug. 2020: I get one paper accepted by **WACV 2021**.
 - Jul. 2020: I get one paper accepted by **ACM MM 2020**.
@@ -61,7 +62,11 @@ I am currently a Ph.D. student at the department of [Electrical and Computer Eng
 
 ---
 ### Education
-- **Ph.D.** Student in Electrical and Computer Engineering &nbsp;&nbsp;(Jan. 2019 - **Present**) <br>
+- **Ph.D.** Student in Computer Science &nbsp;&nbsp;(Dec. 2020 - **Present**) <br>
+  [Department of Computer Science<br>
+  Tulane University, New Orleans, USA](https://sse.tulane.edu/cs)
+
+- **Ph.D.** Student in Electrical and Computer Engineering &nbsp;&nbsp;(Jan. 2019 - Dec. 2020) <br>
   [Department of Electrical and Computer Engineering<br>
   Purdue University, Indianapolis, USA](https://engineering.purdue.edu/ECE)
 
@@ -76,7 +81,9 @@ I am currently a Ph.D. student at the department of [Electrical and Computer Eng
 
 ---
 ### Research Experience
-- Research Assistant &nbsp;&nbsp; (Sep. 2018 - **Present**)<br>
+- Research Assistant &nbsp;&nbsp; (Dec. 2020 - **Present**)<br>
+  [Tulane University]((https://sse.tulane.edu/cs)), New Orleans, USA
+- Research Assistant &nbsp;&nbsp; (Sep. 2018 - Dec. 2020)<br>
   [Purdue University]((https://engineering.purdue.edu/ECE)), Indianapolis, USA
 - Research Assistant &nbsp;&nbsp; (Jan. 2018 - Jul. 2018)<br>
   [SmileLab](https://web.northeastern.edu/smilelab/), Northeastern University, Boston, USA
@@ -86,6 +93,7 @@ I am currently a Ph.D. student at the department of [Electrical and Computer Eng
 ---
 ### Academic Service
 ##### Reviewer
+- Winter Conference on Applications of Computer Vision (WACV)
 - IS&T SPIE Journal of Electronic Imaging (SPIE JEI)
 - European Conference on Artificial Intelligence (ECAI)
   
