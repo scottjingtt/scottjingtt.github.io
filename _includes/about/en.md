@@ -23,7 +23,7 @@ New Orleans, LA 70118
 </p>
 <p>
 <span>
-Email: scottjingtt [AT] gmail [DOT] com
+Email: tjing [AT] tulane [DOT] edu
 </span>
 </p>
 <p>
