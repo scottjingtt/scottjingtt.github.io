@@ -54,7 +54,7 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
   
 ---
 ### Publications
-- **Taotao Jing**, Zhengming Ding, "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation", Winter Conference on Applications of Computer Vision (**WACV**), 2021. [[[Paper](https://arxiv.org/pdf/2008.11878.pdf)]]
+- **Taotao Jing**, Zhengming Ding, "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation", Winter Conference on Applications of Computer Vision (**WACV**), 2021. [[Paper](https://arxiv.org/pdf/2008.11878.pdf)]
 - **Taotao Jing**, Haifeng Xia, Zhengming Ding, "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation," ACM International Conference on Multimedia (**MM**), 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413986)]
 - Lichen Wang, Bin Sun, Joseph Robinson, **Taotao Jing**, and Yun Fu, “EV-Action: Electromyography-Vision Multi-Modal Action Dataset,” IEEE International Conference on Automatic Face and Gesture Recognition (**FG**), 2020. &nbsp;[[Code](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset)] [[Paper](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset/blob/master/presentations/FG20_EVAction.pdf)]
 
