@@ -60,7 +60,7 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
 
 ---
 ### Education
-- **Ph.D.** Student in Computer Science &nbsp;&nbsp;(Jan. 2020 - **Present**) <br>
+- **Ph.D.** Student in Computer Science &nbsp;&nbsp;(Jan. 2021 - **Present**) <br>
   [Department of Computer Science<br>
   Tulane University, New Orleans, USA](https://sse.tulane.edu/cs)
 
@@ -79,7 +79,7 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
 
 ---
 ### Research Experience
-- Research Assistant &nbsp;&nbsp; (Jan. 2020 - **Present**)<br>
+- Research Assistant &nbsp;&nbsp; (Jan. 2021 - **Present**)<br>
   [Tulane University]((https://sse.tulane.edu/cs)), New Orleans, USA
 - Research Assistant &nbsp;&nbsp; (Sep. 2018 - Dec. 2020)<br>
   [Purdue University]((https://engineering.purdue.edu/ECE)), Indianapolis, USA
