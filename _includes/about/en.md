@@ -45,7 +45,8 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
 
 ---
 ### News
-- Jan. 2021 Start my new journey as a **Ph.D.** student at Tulane University, USA
+- Jul. 2021: We get one paper accepted by **ACM MM 2022**.
+- Jan. 2021: Start my new journey as a **Ph.D.** student at Tulane University, USA
 - Aug. 2020: We get one paper accepted by **WACV 2021**.
 - Jul. 2020: We get one paper accepted by **ACM MM 2020**.
 - Jan. 2020: We get one paper accepted by **FG 2020**.
