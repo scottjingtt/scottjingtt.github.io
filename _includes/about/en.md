@@ -56,11 +56,11 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
   
 ---
 ### Publications
-- **Taotao Jing**, Hongfu Liu, and Zhengming Ding. "Towards Novel Target Discovery Through Open-Set Domain Adaptation." In Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**) (**Oral**), 2021. [[Paper]()]
-- - Haifeng Xia, **Taotao Jing**, and Zhengming Ding "Semi-supervised Domain Adaptation Retrieval via Discriminative Hashing Learning." In Proceedings of the ACM International Conference on Multimedia (**MM**), 2021. [[Paper]()]
-- **Taotao Jing**, Zhengming Ding. "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation." In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2021. [[Paper](https://arxiv.org/pdf/2008.11878.pdf)]
-- **Taotao Jing**, Haifeng Xia, Zhengming Ding, "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation," In Proceedings of the ACM International Conference on Multimedia (**MM**), 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413986)]
-- Lichen Wang, Bin Sun, Joseph Robinson, **Taotao Jing**, and Yun Fu. “EV-Action: Electromyography-Vision Multi-Modal Action Dataset.” In IEEE International Conference on Automatic Face and Gesture Recognition (**FG**), 2020. &nbsp;[[Code](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset)] [[Paper](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset/blob/master/presentations/FG20_EVAction.pdf)]
+- **Taotao Jing**, Hongfu Liu, and Zhengming Ding. "Towards Novel Target Discovery Through Open-Set Domain Adaptation." *In Proceedings of the IEEE/CVF International Conference on Computer Vision* (**ICCV**) (**Oral**), 2021. [[Paper]()]
+- Haifeng Xia, **Taotao Jing**, and Zhengming Ding "Semi-supervised Domain Adaptation Retrieval via Discriminative Hashing Learning." *In Proceedings of the ACM International Conference on Multimedia* (**MM**), 2021. [[Paper]()]
+- **Taotao Jing**, Zhengming Ding. "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation." *In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**), 2021. [[Paper](https://arxiv.org/pdf/2008.11878.pdf)]
+- **Taotao Jing**, Haifeng Xia, Zhengming Ding, "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation," *In Proceedings of the ACM International Conference on Multimedia* (**MM**), 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413986)]
+- Lichen Wang, Bin Sun, Joseph Robinson, **Taotao Jing**, and Yun Fu. “EV-Action: Electromyography-Vision Multi-Modal Action Dataset.” *In IEEE International Conference on Automatic Face and Gesture Recognition* (**FG**), 2020. &nbsp;[[Code](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset)] [[Paper](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset/blob/master/presentations/FG20_EVAction.pdf)]
 
 ---
 ### Education
