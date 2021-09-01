@@ -45,6 +45,7 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
 
 ---
 ### News
+- Sep. 2021: We get one paper accepted by **IEEE Transactions on Image Processing (TIP)**.
 - Jul. 2021: We get one paper accepted by **ICCV 2021** (**Oral**).
 - Jul. 2021: We get one paper accepted by **ACM MM 2021** (**Oral**).
 - Jan. 2021: Start my new journey as a **Ph.D.** student at Tulane University, USA
