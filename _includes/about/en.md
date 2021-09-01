@@ -57,6 +57,7 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
   
 ---
 ### Publications
+- **Taotao Jing**, Bingrong Xu, and Zhengming Ding. "Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation." *IEEE Transactions on Image Processing*, 2021. [[Paper]()]
 - **Taotao Jing**, Hongfu Liu, and Zhengming Ding. "Towards Novel Target Discovery Through Open-Set Domain Adaptation." *In Proceedings of the IEEE/CVF International Conference on Computer Vision* (**ICCV**) (**Oral**), 2021. [[Paper]()]
 - Haifeng Xia, **Taotao Jing**, and Zhengming Ding "Semi-supervised Domain Adaptation Retrieval via Discriminative Hashing Learning." *In Proceedings of the ACM International Conference on Multimedia* (**MM**) (**Oral**), 2021. [[Paper]()]
 - **Taotao Jing**, Zhengming Ding. "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation." *In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**), 2021. [[Paper](https://arxiv.org/pdf/2008.11878.pdf)]
