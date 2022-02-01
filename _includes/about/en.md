@@ -41,7 +41,7 @@ Email: tjing [AT] tulane [DOT] edu
 </table>
 
 ### Biography
-I am currently a Ph.D. student at the department of [Computer Science, Tulane University](https://sse.tulane.edu/cs), advised by [Prof. Z. Allan Ding](http://www.cs.tulane.edu/~zding1/). My research interests lie in machine learning, computer vision, deep learning, and transfer learning.
+I am currently a Ph.D. student at the department of [Computer Science, Tulane University](https://sse.tulane.edu/cs), advised by [Prof. Z. Allan Ding](http://www.cs.tulane.edu/~zding1/). My research interests lie in computer vision, deep learning, transfer learning, and interpretable machine learning.
 
 ---
 ### News
@@ -94,13 +94,21 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
 - Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016)<br>
   [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), Xi'an, China
 
+
 ---
-### Academic Service
-##### Reviewer
+### Professional Activities
+**Activities & Talks**
+- Oral presentation: "Towards Novel Target Discovery Through Open-Set Domain Adaptation" &nbsp;&nbsp; (ICCV 2021)<br>
+- Poster presentation: "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation." &nbsp;&nbsp; (WACV 2021)<br>
+- Poster presentation: "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation" &nbsp;&nbsp; (ACM MM 2020)<br>
+
+**Reviewer**
 - Conference on Computer Vision and Pattern Recognition (CVPR)
 - Winter Conference on Applications of Computer Vision (WACV)
-- IS&T SPIE Journal of Electronic Imaging (SPIE JEI)
 - European Conference on Artificial Intelligence (ECAI)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IET Image Processig
+- Journal of Electronic Imaging (SPIE JEI)
 - Journal of Information Sciences (INS)
   
 ---
