@@ -97,7 +97,7 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
 
 ---
 ### Professional Activities
-**Activities & Talks**
+**Presentations & Talks**
 - Oral presentation: "Towards Novel Target Discovery Through Open-Set Domain Adaptation" &nbsp;&nbsp; (ICCV 2021)<br>
 - Poster presentation: "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation." &nbsp;&nbsp; (WACV 2021)<br>
 - Poster presentation: "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation" &nbsp;&nbsp; (ACM MM 2020)<br>
