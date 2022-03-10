@@ -18,7 +18,7 @@ zhihu_username:
 github_username:    scottjingtt
 twitter_username:   
 facebook_username:  
-linkedin_username:  taotao-jing-4757a5b8/
+linkedin_username:  taotaojing/
 
 
 
@@ -102,7 +102,7 @@ page-mathjax: false
 
 
 # Links
-Links: [
+friends: [
     {
         title: "Zhengming (Allan) Ding",
         href: "http://www.cs.tulane.edu/~zding1/"

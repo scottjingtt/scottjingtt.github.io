@@ -1,0 +1,73 @@
+---
+layout:     post
+title:      "Blog List Test"
+subtitle:   " \"Subtitle Test.\""
+date:       2022-03-10 00:05:00
+author:     "Scott"
+header-img: "img/posts/post-bg-20191125.jpg"
+catalog: true
+mathjax: true
+header-mask: 0.5
+tags:
+    - Test
+---
+
+> Indent test.
+---
+
+[Jump to Code Test section ](#codetest) 
+
+
+
+### Image Test
+---
+This is the catalog section. 
+![Insert Image Test](/img/posts/post-bg-20191125.jpg){:height="50%" width="30%"}
+
+![Scott Jing](/img/website/scott.jpg){:height="100px" width="100px"}
+
+
+### List Test
+---
+- Item One
+  - Sub item one
+  - Sub item two
+    - subsub item one
+- Item Two
+- Item Three
+
+### Math Equation Test
+---
+This is an inline equation $T(n) = T(\frac{1}{n}) + \frac{1}{n^2} \cdot log_{5}{3^n}$
+
+Independent euqation test: 
+
+$$
+O(n) = \sum_{i=0}^{i=n}f_{XY}(x,y)
+$$
+
+<p id = "codetest"></p>
+### Code Test
+---
+`This is an inline sample Python code`
+```python
+def TestFunc(x,y,n):
+    for i in range(n):
+        z = x+y
+    return z
+
+```
+
+### Table Test
+
+| col1 | col2 | col3 |
+| :------- | :---------: | ---------: |
+| 02442424001 | 00020000 | 0452425424003 |
+
+### Reference Test 
+
+Ref. One [1] 
+
+Ref. Two [2]
+
+Ref. Three [3]
