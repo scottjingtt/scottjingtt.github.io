@@ -24,7 +24,7 @@ tags:
 This is the catalog section. 
 ![Insert Image Test](/img/posts/post-bg-20191125.jpg){:height="50%" width="30%"}
 
-![Scott Jing](/img/scott.jpg){:height="100px" width="100px"}
+![Scott Jing](/img/website/scott.jpg){:height="100px" width="100px"}
 
 
 ### List Test

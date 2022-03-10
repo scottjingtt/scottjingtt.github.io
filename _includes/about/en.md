@@ -1,5 +1,5 @@
 <!-- 
-![Scott Jing](/img/scott.jpg){:height="30%" width="30%"} -->
+![Scott Jing](/img/website/scott.jpg){:height="30%" width="30%"} -->
 
 <table>
 <tbody>
@@ -7,7 +7,7 @@
 <td width="30%">
 <div>
 <br>
-<img src='/img/scott.jpg' align='center' height="100%" width="100%" />
+<img src='/img/website/scott.jpg' align='center' height="100%" width="100%" />
 </div>
 </td>
 <td width="70%">
@@ -96,7 +96,7 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
 
 
 ---
-### Professional Activities
+### Activities
 **Presentations & Talks**
 - Oral presentation: "Towards Novel Target Discovery Through Open-Set Domain Adaptation" &nbsp;&nbsp; (ICCV 2021)<br>
 - Poster presentation: "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation." &nbsp;&nbsp; (WACV 2021)<br>
@@ -106,25 +106,11 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
 - Conference on Computer Vision and Pattern Recognition (CVPR)
 - Winter Conference on Applications of Computer Vision (WACV)
 - European Conference on Artificial Intelligence (ECAI)
+- IEEE Transactions on Neural Networks and Learning System (TNNLS)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-- IET Image Processig
+- Image Processig (IET)
 - Journal of Electronic Imaging (SPIE JEI)
 - Journal of Information Sciences (INS)
   
 ---
-
-
-<!-- ### Publications
-- Jounal Articles
-  - 1. 
-  - 2. 
-- Conference Articles
-  - 1. 
-  - 2. 
---- -->
-<!-- ### Professional Activities
-- Reviewer for ...
-
---- -->
-<!-- ### Awards -->
 
