@@ -1,20 +1,20 @@
 {
-    "name": "hux-blog",
-    "title": "Hux Blog",
-    "author": "Hux <huxpro@gmail.com>",
+    "name": "Scott Homepage",
+    "title": "Scott Homepage",
+    "author": "Scott <email>",
     "version": "1.8.2",
-    "homepage": "http://huxpro.github.io",
+    "homepage": "http://scottjingtt.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Huxpro/huxpro.github.io"
+        "url": "https://github.com/scottjingtt/scottjingtt.github.io"
     },
-    "bugs": "https://github.com/Huxpro/huxpro.github.io/issues",
+    "bugs": "https://github.com/scottjingtt/scottjingtt.github.io/issues",
     "devDependencies": {
-        "grunt": "~1.3.0",
-        "grunt-contrib-less": "~0.11.4",
+        "grunt": ">=1.3.0",
+        "grunt-contrib-less": "^2.0.0",
         "grunt-contrib-watch": "~0.6.1",
         "grunt-banner": "~0.2.3",
-        "grunt-contrib-uglify": "~0.5.1"
+        "grunt-contrib-uglify": "^4.0.1"
     },
     "scripts": {
         "start" : "jekyll serve -w -l --host 0.0.0.0 --port 4000",
