@@ -42,9 +42,9 @@ This is an inline equation $T(n) = T(\frac{1}{n}) + \frac{1}{n^2} \cdot log_{5}{
 
 Independent euqation test: 
 
-$$
+$
 O(n) = \sum_{i=0}^{i=n}f_{XY}(x,y)
-$$
+$
 
 <p id = "codetest"></p>
 ### Code Test

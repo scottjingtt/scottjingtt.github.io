@@ -106,7 +106,7 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
 - [SmileLab](https://web.northeastern.edu/smilelab/), Northeastern University, Boston, USA <br>
   <img style="float:right; max-width:6%; margin-top:0;" src="/img/logos/neu_logo_red.png" />
   Research Assistant &nbsp;&nbsp; (Jan. 2018 - Jul. 2018)<br>
-  Supervisor: Prof. [Yun (Raymond) Fu](http://www1.ece.neu.edu/~yunfu/) <br>
+  Supervisor: Prof. [Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) <br>
   **Topic**: Multi-view Learning, Action Recognition
   
 - [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), Xi'an, China <br>
