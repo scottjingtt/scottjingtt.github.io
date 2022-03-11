@@ -1,0 +1,28 @@
+I"�<h3 id="tfkt">TFKT</h3>
+<p><img src="/img/research/EV.png" alt="EV" height="100%" width="100%" /></p>
+
+<h3 id="citation">Citation</h3>
+<p>If you think this work is interesting, feel free to cite</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+</pre></td><td class="rouge-code"><pre>@inproceedings{wang2020ev,
+  title={Ev-action: Electromyography-vision multi-modal action dataset},
+  author={Wang, Lichen and Sun, Bin and Robinson, Joseph and Jing, Taotao and Fu, Yun},
+  booktitle={2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020)},
+  pages={160--167},
+  year={2020},
+  organization={IEEE}
+}
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h3 id="reference">Reference</h3>
+
+<p>[1] Wang, Lichen, Bin Sun, Joseph Robinson, Taotao Jing, and Yun Fu. “Ev-action: Electromyography-vision multi-modal action dataset.” In 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020), pp. 160-167. IEEE, 2020.</p>
+:ET

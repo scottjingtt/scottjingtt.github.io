@@ -1,0 +1,30 @@
+I"�<h3 id="tfkt">TFKT</h3>
+<p><img src="/img/research/TFKT.png" alt="TFKT" height="100%" width="100%" /></p>
+
+<h3 id="citation">Citation</h3>
+<p>If you think this work is interesting, feel free to cite</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+</pre></td><td class="rouge-code"><pre>@article{jing2021towards,
+  title={Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation},
+  author={Jing, Taotao and Xu, Bingrong and Ding, Zhengming},
+  journal={IEEE Transactions on Image Processing},
+  volume={30},
+  pages={8200--8211},
+  year={2021},
+  publisher={IEEE}
+}
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h3 id="reference">Reference</h3>
+
+<p>[1] Jing, Taotao, Bingrong Xu, and Zhengming Ding. “Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation.” IEEE Transactions on Image Processing 30 (2021): 8200-8211.</p>
+:ET

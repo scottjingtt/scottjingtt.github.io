@@ -19,7 +19,8 @@
                 <a data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}" 
                     href="{{ site.baseurl }}/archive/?tag={{ tag[0] | url_encode }}"
                     title="{{ tag[0] }}"
-                    rel="{{ tag[1].size }}">{{ tag[0] }}</a>__SEPARATOR__
+                    rel="{{ tag[1].size }}"
+                    style="color:rgb(38, 55, 85) !important">{{ tag[0] }}</a>__SEPARATOR__
         {% endif %}{% endfor %}
         {% endcapture %}
         {{ tags | split:'__SEPARATOR__' | sort }}

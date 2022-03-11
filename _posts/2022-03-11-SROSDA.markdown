@@ -1,0 +1,38 @@
+---
+layout:     post
+title:      "Towards Novel Target Discovery Through Open-Set Domain Adaptation"
+subtitle:   "Taotao Jing, Hongfu Liu, Zhengming Ding"
+date:       2022-03-11 16:00:00
+author:     "Scott"
+header-img: "img/research/SROSDA.png"
+catalog: true
+mathjax: true
+header-mask: 0.5
+tags:
+    - Domain Adaptation
+    - Open-set Domain Adaptation
+    - Transfer Learning
+    - Multi-modality Learning
+---
+### TFKT
+![SROSDA](/img/research/SROSDA.png){:height="100%" width="100%"}
+
+
+### Citation
+If you think this work is interesting, feel free to cite
+
+```
+@inproceedings{jing2021towards,
+  title={Towards novel target discovery through open-set domain adaptation},
+  author={Jing, Taotao and Liu, Hongfu and Ding, Zhengming},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={9322--9331},
+  year={2021}
+}
+
+```
+
+
+### Reference
+
+[1] Jing, Taotao, Hongfu Liu, and Zhengming Ding. "Towards novel target discovery through open-set domain adaptation." In Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 9322-9331. 2021.

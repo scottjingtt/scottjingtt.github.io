@@ -1,0 +1,36 @@
+---
+layout:     post
+title:      "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation"
+subtitle:   "Taotao Jing, Haifeng Xia, Zhengming Ding"
+date:       2022-03-11 16:00:00
+author:     "Scott"
+header-img: "img/research/AAKT.png"
+catalog: true
+mathjax: true
+header-mask: 0.5
+tags:
+    - Domain Adaptation
+    - Partial Domain Adaptation
+    - Transfer Learning
+---
+### TFKT
+![AAKT](/img/research/AAKT.png){:height="100%" width="100%"}
+
+
+### Citation
+If you think this work is interesting, feel free to cite
+
+```
+@inproceedings{jing2020adaptively,
+  title={Adaptively-accumulated knowledge transfer for partial domain adaptation},
+  author={Jing, Taotao and Xia, Haifeng and Ding, Zhengming},
+  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
+  pages={1606--1614},
+  year={2020}
+}
+```
+
+
+### Reference
+
+[1] Jing, Taotao, Haifeng Xia, and Zhengming Ding. "Adaptively-accumulated knowledge transfer for partial domain adaptation." In Proceedings of the 28th ACM International Conference on Multimedia, pp. 1606-1614. 2020.

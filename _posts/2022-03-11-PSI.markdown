@@ -1,0 +1,39 @@
+---
+layout:     post
+title:      "PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car"
+subtitle:   "Tina Chen&ast, Taotao Jing, Renran Tian, Yaobin Chen, Joshua Domeyer, Heishiro Toyoda, Rini Sherony, Zhengming Ding"
+date:       2022-03-11 16:00:00
+author:     "Scott"
+header-img: "img/research/PSI.png"
+catalog: true
+mathjax: true
+header-mask: 0.5
+tags:
+    - Autonomous Driving
+    - Pedestrian Intention Estimation
+    - Trajectory Prediction
+    - Interpretable AI
+    - Dataset
+---
+### PSI
+![PSI](/img/research/PSI.png){:height="100%" width="100%"}
+
+
+### Citation
+If you think this work is interesting, feel free to cite
+
+```
+@article{chen2021psi,
+  title={PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car},
+  author={Chen, Tina and Tian, Renran and Chen, Yaobin and Domeyer, Joshua and Toyoda, Heishiro and Sherony, Rini and Jing, Taotao and Ding, Zhengming},
+  journal={arXiv preprint arXiv:2112.02604},
+  year={2021}
+}
+
+
+```
+
+
+### Reference
+
+[1] Chen, Tina, Renran Tian, Yaobin Chen, Joshua Domeyer, Heishiro Toyoda, Rini Sherony, Taotao Jing, and Zhengming Ding. "PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car." arXiv preprint arXiv:2112.02604 (2021).

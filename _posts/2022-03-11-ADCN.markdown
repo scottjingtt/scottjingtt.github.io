@@ -1,0 +1,35 @@
+---
+layout:     post
+title:      "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation"
+subtitle:   "Taotao Jing, Zhengming Ding"
+date:       2022-03-11 16:00:00
+author:     "Scott"
+header-img: "img/research/ADCN.png"
+catalog: true
+mathjax: true
+header-mask: 0.5
+tags:
+    - Domain Adaptation
+    - Transfer Learning
+---
+### TFKT
+![ADCN](/img/research/ADCN.png){:height="100%" width="100%"}
+
+
+### Citation
+If you think this work is interesting, feel free to cite
+
+```
+@inproceedings{jing2021adversarial,
+  title={Adversarial dual distinct classifiers for unsupervised domain adaptation},
+  author={Jing, Taotao and Ding, Zhengming},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={605--614},
+  year={2021}
+}
+```
+
+
+### Reference
+
+[1] Jing, Taotao, and Zhengming Ding. "Adversarial dual distinct classifiers for unsupervised domain adaptation." In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 605-614. 2021.
