@@ -7,7 +7,7 @@
 <td width="30%">
 <div>
 <br>
-<img src='/img/website/scott.jpg' align='center' height="100%" width="100%" />
+<img src='/img/website/scott.jpg' style="height:60%; width:60%; margin-top:20%; margin-left:20%"/>
 </div>
 </td>
 <td width="70%">
@@ -28,11 +28,13 @@ Email: tjing [AT] tulane [DOT] edu
 </p>
 <p>
 <span>
-[<a href="/files/CV.pdf">CV </a>]
-[<a href="https://scholar.google.com/citations?user=OTPyfwkAAAAJ&hl=en&oi=ao"> Google Scholar </a>]
+[<a href = "/files/CV.pdf">CV </a>]
+[<a href = "https://scholar.google.com/citations?user=OTPyfwkAAAAJ&hl=en&oi=ao"> Google Scholar </a>]
 [<a href = "https://dblp.uni-trier.de/pers/hd/j/Jing:Taotao"> DBLP </a>]
+[<a href = "https://publons.com/researcher/4941569/taotao-jing"> Publons </a>]
+[<a href = "https://www.researchgate.net/profile/Taotao-Jing"> Research Gate </a>]
 [<a href = "https://www.linkedin.com/in/taotaojing/"> LinkedIn </a>]
-[<a href="https://github.com/scottjingtt" > Github </a>]
+[<a href = "https://github.com/scottjingtt" > Github </a>]
 </span>
 </p>
 </td>
@@ -67,32 +69,49 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
 ---
 ### Education
 - **Ph.D.** Student in Computer Science &nbsp;&nbsp;(Jan. 2021 - **Present**) <br>
-  [Department of Computer Science<br>
+  <img style="float:right; max-width:6%; margin-top:0" src="/img/logos/tulane_logo_square.png"/>
+  [Department of Computer Science <br>
   Tulane University, New Orleans, USA](https://sse.tulane.edu/cs)
 
 - **Ph.D.** Student in Electrical and Computer Engineering &nbsp;&nbsp;(Jan. 2019 - Dec. 2020) <br>
+  <img style="float:right; max-width:6%; margin-top:0" src="/img/logos/purdue_logo_square.png"/>
   [Department of Electrical and Computer Engineering<br>
   Purdue University, Indianapolis, USA](https://engineering.purdue.edu/ECE)
 
 - **M.S.** Degree in Computer System Engineering&nbsp;&nbsp;(Sep. 2016 - Jul. 2018) <br>
+  <img style="float:right; max-width:6%; margin-top:0" src="/img/logos/neu_logo_red.png"/>
   [Department of Electrical and Computer Engineering <br>
   Northeastern University, Boston, USA](https://ece.northeastern.edu/)
 
 - **B.S.** Degree in Electronic Science and Technology &nbsp;&nbsp;(Sep. 2012 - Jul. 2016) <br>
+  <img style="float:right; max-width:6%; margin-top:0" src="/img/logos/xjtu_logo.png"/>
   [Department of Electronic Science<br>
   School of Electronic and Information Engineering<br>
   Xi'an Jiaotong University, Xi'an, China](http://en.xjtu.edu.cn/)
 
 ---
 ### Research Experience
-- Research Assistant &nbsp;&nbsp; (Jan. 2021 - **Present**)<br>
-  [Tulane University]((https://sse.tulane.edu/cs)), New Orleans, USA
-- Research Assistant &nbsp;&nbsp; (Sep. 2018 - Dec. 2020)<br>
-  [Purdue University]((https://engineering.purdue.edu/ECE)), Indianapolis, USA
-- Research Assistant &nbsp;&nbsp; (Jan. 2018 - Jul. 2018)<br>
-  [SmileLab](https://web.northeastern.edu/smilelab/), Northeastern University, Boston, USA
-- Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016)<br>
-  [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), Xi'an, China
+- [Tulane University](https://sse.tulane.edu/cs), New Orleans, USA <br>
+  <img style="float:right; max-width:6%; margin-top:0;" src="/img/logos/tulane_logo_square.png" />
+  Research Assistant &nbsp;&nbsp; (Jan. 2021 - **Present**) <br>
+  Supervisor: Prof. [Zhengming (Allan) Ding](http://www.cs.tulane.edu/~zding1/) <br>
+  **Topic**: Interpretable Machine Learning, Domain Adaptation, Multi-view Learning 
+
+- [Purdue University](https://engineering.purdue.edu/ECE), Indianapolis, USA <br>
+  <img style="float:right; max-width:6%; margin-top:0;" src="/img/logos/purdue_logo_square.png" />
+  Research Assistant &nbsp;&nbsp; (Sep. 2018 - Dec. 2020)<br>
+  Supervisor: Prof. [Zhengming (Allan) Ding](http://www.cs.tulane.edu/~zding1/) <br>
+  **Topic**: Transfer Learning, Domain Adaptation, Fairness Learning
+  
+- [SmileLab](https://web.northeastern.edu/smilelab/), Northeastern University, Boston, USA <br>
+  <img style="float:right; max-width:6%; margin-top:0;" src="/img/logos/neu_logo_red.png" />
+  Research Assistant &nbsp;&nbsp; (Jan. 2018 - Jul. 2018)<br>
+  Supervisor: Prof. [Yun (Raymond) Fu](http://www1.ece.neu.edu/~yunfu/) <br>
+  **Topic**: Multi-view Learning, Action Recognition
+  
+- [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), Xi'an, China <br>
+  <img style="float:right; max-width:6%; margin-top:-2%;" src="/img/logos/xjtu_logo.png" />
+  Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016)
 
 
 ---

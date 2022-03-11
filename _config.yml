@@ -104,11 +104,59 @@ page-mathjax: false
 # Links
 friends: [
     {
-        title: "Zhengming (Allan) Ding",
+        title: "Dr. Zhengming (Allan) Ding",
         href: "http://www.cs.tulane.edu/~zding1/"
     },
     {
+        title: "Dr. Hongfu Liu",
+        href: "http://hongfuliu.com/"
+    },
+    {
+        title: "Dr. Jihun Hamm",
+        href: "http://www.cs.tulane.edu/~jhamm3/"
+    },
+    {
+        title: "Dr. Renran Tian",
+        href: "https://et.iupui.edu/people/rtian"
+    },
+    {
+        title: "Dr. Lichen Wang",
+        href: "https://sites.google.com/site/lichenwang123/"
+    },
+    {
+        title: "Dr. Bingrong Xu",
+        href: "https://dblp.org/pid/208/8098.html"
+    },
+    {
+        title: "Haifeng Xia",
+        href: "https://haifengxia.github.io/"
+    }
+]
+
+links: [
+      {
         title: "Tulane University",
         href: "https://tulane.edu/"
+    },
+    {
+        title: "SmileLab",
+        href: "https://web.northeastern.edu/smilelab/"
+    },
+    {
+        title: "CS Rankings",
+        href: "http://csrankings.org/#/fromyear/2011/toyear/2021/index?all&us"
+    },
+    {
+        title: "AI Rankings",
+        href: "https://airankings.org/#scope=world&fromYear=2011&toYear=2021&sort=adj&venues=agi%7Cuai%7Cjair%7Caaai%7Cijcai%7Cpami%7Cijcv%7Ccviu%7Cpr%7Cftcgv%7Ccvpr%7Ciccv%7Ceccv%7Csr%7Cicra%7Ciros%7Cro-man%7Crss%7Cjmlr%7Cneco%7Cijon%7Cnips%7Cicml%7Ccolt%7Caistats%7Ciclr%7Cacl%7Cemnlp%7Ccoling%7Cconll%7Cnaacl%7Ccogsci%7Ccogsciconf%7Caamas%7Cjaamas%7Csagt%7Calife%7Ceurographics%7Csiggraph%7Csiggraph-asia%7Ctog%7Cvr"
+    },
+    {
+        title: "Transfer Learning",
+        href: "https://github.com/jindongwang/transferlearning"
+    },
+    {
+        title: "Domain Adaptation",
+        href: "https://github.com/zhaoxin94/awesome-domain-adaptation"
     }
+    
 ]
