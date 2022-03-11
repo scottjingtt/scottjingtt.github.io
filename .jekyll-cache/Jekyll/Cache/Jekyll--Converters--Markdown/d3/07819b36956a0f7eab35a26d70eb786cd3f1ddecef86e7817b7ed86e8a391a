@@ -1,4 +1,4 @@
-I"¹	<blockquote>
+I"À	<blockquote>
   <h2 id="indent-test">Indent test.</h2>
 </blockquote>
 
@@ -34,7 +34,9 @@
 
 <p>Independent euqation test:</p>
 
-\[O(n) = \sum_{i=0}^{i=n}f_{XY}(x,y)\]
+<p>$
+O(n) = \sum_{i=0}^{i=n}f_{XY}(x,y)
+$</p>
 
 <p id="codetest"></p>
 <h3 id="code-test">Code Test</h3>
