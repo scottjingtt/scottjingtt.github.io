@@ -43,7 +43,7 @@ Email: tjing [AT] tulane [DOT] edu
 </table>
 
 ### Biography
-I am currently a Ph.D. student at the department of [Computer Science, Tulane University](https://sse.tulane.edu/cs), advised by [Prof. Z. Allan Ding](http://www.cs.tulane.edu/~zding1/). My research interests lie in computer vision, deep learning, transfer learning, and interpretable machine learning.
+I am currently a Ph.D. student at the department of [Computer Science, Tulane University](https://sse.tulane.edu/cs), advised by [Prof. Zhengming Allan Ding](http://www.cs.tulane.edu/~zding1/). My research interests lie in computer vision, deep learning, transfer learning, and interpretable machine learning.
 
 ---
 ### News

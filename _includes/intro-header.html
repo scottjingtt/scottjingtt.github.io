@@ -3,6 +3,7 @@
     @param {boolean} short
 {% endcomment %}
 
+<!-- For post page, use larger width for the titles -->
 {% if include.type == 'post' %}
 <style type="text/css">
     header.intro-header{
@@ -31,7 +32,7 @@
         Image by <a href="//{{page.header-img-credit-href}}">{{page.header-img-credit}}</a>
     </div>
     {% endif %}
-    <div class="container">
+    <div class="container" style="width:90%">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <div class="post-heading">
@@ -90,6 +91,7 @@
 </header>
 {% endif %}
 
+<!--   For normal pages, use original short width for the titles   -->
 {% if include.type == 'page' %}
 <header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
   <div class="container">
