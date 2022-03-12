@@ -1,0 +1,183 @@
+I"�(<!-- 
+![Scott Jing](/img/website/scott.jpg){:height="30%" width="30%"} -->
+
+<table>
+<tbody>
+<tr>
+<td width="30%">
+<div>
+<br />
+<img src="/img/website/scott.jpg" style="height:60%; width:60%; margin-top:20%; margin-left:20%" />
+</div>
+</td>
+<td width="70%">
+<h3 href="scottjingtt.github.io">Taotao(Scott) Jing</h3>
+<p>
+<span style="font-weight:bold">Ph.D. Student</span><br />
+Department of Computer Science<br />
+Tulane University
+</p>
+<p>
+6823 St. Charles Avenue<br />
+New Orleans, LA 70118
+</p>
+<p>
+<span>
+Email: tjing [AT] tulane [DOT] edu
+</span>
+</p>
+<p>
+<span>
+[<a href="/files/CV.pdf">CV </a>]
+[<a href="https://scholar.google.com/citations?user=OTPyfwkAAAAJ&amp;hl=en&amp;oi=ao"> Google Scholar </a>]
+[<a href="https://dblp.uni-trier.de/pers/hd/j/Jing:Taotao"> DBLP </a>]
+[<a href="https://publons.com/researcher/4941569/taotao-jing"> Publons </a>]
+[<a href="https://www.researchgate.net/profile/Taotao-Jing"> Research Gate </a>]
+[<a href="https://www.linkedin.com/in/taotaojing/"> LinkedIn </a>]
+[<a href="https://github.com/scottjingtt"> Github </a>]
+</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+<h3 id="biography">Biography</h3>
+<p>I am currently a Ph.D. student at the department of <a href="https://sse.tulane.edu/cs">Computer Science, Tulane University</a>, advised by <a href="http://www.cs.tulane.edu/~zding1/">Prof. Z. Allan Ding</a>. My research interests lie in computer vision, deep learning, transfer learning, and interpretable machine learning.</p>
+
+<hr />
+<h3 id="news">News</h3>
+<ul>
+  <li>Sep. 2021: We get one paper accepted by <strong>IEEE Transactions on Image Processing (TIP)</strong>.</li>
+  <li>Jul. 2021: We get one paper accepted by <strong>ICCV 2021</strong> (<strong>Oral</strong>).</li>
+  <li>Jul. 2021: We get one paper accepted by <strong>ACM MM 2021</strong> (<strong>Oral</strong>).</li>
+  <li>Jan. 2021: Start my new journey as a <strong>Ph.D.</strong> student at Tulane University, USA</li>
+  <li>Aug. 2020: We get one paper accepted by <strong>WACV 2021</strong>.</li>
+  <li>Jul. 2020: We get one paper accepted by <strong>ACM MM 2020</strong>.</li>
+  <li>Jan. 2020: We get one paper accepted by <strong>FG 2020</strong>.</li>
+  <li>Jan. 2019: Begin my new journey as a <strong>Ph.D.</strong> student at Purdue University, USA.</li>
+  <li>Sep. 2018: Start working as <strong>Research Assistant</strong> at Purdue University, USA</li>
+</ul>
+
+<hr />
+<h3 id="publications">Publications</h3>
+<ul>
+  <li><strong>Taotao Jing</strong>, Bingrong Xu, and Zhengming Ding. “Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation.” <em>IEEE Transactions on Image Processing</em> (<strong>TIP</strong>), 2021. [<a href="https://ieeexplore.ieee.org/document/9547057">Paper</a>][<a href="https://github.com/scottjingtt/TFKT">Code</a>]</li>
+  <li><strong>Taotao Jing</strong>, Hongfu Liu, and Zhengming Ding. “Towards Novel Target Discovery Through Open-Set Domain Adaptation.” <em>In Proceedings of the IEEE/CVF International Conference on Computer Vision</em> (<strong>ICCV</strong>) (<strong>Oral</strong>), 2021. [<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf">Paper</a>][<a href="https://github.com/scottjingtt/SROSDA">Code</a>]</li>
+  <li>Haifeng Xia, <strong>Taotao Jing</strong>, and Zhengming Ding “Semi-supervised Domain Adaptation Retrieval via Discriminative Hashing Learning.” <em>In Proceedings of the ACM International Conference on Multimedia</em> (<strong>MM</strong>) (<strong>Oral</strong>), 2021. [<a href="https://www.crcv.ucf.edu/chenchen/DHLing_MM_2021.pdf">Paper</a>]</li>
+  <li><strong>Taotao Jing</strong>, Zhengming Ding. “Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation.” <em>In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision</em> (<strong>WACV</strong>), 2021. [<a href="https://arxiv.org/pdf/2008.11878.pdf">Paper</a>]</li>
+  <li><strong>Taotao Jing</strong>, Haifeng Xia, Zhengming Ding, “Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation,” <em>In Proceedings of the ACM International Conference on Multimedia</em> (<strong>MM</strong>), 2020. [<a href="https://dl.acm.org/doi/abs/10.1145/3394171.3413986">Paper</a>]</li>
+  <li>Lichen Wang, Bin Sun, Joseph Robinson, <strong>Taotao Jing</strong>, and Yun Fu. “EV-Action: Electromyography-Vision Multi-Modal Action Dataset.” <em>In IEEE International Conference on Automatic Face and Gesture Recognition</em> (<strong>FG</strong>), 2020.  [<a href="https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset">Code</a>] [<a href="https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset/blob/master/presentations/FG20_EVAction.pdf">Paper</a>]</li>
+</ul>
+
+<hr />
+<h3 id="education">Education</h3>
+<ul>
+  <li>
+    <p><strong>Ph.D.</strong> Student in Computer Science   (Jan. 2021 - <strong>Present</strong>) <br />
+<img style="float:right; max-width:5%; margin-top:0" src="/img/logos/tulane_logo_square.png" />
+<a href="https://sse.tulane.edu/cs">Department of Computer Science <br />
+Tulane University, New Orleans, USA</a></p>
+  </li>
+  <li>
+    <p><strong>Ph.D.</strong> Student in Electrical and Computer Engineering   (Jan. 2019 - Dec. 2020) <br />
+<img style="float:right; max-width:5%; margin-top:0" src="/img/logos/purdue_logo_square.png" />
+<a href="https://engineering.purdue.edu/ECE">Department of Electrical and Computer Engineering<br />
+Purdue University, Indianapolis, USA</a></p>
+  </li>
+  <li>
+    <p><strong>M.S.</strong> Degree in Computer System Engineering  (Sep. 2016 - Jul. 2018) <br />
+<img style="float:right; max-width:5%; margin-top:0" src="/img/logos/neu_logo_red.png" />
+<a href="https://ece.northeastern.edu/">Department of Electrical and Computer Engineering <br />
+Northeastern University, Boston, USA</a></p>
+  </li>
+  <li>
+    <p><strong>B.S.</strong> Degree in Electronic Science and Technology   (Sep. 2012 - Jul. 2016) <br />
+<img style="float:right; max-width:5%; margin-top:0" src="/img/logos/xjtu_logo.png" />
+<a href="http://en.xjtu.edu.cn/">Department of Electronic Science<br />
+School of Electronic and Information Engineering<br />
+Xi’an Jiaotong University, Xi’an, China</a></p>
+  </li>
+</ul>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>B.S.</strong> Degree in Electronic Science and Technology</td>
+      <td><img src="/img/website/scott.jpg" alt="Scott Jing" height="100px" width="100px" /></td>
+    </tr>
+    <tr>
+      <td><strong>B.S.</strong> Degree in Electronic Science and Technology</td>
+      <td><img src="/img/website/scott.jpg" alt="Scott Jing" height="100px" width="100px" /></td>
+    </tr>
+    <tr>
+      <td><strong>B.S.</strong> Degree in Electronic Science and Technology</td>
+      <td><img src="/img/website/scott.jpg" alt="Scott Jing" height="100px" width="100px" /></td>
+    </tr>
+    <tr>
+      <td><strong>B.S.</strong> Degree in Electronic Science and Technology</td>
+      <td><img src="/img/website/scott.jpg" alt="Scott Jing" height="100px" width="100px" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>| df| dfsf|
+|:——————————— | —-:|
+|<strong>B.S.</strong> Degree in Electronic Science and Technology|<img style="float:right; max-width:5%; margin-top:0" src="/img/logos/xjtu_logo.png" />|
+|<strong>B.S.</strong> Degree in Electronic Science and Technology|<img style="float:right; max-width:5%; margin-top:0" src="/img/logos/xjtu_logo.png" />|
+|<strong>B.S.</strong> Degree in Electronic Science and Technology|<img style="float:right; max-width:5%; margin-top:0" src="/img/logos/xjtu_logo.png" />|
+—</p>
+<h3 id="research-experience">Research Experience</h3>
+<ul>
+  <li>
+    <p><a href="https://sse.tulane.edu/cs">Tulane University</a>, New Orleans, USA <br />
+<img style="float:right; max-width:6%; margin-top:0;" src="/img/logos/tulane_logo_square.png" />
+Research Assistant    (Jan. 2021 - <strong>Present</strong>) <br />
+Supervisor: Prof. <a href="http://www.cs.tulane.edu/~zding1/">Zhengming (Allan) Ding</a> <br />
+<strong>Topic</strong>: Interpretable Machine Learning, Domain Adaptation, Multi-view Learning</p>
+  </li>
+  <li>
+    <p><a href="https://engineering.purdue.edu/ECE">Purdue University</a>, Indianapolis, USA <br />
+<img style="float:right; max-width:6%; margin-top:0;" src="/img/logos/purdue_logo_square.png" />
+Research Assistant    (Sep. 2018 - Dec. 2020)<br />
+Supervisor: Prof. <a href="http://www.cs.tulane.edu/~zding1/">Zhengming (Allan) Ding</a> <br />
+<strong>Topic</strong>: Transfer Learning, Domain Adaptation, Fairness Learning</p>
+  </li>
+  <li>
+    <p><a href="https://web.northeastern.edu/smilelab/">SmileLab</a>, Northeastern University, Boston, USA <br />
+<img style="float:right; max-width:6%; margin-top:0;" src="/img/logos/neu_logo_red.png" />
+Research Assistant    (Jan. 2018 - Jul. 2018)<br />
+Supervisor: Prof. <a href="http://www1.ece.neu.edu/~yunfu/">Yun Raymond Fu</a> <br />
+<strong>Topic</strong>: Multi-view Learning, Action Recognition</p>
+  </li>
+  <li>
+    <p><a href="http://en.xjtu.edu.cn/">Xi’an Jiaotong University</a>, Xi’an, China <br />
+<img style="float:right; max-width:6%; margin-top:-2%;" src="/img/logos/xjtu_logo.png" />
+Research Assistant    (Sep. 2015 - Jul. 2016)</p>
+  </li>
+</ul>
+
+<hr />
+<h3 id="activities">Activities</h3>
+<p><strong>Presentations &amp; Talks</strong></p>
+<ul>
+  <li>Oral presentation: “Towards Novel Target Discovery Through Open-Set Domain Adaptation”    (ICCV 2021)<br /></li>
+  <li>Poster presentation: “Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation.”    (WACV 2021)<br /></li>
+  <li>Poster presentation: “Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation”    (ACM MM 2020)<br /></li>
+</ul>
+
+<p><strong>Reviewer</strong></p>
+<ul>
+  <li>Conference on Computer Vision and Pattern Recognition (CVPR)</li>
+  <li>Winter Conference on Applications of Computer Vision (WACV)</li>
+  <li>European Conference on Artificial Intelligence (ECAI)</li>
+  <li>IEEE Transactions on Neural Networks and Learning System (TNNLS)</li>
+  <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
+  <li>Image Processig (IET)</li>
+  <li>Journal of Electronic Imaging (SPIE JEI)</li>
+  <li>Journal of Information Sciences (INS)</li>
+</ul>
+
+<hr />
+
+:ET
