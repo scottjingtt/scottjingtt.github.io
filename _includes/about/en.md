@@ -4,13 +4,13 @@
 <table style="border: none !important">
 <tbody>
 <tr style="border: none !important">
-<td width="30%" style="border: none !important">
+<td width="20%" style="border: none !important">
 <div>
 <br>
-<img src='/img/website/scott.jpg' style="height:60%; width:60%; margin-top:20%; margin-left:20%"/>
+<img src='/img/website/scott.jpg' style="max-width:70%; margin-top:10%"/>
 </div>
 </td>
-<td width="70%" style="border: none !important">
+<td width="80%" style="border: none !important">
 <h3 href='scottjingtt.github.io'>Taotao(Scott) Jing</h3>
 <p>
 <span style="font-weight:bold">Ph.D. Student</span><br>
