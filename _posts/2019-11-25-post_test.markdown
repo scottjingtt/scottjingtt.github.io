@@ -10,6 +10,10 @@ mathjax: true
 header-mask: 0.5
 tags:
     - Test
+    - Paper Review
+    - Scripts & Tools
+    - Life
+    - Work
 ---
 
 > Indent test.
