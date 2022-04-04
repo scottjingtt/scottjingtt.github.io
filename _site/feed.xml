@@ -5,8 +5,8 @@
     <description>Scott's Homepage</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 12 Mar 2022 13:56:04 -0600</pubDate>
-    <lastBuildDate>Sat, 12 Mar 2022 13:56:04 -0600</lastBuildDate>
+    <pubDate>Mon, 04 Apr 2022 13:17:56 -0500</pubDate>
+    <lastBuildDate>Mon, 04 Apr 2022 13:17:56 -0500</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
     
       <item>
@@ -453,6 +453,14 @@ $&lt;/p&gt;
         <guid isPermaLink="true">http://localhost:4000/2019/11/24/post_test/</guid>
         
         <category>Test</category>
+        
+        <category>Paper Review</category>
+        
+        <category>Scripts &amp; Tools</category>
+        
+        <category>Life</category>
+        
+        <category>Work</category>
         
         
       </item>

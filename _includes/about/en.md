@@ -47,6 +47,7 @@ I am currently a Ph.D. student at the department of [Computer Science, Tulane Un
 
 ---
 ### News
+- Mar. 2022: Our [Pedestrian Situated Intention Dataset](http://pedestriandataset.situated-intent.net/) is now available for use.
 - Sep. 2021: We get one paper accepted by **IEEE Transactions on Image Processing (TIP)**.
 - Jul. 2021: We get one paper accepted by **ICCV 2021** (**Oral**).
 - Jul. 2021: We get one paper accepted by **ACM MM 2021** (**Oral**).
@@ -93,7 +94,7 @@ Tulane University, New Orleans, USA </a>
 <div>
 <ul>
 <li>
-<strong>Ph.D.</strong> Student in Electrical and Computer Engineering &nbsp;&nbsp;(Jan. 2019 - Dec. 2020) <br>
+<strong>Ph.D.</strong> Student in Electrical and Computer Engineering &nbsp;&nbsp;(Jan. 2019 - Dec. 2020) (transferred out) <br>
 <a href="https://engineering.purdue.edu/ECE"> Department of Electrical and Computer Engineering<br>
   Purdue University, Indianapolis, USA </a>
 </li>
