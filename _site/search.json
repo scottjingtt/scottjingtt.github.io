@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Milestone! - Ph.D. Oral Qualifying Exam",
+      "subtitle" : "Became a Ph.D. candidate officially",
+      "tags"     : "Ph.D., Talk, Transfer Learning",
+      "url"      : "/2022/04/27/QualifyingExam/",
+      "date"     : "2022-04-27 12:00:00 -0500"
+    } ,
+  
+    {
       "title"    : "Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation",
       "subtitle" : "Taotao Jing, Bingrong Xu, Zhengming Ding",
       "tags"     : "Fairness Learning, Domain Adaptation, Transfer Learning",

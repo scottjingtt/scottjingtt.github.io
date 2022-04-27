@@ -13,7 +13,7 @@
 <td width="80%" style="border: none !important">
 <h3 href='scottjingtt.github.io'>Taotao(Scott) Jing</h3>
 <p>
-<span style="font-weight:bold">Ph.D. Student</span><br>
+<span style="font-weight:bold">Ph.D. Candidate</span><br>
 Department of Computer Science<br>
 Tulane University
 </p>
@@ -43,10 +43,11 @@ Email: tjing [AT] tulane [DOT] edu
 </table>
 
 ### Biography
-I am currently a Ph.D. student at the department of [Computer Science, Tulane University](https://sse.tulane.edu/cs), advised by [Prof. Zhengming Allan Ding](http://www.cs.tulane.edu/~zding1/). My research interests lie in computer vision, deep learning, transfer learning, and interpretable machine learning.
+I am a Ph.D. candidate in the department of [Computer Science, Tulane University](https://sse.tulane.edu/cs), advised by [Prof. Zhengming Allan Ding](http://www.cs.tulane.edu/~zding1/). My research interests lie in computer vision, deep learning, transfer learning, and interpretable machine learning.
 
 ---
 ### News
+- Apr. 2022: I passed the oral qualifying exam and became a Ph.D. candidate officially.
 - Mar. 2022: Our [Pedestrian Situated Intention Dataset](http://pedestriandataset.situated-intent.net/) is now available for use.
 - Sep. 2021: We get one paper accepted by **IEEE Transactions on Image Processing (TIP)**.
 - Jul. 2021: We get one paper accepted by **ICCV 2021** (**Oral**).
