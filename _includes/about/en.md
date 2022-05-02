@@ -47,6 +47,7 @@ I am a Ph.D. candidate in the department of [Computer Science, Tulane University
 
 ---
 ### News
+- May 2022: Our paper about sketch-based image retrieval is accepted by **IEEE Transactions on Image Processing (TIP)**.
 - Apr. 2022: I passed the oral qualifying exam and became a Ph.D. candidate officially.
 - Mar. 2022: Our [Pedestrian Situated Intention Dataset](http://pedestriandataset.situated-intent.net/) is now available for use.
 - Sep. 2021: We get one paper accepted by **IEEE Transactions on Image Processing (TIP)**.

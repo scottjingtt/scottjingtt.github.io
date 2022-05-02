@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval",
+      "subtitle" : "Taotao Jing, Haifeng Xia, Jihun Hamm, Zhengming Ding",
+      "tags"     : "Generalized Zero-shot Learning, Zero-shot Learning, Transfer Learning, Image Retrieval, Multi-modal Learning, Dataset",
+      "url"      : "/2022/05/02/AMF/",
+      "date"     : "2022-05-02 12:00:00 -0500"
+    } ,
+  
+    {
       "title"    : "Milestone! - Ph.D. Oral Qualifying Exam",
       "subtitle" : "Became a Ph.D. candidate officially",
       "tags"     : "Ph.D., Talk, Transfer Learning",

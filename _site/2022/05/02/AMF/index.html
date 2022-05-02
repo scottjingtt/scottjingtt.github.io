@@ -12,17 +12,36 @@
 
     <!-- Open Graph -->
     <meta property="og:title"
-        content="Research - Scott Jing's Homepage">
+        content="Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval - Scott Jing's Homepage">
     
-    <meta property="og:type" content="website">
-    <meta property="og:description"
-        content="Stay hungry. Stay foolish.">
+    <meta property="og:type" content="article">
+    <meta property="og:description" content="Abstract
+Zero-shot sketch-based image retrieval (ZS-SBIR) has attracted great attention recently, due to the potential application of sketch-based retrieval under zero-shot scenarios, where the cat...">
+    
+    <meta property="article:published_time" content=" 2022-05-02T12:00:00Z">
+    
+    
+    <meta property="article:author" content="Scott">
+    
+    
+    <meta property="article:tag" content="Generalized Zero-shot Learning">
+    
+    <meta property="article:tag" content="Zero-shot Learning">
+    
+    <meta property="article:tag" content="Transfer Learning">
+    
+    <meta property="article:tag" content="Image Retrieval">
+    
+    <meta property="article:tag" content="Multi-modal Learning">
+    
+    <meta property="article:tag" content="Dataset">
+    
     
     <meta property="og:image" content="http://localhost:4000/img/website/scott_sunrise.jpg">
-    <meta property="og:url" content="http://localhost:4000/research/">
+    <meta property="og:url" content="http://localhost:4000/2022/05/02/AMF/">
     <meta property="og:site_name" content="Scott Jing's Homepage">
 
-    <title>Research - Scott Jing's Homepage</title>
+    <title>Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval - Scott Jing's Homepage</title>
 
     <!-- Web App Manifest -->
     <link rel="manifest" href="/pwa/manifest.json">
@@ -31,7 +50,7 @@
     <link rel="shortcut icon" href="/img/website/pig.jpg">
 
     <!-- Canonical URL -->
-    <link rel="canonical" href="http://localhost:4000/research/">
+    <link rel="canonical" href="http://localhost:4000/2022/05/02/AMF/">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href=" /css/bootstrap.min.css">
@@ -201,203 +220,171 @@
   </div>
 </div>
 
-    <!-- Page Header -->
+    <!-- Image to hack wechat -->
+<!-- <img src="/img/icon_wechat.png" width="0" height="0"> -->
+<!-- <img src="/img/posts/20220502/bg.jpg" width="0" height="0"> -->
+
+<!-- Post Header -->
 
 
 <!-- For post page, use larger width for the titles -->
+
+<style type="text/css">
+    header.intro-header{
+        position: relative;
+        background-image: url('/img/posts/20220502/bg.jpg');
+        background: ;
+    }
+
+    
+    header.intro-header .header-mask{
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        background: rgba(0,0,0, 0.5);
+    }
+    
+</style>
+
+<header class="intro-header" >
+
+    <div class="header-mask"></div>
+    
+    <div class="container" style="width:90%">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="post-heading">
+                    <div class="tags">
+                        
+                        <a class="tag" href="/archive/?tag=Generalized+Zero-shot+Learning" title="Generalized Zero-shot Learning">Generalized Zero-shot Learning</a>
+                        
+                        <a class="tag" href="/archive/?tag=Zero-shot+Learning" title="Zero-shot Learning">Zero-shot Learning</a>
+                        
+                        <a class="tag" href="/archive/?tag=Transfer+Learning" title="Transfer Learning">Transfer Learning</a>
+                        
+                        <a class="tag" href="/archive/?tag=Image+Retrieval" title="Image Retrieval">Image Retrieval</a>
+                        
+                        <a class="tag" href="/archive/?tag=Multi-modal+Learning" title="Multi-modal Learning">Multi-modal Learning</a>
+                        
+                        <a class="tag" href="/archive/?tag=Dataset" title="Dataset">Dataset</a>
+                        
+                    </div>
+                    <h1>Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval</h1>
+                    
+                    <h2 class="subheading">Taotao Jing, Haifeng Xia, Jihun Hamm, Zhengming Ding</h2>
+                    <span class="meta">Posted by Scott on May 2, 2022</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
 
 
 
 
 <!--   For normal pages, use original short width for the titles   -->
 
-<header class="intro-header" style="background-image: url('/img/website/home-bg.jpg')">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+
+<!-- Post Content -->
+<article>
+    <div class="container" style="width:90%">
+        <div class="row">
+
+    <!-- Post Container -->
+            <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                post-container">
+
+                <!-- Multi-Lingual -->
+                
+
+				<h3 id="abstract">Abstract</h3>
+<p>Zero-shot sketch-based image retrieval (ZS-SBIR) has attracted great attention recently, due to the potential application of sketch-based retrieval under zero-shot scenarios, where the categories of query sketches and gallery photos are not observed in the training stage. However, it is still under insufficient exploration for the general and practical scenario when the query sketches and gallery photos contain both seen and unseen categories. Such a problem is defined as generalized zero- shot sketch-based image retrieval (GZS-SBIR), which is the focus of this work. To this end, we propose a novel Augmented Multi- modality Fusion (AMF) framework to generalize seen concepts to unobserved ones efficiently. Specifically, a novel knowledge discovery module named cross-domain augmentation is designed in both visual and semantic space to mimic novel knowledge unseen from the training stage, which is the key to handling the GZS-SBIR challenge. Moreover, a triplet domain alignment module is proposed to couple the cross-domain distribution between photo and sketch in visual space. To enhance the robustness of our model, we explore embedding propagation to refine both visual and semantic features by removing un- desired noise. Eventually, visual-semantic fusion representations are concatenated for further domain discrimination and task- specific recognition, which tend to trigger the cross-domain align- ment in both visual and semantic feature space. Experimental evaluations are conducted on popular ZS-SBIR benchmarks as well as a new evaluation protocol designed for GZS-SBIR from DomainNet dataset with more diverse sub-domains, and the promising results demonstrate the superiority of the proposed solution over other baselines. The source code is available at https://github.com/scottjingtt/AMF GZS SBIR.git.</p>
+
+<p><img src="/img/posts/20220502/figure1.png" alt="slides" height="50%" width="50%" />
+<img src="/img/posts/20220502/figure2.png" alt="slides" height="100%" width="100%" />
+<img src="/img/posts/20220502/figure3.png" alt="slides" height="100%" width="100%" /></p>
+
+<h3 id="citation">Citation</h3>
+<p>If you think this work is interesting, feel free to cite</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+9
+</pre></td><td class="rouge-code"><pre>@article{jing2021augmented,
+  title={Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval},
+  author={Jing, Taotao and Xia, Haifeng and Hamm, Jihun and Ding, Zhengming},
+  journal={IEEE Transactions on Image Processing},
+  volume={},
+  pages={},
+  year={2022},
+  publisher={IEEE}
+}
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h3 id="reference">Reference</h3>
+
+<p>[1] Jing, Taotao, Haifeng Xia, Jihun Hamm, Zhengming Ding. “Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval.” IEEE Transactions on Image Processing (2022).</p>
+
+
+
+                <hr style="visibility: hidden;">
+                <ul class="pager">
+                    
+                    <li class="previous">
+                        <a href="/2022/04/27/QualifyingExam/" data-toggle="tooltip" data-placement="top" title="Milestone! - Ph.D. Oral Qualifying Exam">
+                        Previous<br>
+                        <span>Milestone! - Ph.D. Oral Qualifying Exam</span>
+                        </a>
+                    </li>
+                    
+                    
+                </ul>
+                <hr style="visibility: hidden;">
+
+                <!--  -->
+
+                <!--  -->
+            </div>  
+
+    <!-- Side Catalog Container -->
         
-        <div class="site-heading">
+            <div class="
+                col-lg-2 col-lg-offset-0
+                visible-lg-block
+                sidebar-container
+                catalog-container">
+                <div class="side-catalog">
+                    <hr class="hidden-sm hidden-xs">
+                    <h5>
+                        <a class="catalog-toggle" href="#">CATALOG</a>
+                    </h5>
+                    <ul class="catalog-body"></ul>
+                </div>
+            </div>
         
-          <h1 style="color:rgb(162, 153, 136) !important">Research</h1>
-          <span class="subheading" style="color:rgb(162, 153, 136) !important">Stay hungry. Stay foolish.</span>
-        </div>
-      </div>
-    </div>
-  </div>
-</header>
 
-
-
-<!-- Main Content -->
-<div class="container" style="width:90%">
-  <div class="row">
-    
-
-    <!-- USE SIDEBAR -->
-    <!-- PostList Container -->
-    <div class="col-lg-8 col-lg-offset-1 col-md-8 col-md-offset-1 col-sm-12
-      col-xs-12 postlist-container">
-      <div align=center>
-    <!-- <p><strong>Email: </strong><br> scottjingtt@gmail.com</p>
-    <p><strong>Phone: </strong> <br> +1 857-(294)-****</p>
-    <p><strong>Address:</strong><br> Room 245, Engineering and Technology Building<br>
-    799 W Michigan Street, Indianapolis, IN 46202, USA</p> -->
-<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5695.836136317875!2d-86.17217945366109!3d39.77422609057954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886b50b58eb7c0d3%3A0x44e14b9993a3327d!2sIUPUI%20-%20Purdue%20School%20of%20Engineering%20and%20Technology!5e0!3m2!1sen!2sus!4v1574748504578!5m2!1sen!2sus" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen=""></iframe> -->
-
-<!-- <div style="clear: both;">
-<div class="section">
-<h2 id="confpapers">Publications</h2> -->
-<style>
-a.paper {
-  font-weight: bold;
-  font-size: 14pt;
-}
-b.paper {
-  font-weight: bold;
-  font-size: 14pt;
-}
-div.section {
-  clear: both;
-  margin-bottom: 1.5em;
-  background: #fff;
-}
-div.spanner {
-  clear: both;
-}
-div.paper {
-  clear: both;
-  margin-top: 0.5em;
-  margin-bottom: 1em;
-  border: 1px solid #ddd;
-  background: #eee;
-  padding: 1em 1em 1em 1em;
-}
-div.paper div {
-  padding-left: 230px;
-}
-img.paper {
-  /* margin-bottom: 0.5em; */
-  float: left;
-  width: 200px;
-  height:120px;
-}
-div.paper pre {
-  font-size: 0.9em;
-}
-
-</style>
-
-<div class="paper" id="AMF" ><img class="paper" src="/img/research/AMF.png" title="AMF">
-  <div> <strong><a href="/2022/05/02/AMF/index.html">Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval</a></strong><br>
-  <strong><u>Taotao Jing</u></strong>, Haifeng Xia, Jihun Hamm, Zhengming Ding<br>
-  <i> IEEE Transactions on Image Processing </i> (<strong>TIP</strong>), 2021
-  <a href=''>[PDF]</a>
-  <a href='https://github.com/scottjingtt/AMF_GZS_SBIR'>[Code]</a>
-  <a href='https://github.com/scottjingtt/AMF_GZS_SBIR/tree/main/data'>[Data]</a>
-  </div>
-  <div class="spanner"></div>
-  </div>
-
-
-<div class="paper" id="PSI" ><img class="paper" src="/img/research/PSI.png" title="PSI">
-  <div> <strong><a href="/2022/03/11/PSI/index.html">PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car</a></strong><br>
-  Tina Chen&ast;, <strong><u>Taotao Jing</u>&ast;</strong>, Renran Tian, Yaobin Chen, Joshua Domeyer, Heishiro Toyoda, Rini Sherony, Zhengming Ding<br>
-  <i> Preprint </i>, 2021
-  <a href='https://arxiv.org/pdf/2112.02604.pdf'>[PDF]</a>
-  <a href='https://github.com/PSI-Intention2022/PSI-Intention'>[Code]</a>
-  <a href='http://pedestriandataset.situated-intent.net/'>[Data]</a>
-  </div>
-  <div class="spanner"></div>
-  </div>
-
-
-
-<div class="paper" id="TFKT"><img class="paper" src="/img/research/TFKT.png" title="TFKT">
-<div> <strong><a href="/2022/03/11/TFKT/index.html">Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation</a></strong><br>
-<strong><u>Taotao Jing</u></strong>, Bingrong Xu, Zhengming Ding <br>
-<i> IEEE Transactions on Image Processing </i> (<strong>TIP</strong>), 2021
-<a href='https://arxiv.org/pdf/2010.12184.pdf'>[PDF]</a>
-<a href=''>[Code]</a>
-</div>
-<div class="spanner"></div>
-</div>
-
-<div class="paper" id="SROSDA" ><img class="paper" src="/img/research/SROSDA.png" title="SROSDA">
-<div> <strong><a href="/2022/03/11/SROSDA/index.html">Towards Novel Target Discovery Through Open-Set Domain Adaptation</a></strong><br>
-<strong><u>Taotao Jing</u></strong>, Hongfu Liu, Zhengming Ding <br>
-<i> International Conference on Computer Vision </i> (<strong>ICCV</strong>) (<strong>Oral</strong>), 2021
-<a href='https://arxiv.org/pdf/2105.02432'>[PDF]</a>
-<a href=''>[Code]</a>
-<!-- <a href=''>[Talk]</a> from 45:05   -->
-</div>
-<div class="spanner"></div>
-</div>
-
-
-<div class="paper" id="DHLing" ><img class="paper" src="/img/research/DHLing.png" title="DHLing">
-<div> <strong>Semi-supervised Domain Adaptive Retrieval viaDiscriminative Hashing Learning</strong><br>
-Haifeng Xia, <strong><u>Taotao Jing</u></strong>, Zhengming Ding <br>
-<i>ACM International Conference on Multimedia</i> (<strong>MM</strong>) (<strong>Oral</strong>), 2021
-<a href=''>[PDF]</a>
-<a href=''>[Code]</a>
-<!-- <a href=''>[Talk]</a> from 45:05   -->
-</div>
-<div class="spanner"></div>
-</div>
-
-<div class="paper" id="ADCN" ><img class="paper" src="/img/research/ADCN.png" title="ADCN">
-  <div> <strong><a href="/2022/03/11/ADCN/index.html">Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation</a></strong><br>
-  <strong><u>Taotao Jing</u></strong>, Zhengming Ding <br>
-  <i>IEEE Winter Conference on Applications of Computer Vision</i> (<strong>WACV</strong>), 2021
-  <a href='https://openaccess.thecvf.com/content/WACV2021/papers/Jing_Adversarial_Dual_Distinct_Classifiers_for_Unsupervised_Domain_Adaptation_WACV_2021_paper.pdf'>[PDF]</a>
-  <a href=''>[Code]</a>
-  <!-- <a href=''>[Talk]</a> from 45:05   -->
-  </div>
-  <div class="spanner"></div>
-  </div>
-
-<div class="paper" id="AAKT" ><img class="paper" src="/img/research/AAKT.png" title="AAKT">
-<div> <strong><a href="/2022/03/11/AAKT/index.html">Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation</a></strong><br>
-<strong><u>Taotao Jing</u></strong>, Haifeng Xia, Zhengming Ding <br>
-<i>ACM International Conference on Multimedia</i> (<strong>MM</strong>), 2020
-<a href='https://dl.acm.org/doi/pdf/10.1145/3394171.3413986'>[PDF]</a>
-<a href=''>[Code]</a>
-<!-- <a href=''>[Talk]</a> from 45:05   -->
-</div>
-<div class="spanner"></div>
-</div>
-
-<div class="paper" id="DCDF"><img class="paper" src="/img/research/DCDF.png" title="DCDF">
-  <div> <strong>Discriminative Cross-Domain Feature Learning for Partial Domain Adaptation</strong><br>
-  <strong><u>Taotao Jing</u></strong>, Ming Shao, Zhengming Ding <br>
-  <i>arXiv preprint arXiv:2008.11360, 2020 
-  <a href='https://arxiv.org/abs/2008.11360'>[PDF]</a>
-  <a href=''>[code]</a>
-  </div>
-  <div class="spanner" ></div>
-  </div>
-
-
-<div class="paper" id="EV"><img class="paper" src="/img/research/EV.png" title="EV-Action">
-<div> <strong><a href="/2022/03/11/EVAction/index.html">EV-Action: Electromyography-Vision Multi-Modal Action Dataset</a></strong><br>
-Lichen Wang, Bin Sun, Joseph Robinson, <strong><u>Taotao Jing</u></strong>, Yun Fu <br>
-<i>IEEE International Conference on Automatic Face and Gesture Recognition</i> (<strong>FG</strong>), 2020 
-<a href='https://arxiv.org/pdf/1904.12602.pdf'>[PDF]</a>
-<a href=''>[code]</a>
-</div>
-<div class="spanner" ></div>
-</div>
-
-</div>
-    </div>
     <!-- Sidebar Container -->
-    <div class="col-lg-3 col-lg-offset-0 col-md-3 col-md-offset-0 col-sm-12
-      col-xs-12 sidebar-container">
-      <!-- Featured Tags -->
-      
+            <!-- <div class="
+                col-lg-8 col-lg-offset-2
+                col-md-10 col-md-offset-1
+                sidebar-container"> -->
+
+                <!-- Featured Tags -->
+                <!-- 
 
 
 <section>
+    
+        <hr class="hidden-sm hidden-xs">
     
     <h5><a href="/archive/">FEATURED TAGS</a></h5>
     <div class="tags">
@@ -432,57 +419,10 @@ Lichen Wang, Bin Sun, Joseph Robinson, <strong><u>Taotao Jing</u></strong>, Yun 
                     style="color:rgb(38, 55, 85) !important">Dataset</a>
     </div>
 </section>
+ -->
 
-
-      <!-- Short About -->
-      <section class="visible-md visible-lg">
-  <hr>
-  <h5><a href="/about/">ABOUT ME</a></h5>
-  <div class="short-about">
-    
-    <img src="/img/website/scott_sunrise.jpg" />
-    
-    
-    <p>Scott Jing</p>
-    
-    <!-- SNS Link -->
-    
-
-
-<ul class="list-inline">
-
-
-  
-  
-  
-  
-  
-  
-  <li>
-    <a target="_blank" href="https://github.com/scottjingtt">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  
-  
-  <li>
-    <a target="_blank" href="https://www.linkedin.com/in/taotaojing/">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  
-</ul>
-  </div>
-</section>
-
-      <!-- Friends Blog -->
-      
+                <!-- Friends Blog -->
+                <!-- 
 <hr>
 <h5>Advisors & Collaborators</h5>
 <ul class="list-inline">
@@ -526,15 +466,76 @@ Lichen Wang, Bin Sun, Joseph Robinson, <strong><u>Taotao Jing</u></strong>, Yun 
   
 </ul>
 
-
-
-      <!-- Ads include ads.html -->
-
+ -->
+            <!-- </div> -->
+        </div>
     </div>
-    
-  </div>
-</div>
+</article>
 
+<!-- add support for mathjax by voleking-->
+
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    TeX: {
+      equationNumbers: {
+        autoNumber: "AMS"
+      }
+    },
+    SVG: {
+      scale: 90
+    },
+    tex2jax: {
+      inlineMath: [ ['$','$'] ],
+      displayMath: [ ['$$','$$'] ],
+      processEscapes: true,
+    }
+  });
+</script>
+<script type="text/javascript"
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_SVG">
+</script>
+
+
+<!--  -->
+
+
+<!--  -->
+
+
+
+<!-- async load function -->
+<script>
+    function async(u, c) {
+      var d = document, t = 'script',
+          o = d.createElement(t),
+          s = d.getElementsByTagName(t)[0];
+      o.src = u;
+      if (c) { o.addEventListener('load', function (e) { c(null, e); }, false); }
+      s.parentNode.insertBefore(o, s);
+    }
+</script>
+<!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->
+<script>
+    async("//cdnjs.cloudflare.com/ajax/libs/anchor-js/1.1.1/anchor.min.js",function(){
+        anchors.options = {
+          visible: 'hover',
+          placement: 'right',
+          // icon: '#'
+        };
+        anchors.add().remove('.intro-header h1').remove('.subheading').remove('.sidebar-container h5');
+    })
+</script>
+<style>
+    /* place left on bigger screen */
+    @media all and (min-width: 800px) {
+        .anchorjs-link{
+            position: absolute;
+            left: -0.75em;
+            font-size: 1.1em;
+            margin-top : -0.1em;
+        }
+    }
+</style>
 
 
 
