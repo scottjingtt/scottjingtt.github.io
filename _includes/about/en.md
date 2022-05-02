@@ -62,6 +62,7 @@ I am a Ph.D. candidate in the department of [Computer Science, Tulane University
   
 ---
 ### Publications
+- **Taotao Jing**, Haifeng Xia, Jihun Hamm, Zhengming Ding. "Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval." *IEEE Transactions on Image Processing* (**TIP**), 2022. [[Paper]()][[Code](https://github.com/scottjingtt/AMF_GZS_SBIR)]
 - **Taotao Jing**, Bingrong Xu, and Zhengming Ding. "Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation." *IEEE Transactions on Image Processing* (**TIP**), 2021. [[Paper](https://ieeexplore.ieee.org/document/9547057)][[Code](https://github.com/scottjingtt/TFKT)]
 - **Taotao Jing**, Hongfu Liu, and Zhengming Ding. "Towards Novel Target Discovery Through Open-Set Domain Adaptation." *In Proceedings of the IEEE/CVF International Conference on Computer Vision* (**ICCV**) (**Oral**), 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf)][[Code](https://github.com/scottjingtt/SROSDA)]
 - Haifeng Xia, **Taotao Jing**, and Zhengming Ding "Semi-supervised Domain Adaptation Retrieval via Discriminative Hashing Learning." *In Proceedings of the ACM International Conference on Multimedia* (**MM**) (**Oral**), 2021. [[Paper](https://www.crcv.ucf.edu/chenchen/DHLing_MM_2021.pdf)]
