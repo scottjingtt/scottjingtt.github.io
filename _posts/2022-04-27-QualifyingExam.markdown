@@ -14,9 +14,9 @@ tags:
     - Transfer Learning
 ---
 
-## Sincerely appreciate time of all my Ph.D. committee members! 
+## Sincerely appreciate the time of all my Ph.D. committee members! 
 
-We had great and inspiring discussion about transfer learning and domain adaptation. **Finally**, I passed the oral qualifying exam and became a **Ph.D. candidate** officially!
+We had a great and inspiring discussion about transfer learning and domain adaptation. **Finally**, I passed the oral qualifying exam and became a **Ph.D. candidate** officially!
 
 
 ![slides](/img/posts/20220427/slides1.jpg){:height="50%" width="50%"}
