@@ -166,7 +166,7 @@ links: [
 collects: [
     {
         title: "Pedestrian Situated Intent Dataset",
-        href: "https://github.com/PSI-Intention2022"
+        href: "https://github.com/PSI-Intention2022/PSI-Intention"
     },
     {
         title: "Awesome Interpretable AI (XAI)",
