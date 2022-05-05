@@ -18,3 +18,13 @@
   {% endfor %}
 </ul>
 {% endif %}
+
+{% if site.collects %}
+<hr>
+<h5>Collections</h5>
+<ul class="list-inline">
+  {% for collect in site.collects %}
+  <li><a href="{{collect.href}}" style="color:rgb(101, 101, 101) !important">{{collect.title}}</a></li><br>
+  {% endfor %}
+</ul>
+{% endif %}

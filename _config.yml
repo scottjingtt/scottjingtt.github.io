@@ -161,6 +161,18 @@ links: [
     {
         title: "Domain Adaptation",
         href: "https://github.com/zhaoxin94/awesome-domain-adaptation"
-    }
-    
-]
+    }]
+
+collects: [
+    {
+        title: "Pedestrian Situated Intent Dataset",
+        href: "https://github.com/PSI-Intention2022"
+    },
+    {
+        title: "Awesome Interpretable AI (XAI)",
+        href: "https://github.com/scottjingtt/awesome-xai"
+    },
+    {
+        title: "Awesome Pedestrian Behavior Estimation",
+        href: "https://github.com/PSI-Intention2022/awesome-pedestrian-behavior-estimation"
+    }]
