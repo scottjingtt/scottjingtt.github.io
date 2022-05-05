@@ -169,8 +169,8 @@ collects: [
         href: "https://github.com/PSI-Intention2022/PSI-Intention"
     },
     {
-        title: "Awesome Interpretable AI (XAI)",
-        href: "https://github.com/scottjingtt/awesome-xai"
+        title: "Awesome Explainable/Interpretable Transfer Learning (XTL)",
+        href: "https://github.com/scottjingtt/awesome-interpretable-transfer-learning"
     },
     {
         title: "Awesome Pedestrian Behavior Estimation",
