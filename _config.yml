@@ -108,16 +108,20 @@ friends: [
         href: "http://www.cs.tulane.edu/~zding1/"
     },
     {
-        title: "Dr. Hongfu Liu",
-        href: "http://hongfuliu.com/"
-    },
-    {
         title: "Dr. Jihun Hamm",
         href: "http://www.cs.tulane.edu/~jhamm3/"
     },
     {
+        title: "Dr. Aron Culotta",
+        href: "http://cs.tulane.edu/~aculotta/"
+    },
+    {
         title: "Dr. Renran Tian",
         href: "https://et.iupui.edu/people/rtian"
+    },
+    {
+        title: "Dr. Hongfu Liu",
+        href: "http://hongfuliu.com/"
     },
     {
         title: "Dr. Lichen Wang",
@@ -165,7 +169,7 @@ links: [
 
 collects: [
     {
-        title: "Pedestrian Situated Intent Dataset",
+        title: "Pedestrian Situated Intent Dataset (PSI)",
         href: "https://github.com/PSI-Intention2022/PSI-Intention"
     },
     {
