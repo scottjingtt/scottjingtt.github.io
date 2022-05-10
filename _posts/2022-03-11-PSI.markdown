@@ -21,12 +21,12 @@ Prediction of pedestrian behavior is critical for fully autonomous vehicles to d
 ### PSI
 ![PSI](/img/research/PSI.png){:height="100%" width="100%"}
 
-### [Dataset](http://situated-intent.net/pedestrian_dataset/)
-[Dataset]()
+### Dataset [[Website]](http://situated-intent.net/pedestrian_dataset/)
 
-### [Code](https://github.com/PSI-Intention2022/PSI-Intention)
 
-### [More Resource - Situated Intent](http://situated-intent.net)
+### Code [[GitHub]](https://github.com/PSI-Intention2022/PSI-Intention)
+
+### More Resource - [[Situated Intent]](http://situated-intent.net)
 
 ### Citation
 If you think this work is interesting, feel free to cite

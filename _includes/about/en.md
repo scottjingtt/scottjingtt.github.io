@@ -50,7 +50,7 @@ I am a Ph.D. candidate in the department of [Computer Science, Tulane University
 - May 2022: We get one paper on domain adaptation accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. Congratulations to Haifeng. 
 - May 2022: Our paper about sketch-based image retrieval is accepted by **IEEE Transactions on Image Processing (TIP)**.
 - Apr. 2022: I passed the oral qualifying exam and became a Ph.D. candidate officially.
-- Mar. 2022: Our [Pedestrian Situated Intention Dataset](http://pedestriandataset.situated-intent.net/) is now available for use.
+- Mar. 2022: Our [Pedestrian Situated Intention Dataset](http://situated-intent.net/pedestrian_dataset/) is now available for use.
 - Sep. 2021: We get one paper accepted by **IEEE Transactions on Image Processing (TIP)**.
 - Jul. 2021: We get one paper accepted by **ICCV 2021** (**Oral**).
 - Jul. 2021: We get one paper accepted by **ACM MM 2021** (**Oral**).
