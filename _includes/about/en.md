@@ -4,7 +4,7 @@
 <table style="border: none !important">
 <tbody>
 <tr style="border: none">
-<td width="20%" style="border: none  !important">
+<td width="20%" style="border: none !important">
 <div>
 <br>
 <img src='/img/website/scott.jpg' style="max-width:100%; margin-top:50%"/>
@@ -77,7 +77,7 @@ I am a Ph.D. candidate in the department of [Computer Science, Tulane University
 - Wang, Lichen, Bin Sun, Joseph Robinson, **Taotao Jing**, and Yun Fu. “EV-Action: Electromyography-Vision Multi-Modal Action Dataset.” *In IEEE International Conference on Automatic Face and Gesture Recognition* (**FG**), 2020. &nbsp;[[Code](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset)] [[Paper](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset/blob/master/presentations/FG20_EVAction.pdf)]
 
 **Preprint**
-- Chen, Tina&ast;, **Taotao Jing&ast;**, Renran Tian, Yaobin Chen, Joshua Domeyer, Heishiro Toyoda, Rini Sherony, and Zhengming Ding. “PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car.” *Preprint* (Arxiv), 2022. &nbsp;[[Code](https://github.com/PSI-Intention2022/PSI-Intention)] [[Paper](https://arxiv.org/pdf/2112.02604.pdf)][[Homepage](http://situated-intent.net/pedestrian_dataset/)]
+- Chen, Tina\*, **Taotao Jing**\*, Renran Tian, Yaobin Chen, Joshua Domeyer, Heishiro Toyoda, Rini Sherony, and Zhengming Ding. “PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car.” *Preprint* (Arxiv), 2022. &nbsp;[[Code](https://github.com/PSI-Intention2022/PSI-Intention)] [[Paper](https://arxiv.org/pdf/2112.02604.pdf)][[Homepage](http://situated-intent.net/pedestrian_dataset/)]
 
 ---
 ### Education
