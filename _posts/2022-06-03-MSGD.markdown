@@ -1,0 +1,48 @@
+---
+layout:     post
+title:      "Maximum Structural Generation Discrepancy for Unsupervised Domain Adaptation"
+subtitle:   "Xia, Haifeng, Taotao Jing, and Zhengming Ding"
+date:       2022-06-03 17:00:00
+author:     "Scott"
+header-img: "img/posts/20220603/bg.jpg"
+catalog: true
+mathjax: true
+header-mask: 0.5
+tags:
+    - Domain Adaptation
+    - Transfer Learning
+    - Unsupervised Domain Adaptation
+    - Structural Generation
+    - Collaborative Translation
+---
+
+### Abstract
+Unsupervised domain adaptation (UDA) has recently become an appealing research topic in visual recognition, since it exploits all accessible well-labeled source data to train a model with high generalization on target domain without any annotations. However, due to the significant domain discrepancy, the bottleneck for UDA is to learn effective domain-invariant feature representations. To fight off such an obstacle, we propose a novel cross-domain learning framework named Maximum Structural Generation Discrepancy (MSGD) to accurately estimate and mitigate domain shift via introducing an intermediate domain. First, the cross-domain topological structure is explored to propagate target samples to generate a novel intermediate domain paired with the specific source instances. The intermediate domain plays as the bridge to gradually reduce distribution divergence across source and target domains. Concretely, the similar category semantic across source and intermediate features tends to naturally conduct the class-level alignment on eliminating their domain shift. In terms of no target annotation, the domain-level alignment manner is suitable to narrow down the distance between intermediate and target domains. Moreover, to produce high-quality generative instances, we develop the class-driven collaborative translation (CDCT) module to generate class-consistent cross-domain samples in each mini-batch with the assistance of pseudo-labels. Extensive experimental analyses on five domain adaptation benchmarks demonstrate the effectiveness of our MSGD on solving UDA problem.
+
+![slides](/img/posts/20220603/figure1.png){:height="50%" width="50%"}
+![slides](/img/posts/20220603/MSGD.png){:height="100%" width="100%"}
+![slides](/img/posts/20220603/figure3.png){:height="100%" width="100%"}
+
+
+### Citation
+If you think this work is interesting, feel free to cite
+
+```
+@ARTICLE{xia2022maximum,
+  author={Xia, Haifeng and Jing, Taotao and Ding, Zhengming},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Maximum Structural Generation Discrepancy for Unsupervised Domain Adaptation}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TPAMI.2022.3174526}}
+
+```
+
+
+### Reference
+
+[1] H. Xia, T. Jing and Z. Ding, "Maximum Structural Generation Discrepancy for Unsupervised Domain Adaptation," in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2022.3174526.
+
+

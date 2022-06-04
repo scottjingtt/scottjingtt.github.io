@@ -47,30 +47,37 @@ I am a Ph.D. candidate in the department of [Computer Science, Tulane University
 
 ---
 ### News
+- June 2022: I am starting a new position as a Computer Vision Intern at Zillow Group. 
 - May 2022: We get one paper on domain adaptation accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. Congratulations to Haifeng. 
 - May 2022: Our paper about sketch-based image retrieval is accepted by **IEEE Transactions on Image Processing (TIP)**.
 - Apr. 2022: I passed the oral qualifying exam and became a Ph.D. candidate officially.
 - Mar. 2022: Our [Pedestrian Situated Intention Dataset](http://situated-intent.net/pedestrian_dataset/) is now available for use.
 - Sep. 2021: We get one paper accepted by **IEEE Transactions on Image Processing (TIP)**.
-- Jul. 2021: We get one paper accepted by **ICCV 2021** (**Oral**).
-- Jul. 2021: We get one paper accepted by **ACM MM 2021** (**Oral**).
+- July 2021: We get one paper accepted by **ICCV 2021** (**Oral**).
+- July 2021: We get one paper accepted by **ACM MM 2021** (**Oral**).
 - Jan. 2021: Start my new journey as a **Ph.D.** student at Tulane University, USA
 - Aug. 2020: We get one paper accepted by **WACV 2021**.
-- Jul. 2020: We get one paper accepted by **ACM MM 2020**.
+- July 2020: We get one paper accepted by **ACM MM 2020**.
 - Jan. 2020: We get one paper accepted by **FG 2020**.
 - Jan. 2019: Begin my new journey as a **Ph.D.** student at Purdue University, USA.
 - Sep. 2018: Start working as **Research Assistant** at Purdue University, USA
   
 ---
 ### Publications
-- Xia, Haifeng, **Taotao Jing**, and Zhengming Ding. "Maximum Structural Generation Discrepancy for Unsupervised Domain Adaptation." *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022. [[Paper]()][[Code]()]
-- **Jing, Taotao**, Haifeng Xia, Jihun Hamm, and Zhengming Ding. "Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval." *IEEE Transactions on Image Processing* (**TIP**), 2022. [[Paper]()][[Code](https://github.com/scottjingtt/AMF_GZS_SBIR)]
+**Journal Paper**
+- Xia, Haifeng, **Taotao Jing**, and Zhengming Ding. "Maximum Structural Generation Discrepancy for Unsupervised Domain Adaptation." *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022. [[Paper](https://ieeexplore.ieee.org/document/9772946)][[Code]()]
+- **Jing, Taotao**, Haifeng Xia, Jihun Hamm, and Zhengming Ding. "Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval." *IEEE Transactions on Image Processing* (**TIP**), 2022. [[Paper](https://ieeexplore.ieee.org/document/9775617)][[Code](https://github.com/scottjingtt/AMF_GZS_SBIR)]
 - **Jing, Taotao**, Bingrong Xu, and Zhengming Ding. "Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation." *IEEE Transactions on Image Processing* (**TIP**), 2021. [[Paper](https://ieeexplore.ieee.org/document/9547057)][[Code](https://github.com/scottjingtt/TFKT)]
+
+**Conference Paper**
 - **Jing, Taotao**, Hongfu Liu, and Zhengming Ding. "Towards Novel Target Discovery Through Open-Set Domain Adaptation." *In Proceedings of the IEEE/CVF International Conference on Computer Vision* (**ICCV**) (**Oral**), 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf)][[Code](https://github.com/scottjingtt/SROSDA)]
 - Xia, Haifeng, **Taotao Jing**, and Zhengming Ding "Semi-supervised Domain Adaptation Retrieval via Discriminative Hashing Learning." *In Proceedings of the ACM International Conference on Multimedia* (**MM**) (**Oral**), 2021. [[Paper](https://www.crcv.ucf.edu/chenchen/DHLing_MM_2021.pdf)]
 - **Jing, Taotao**, and Zhengming Ding. "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation." *In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**), 2021. [[Paper](https://arxiv.org/pdf/2008.11878.pdf)]
 - **Jing, Taotao**, Haifeng Xia, and Zhengming Ding, "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation," *In Proceedings of the ACM International Conference on Multimedia* (**MM**), 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413986)]
 - Wang, Lichen, Bin Sun, Joseph Robinson, **Taotao Jing**, and Yun Fu. “EV-Action: Electromyography-Vision Multi-Modal Action Dataset.” *In IEEE International Conference on Automatic Face and Gesture Recognition* (**FG**), 2020. &nbsp;[[Code](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset)] [[Paper](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset/blob/master/presentations/FG20_EVAction.pdf)]
+
+**Preprint**
+- Chen, Tina&ast;, **Taotao Jing&ast;**, Renran Tian, Yaobin Chen, Joshua Domeyer, Heishiro Toyoda, Rini Sherony, and Zhengming Ding. “PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car.” *Preprint* (Arxiv), 2022. &nbsp;[[Code](https://github.com/PSI-Intention2022/PSI-Intention)] [[Paper](https://arxiv.org/pdf/2112.02604.pdf)][[Homepage](http://situated-intent.net/pedestrian_dataset/)]
 
 ---
 ### Education
@@ -152,6 +159,23 @@ Northeastern University, Boston, USA </a>
 ### Research Experience
 <table style="border: none !important">
 <tbody>
+<!-- 2022 Summer Zillow -->
+<tr style="border: none !important">
+<td width="93%" style="border: none !important">
+<div>
+<ul>
+<li>
+<a href="https://www.zillowgroup.com">Zillow Group</a>, Seattle, USA <br>
+Computer Vision Intern &nbsp;&nbsp; (June 2022 - <strong>Present</strong>) <br>
+Supervisor: Dr. <a href="https://sites.google.com/site/lichenwang123/">Lichen Wang </a> Dr. <a href="http://www.singbingkang.com">Sing Bing Kang </a><br>
+<strong>Topic</strong>: Transfer Learning, Indoor Visual Analysis
+</li>
+</ul>
+</div>
+</td>
+<td width="7%" style="border: none !important">
+<img style="float:right; max-width:100%; margin-top:0" src="/img/logos/zillow_logo.png"/>
+</td>
 <!-- Phd Tulane -->
 <tr style="border: none !important">
 <td width="93%" style="border: none !important">
@@ -229,21 +253,28 @@ Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016) <br>
 
 
 ---
-### Activities
-**Presentations & Talks**
+
+### Presentations & Talks
 - Oral presentation: "Towards Novel Target Discovery Through Open-Set Domain Adaptation" &nbsp;&nbsp; (ICCV 2021)<br>
 - Poster presentation: "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation." &nbsp;&nbsp; (WACV 2021)<br>
 - Poster presentation: "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation" &nbsp;&nbsp; (ACM MM 2020)<br>
 
-**Reviewer**
+### Academic Service
+**Converence Reviewer**
+- European Conference on Computer Vision (ECCV)
 - Conference on Computer Vision and Pattern Recognition (CVPR)
 - Winter Conference on Applications of Computer Vision (WACV)
 - European Conference on Artificial Intelligence (ECAI)
+- IEEE Intelligent Transportation Systems Society Conference (ITSC)
+
+**Journal Reviewer**
+- Neurocomputing
 - IEEE Transactions on Neural Networks and Learning System (TNNLS)
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
-- Image Processig (IET)
-- Journal of Electronic Imaging (SPIE JEI)
-- Journal of Information Sciences (INS)
+- IET Image Processig
+- Journal of Electronic Imaging (JEI)
+- Information Sciences
+- Cognitive Computation
   
 ---
 
