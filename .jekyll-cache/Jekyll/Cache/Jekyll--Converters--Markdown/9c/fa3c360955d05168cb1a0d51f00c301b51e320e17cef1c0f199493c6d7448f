@@ -1,0 +1,37 @@
+I"<h1 id="abstract">Abstract</h1>
+<p>Prediction of pedestrian behavior is critical for fully autonomous vehicles to drive in busy city streets safely and efficiently. The future autonomous cars need to fit into mixed conditions with not only technical but also social capabilities. As more algorithms and datasets have been developed to predict pedestrian behaviors, these efforts lack the benchmark labels and the capability to estimate the temporal-dynamic intent changes of the pedestrians, provide explanations of the interaction scenes, and support algorithms with social intelligence. This paper pro- poses and shares another benchmark dataset called the IUPUI- CSRC Pedestrian Situated Intent (PSI) data with two innovative labels besides comprehensive computer vision labels. The first novel label is the dynamic intent changes for the pedestrians to cross in front of the ego-vehicle, achieved from 24 drivers with diverse backgrounds. The second one is the text-based explanations of the driver reasoning process when estimating pedestrian intents and predicting their behaviors during the interaction period. These innovative labels can enable several computer vision tasks, including pedestrian intent/behavior pre- diction, vehicle-pedestrian interaction segmentation, and video- to-language mapping for explainable algorithms. The released dataset can fundamentally improve the development of pedestrian behavior prediction models and develop socially intelligent au- tonomous cars to interact with pedestrians efficiently. The dataset has been evaluated with different tasks and is released to the public to access.</p>
+
+<h3 id="psi">PSI</h3>
+<p><img src="/img/research/PSI.png" alt="PSI" height="100%" width="100%" /></p>
+
+<h3 id="dataset-website">Dataset <a href="http://situated-intent.net/pedestrian_dataset/">[Website]</a></h3>
+
+<h3 id="code-github">Code <a href="https://github.com/PSI-Intention2022/PSI-Intention">[GitHub]</a></h3>
+
+<h3 id="more-resource---situated-intent">More Resource - <a href="http://situated-intent.net">[Situated Intent]</a></h3>
+
+<h3 id="citation">Citation</h3>
+<p>If you think this work is interesting, feel free to cite</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+</pre></td><td class="rouge-code"><pre>@article{chen2021psi,
+  title={PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car},
+  author={Chen, Tina and Tian, Renran and Chen, Yaobin and Domeyer, Joshua and Toyoda, Heishiro and Sherony, Rini and Jing, Taotao and Ding, Zhengming},
+  journal={arXiv preprint arXiv:2112.02604},
+  year={2021}
+}
+
+
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h3 id="reference">Reference</h3>
+
+<p>[1] Chen, Tina, Renran Tian, Yaobin Chen, Joshua Domeyer, Heishiro Toyoda, Rini Sherony, Taotao Jing, and Zhengming Ding. “PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car.” arXiv preprint arXiv:2112.02604 (2021).</p>
+:ET

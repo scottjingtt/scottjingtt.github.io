@@ -1,11 +1,19 @@
 [
   
     {
+      "title"    : "Maximum Structural Generation Discrepancy for Unsupervised Domain Adaptation",
+      "subtitle" : "Xia, Haifeng, Taotao Jing, and Zhengming Ding",
+      "tags"     : "Domain Adaptation, Transfer Learning, Unsupervised Domain Adaptation, Structural Generation, Collaborative Translation",
+      "url"      : "/2022/06/03/MSGD/",
+      "date"     : "2022-06-03 10:00:00 -0700"
+    } ,
+  
+    {
       "title"    : "Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval",
       "subtitle" : "Taotao Jing, Haifeng Xia, Jihun Hamm, Zhengming Ding",
       "tags"     : "Generalized Zero-shot Learning, Zero-shot Learning, Transfer Learning, Image Retrieval, Multi-modal Learning, Dataset",
       "url"      : "/2022/05/02/AMF/",
-      "date"     : "2022-05-02 12:00:00 -0500"
+      "date"     : "2022-05-02 10:00:00 -0700"
     } ,
   
     {
@@ -13,7 +21,7 @@
       "subtitle" : "Became a Ph.D. candidate officially",
       "tags"     : "Ph.D., Talk, Transfer Learning",
       "url"      : "/2022/04/27/QualifyingExam/",
-      "date"     : "2022-04-27 12:00:00 -0500"
+      "date"     : "2022-04-27 10:00:00 -0700"
     } ,
   
     {
@@ -21,7 +29,7 @@
       "subtitle" : "Taotao Jing, Bingrong Xu, Zhengming Ding",
       "tags"     : "Fairness Learning, Domain Adaptation, Transfer Learning",
       "url"      : "/2022/03/11/TFKT/",
-      "date"     : "2022-03-11 10:00:00 -0600"
+      "date"     : "2022-03-11 08:00:00 -0800"
     } ,
   
     {
@@ -29,7 +37,7 @@
       "subtitle" : "Taotao Jing, Hongfu Liu, Zhengming Ding",
       "tags"     : "Domain Adaptation, Open-set Domain Adaptation, Transfer Learning, Multi-modality Learning",
       "url"      : "/2022/03/11/SROSDA/",
-      "date"     : "2022-03-11 10:00:00 -0600"
+      "date"     : "2022-03-11 08:00:00 -0800"
     } ,
   
     {
@@ -37,7 +45,7 @@
       "subtitle" : "Tina Chen&amp;ast, Taotao Jing, Renran Tian, Yaobin Chen, Joshua Domeyer, Heishiro Toyoda, Rini Sherony, Zhengming Ding",
       "tags"     : "Autonomous Driving, Pedestrian Intention Estimation, Trajectory Prediction, Interpretable AI, Dataset",
       "url"      : "/2022/03/11/PSI/",
-      "date"     : "2022-03-11 10:00:00 -0600"
+      "date"     : "2022-03-11 08:00:00 -0800"
     } ,
   
     {
@@ -45,7 +53,7 @@
       "subtitle" : "Lichen Wang, Bin Sun, Joseph Robinson, Taotao Jing, Yun Fu",
       "tags"     : "Multi-Modal Learning, Action Recognition, Dataset",
       "url"      : "/2022/03/11/EVAction/",
-      "date"     : "2022-03-11 10:00:00 -0600"
+      "date"     : "2022-03-11 08:00:00 -0800"
     } ,
   
     {
@@ -53,7 +61,7 @@
       "subtitle" : "Taotao Jing, Zhengming Ding",
       "tags"     : "Domain Adaptation, Transfer Learning",
       "url"      : "/2022/03/11/ADCN/",
-      "date"     : "2022-03-11 10:00:00 -0600"
+      "date"     : "2022-03-11 08:00:00 -0800"
     } ,
   
     {
@@ -61,7 +69,7 @@
       "subtitle" : "Taotao Jing, Haifeng Xia, Zhengming Ding",
       "tags"     : "Domain Adaptation, Partial Domain Adaptation, Transfer Learning",
       "url"      : "/2022/03/11/AAKT/",
-      "date"     : "2022-03-11 10:00:00 -0600"
+      "date"     : "2022-03-11 08:00:00 -0800"
     } ,
   
     {
@@ -69,7 +77,7 @@
       "subtitle" : " &quot;Subtitle Test.&quot;",
       "tags"     : "Test",
       "url"      : "/2022/03/09/post_test/",
-      "date"     : "2022-03-09 18:05:00 -0600"
+      "date"     : "2022-03-09 16:05:00 -0800"
     } ,
   
     {
@@ -77,7 +85,7 @@
       "subtitle" : " &quot;Subtitle Test.&quot;",
       "tags"     : "Test, Paper Review, Scripts & Tools, Life, Work",
       "url"      : "/2019/11/24/post_test/",
-      "date"     : "2019-11-24 18:05:00 -0600"
+      "date"     : "2019-11-24 16:05:00 -0800"
     } 
   
 ]

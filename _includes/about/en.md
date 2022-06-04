@@ -3,11 +3,11 @@
 
 <table style="border: none !important">
 <tbody>
-<tr style="border: none !important">
-<td width="20%" style="border: none !important">
+<tr style="border: none">
+<td width="20%" style="border: none  !important">
 <div>
 <br>
-<img src='/img/website/scott.jpg' style="max-width:70%; margin-top:10%"/>
+<img src='/img/website/scott.jpg' style="max-width:100%; margin-top:50%"/>
 </div>
 </td>
 <td width="80%" style="border: none !important">
@@ -47,7 +47,7 @@ I am a Ph.D. candidate in the department of [Computer Science, Tulane University
 
 ---
 ### News
-- June 2022: I am starting a new position as a Computer Vision Intern at Zillow Group. 
+- June 2022: I am starting a new position as a **Computer Vision Intern** at *Zillow Group, Inc.*
 - May 2022: We get one paper on domain adaptation accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. Congratulations to Haifeng. 
 - May 2022: Our paper about sketch-based image retrieval is accepted by **IEEE Transactions on Image Processing (TIP)**.
 - Apr. 2022: I passed the oral qualifying exam and became a Ph.D. candidate officially.
@@ -85,7 +85,7 @@ I am a Ph.D. candidate in the department of [Computer Science, Tulane University
 <tbody>
 <!-- Phd Tulane -->
 <tr style="border: none !important">
-<td width="93%" style="border: none !important">
+<td width="90%" style="border: none !important">
 <div>
 <ul>
 <li>
@@ -96,7 +96,7 @@ Tulane University, New Orleans, USA </a>
 </ul>
 </div>
 </td>
-<td width="7%" style="border: none !important">
+<td width="10%" style="border: none !important">
 <img style="float:right; max-width:100%; margin-top:0" src="/img/logos/tulane_logo_square.png"/>
 </td>
 </tr>
@@ -161,7 +161,7 @@ Northeastern University, Boston, USA </a>
 <tbody>
 <!-- 2022 Summer Zillow -->
 <tr style="border: none !important">
-<td width="93%" style="border: none !important">
+<td width="90%" style="border: none !important">
 <div>
 <ul>
 <li>
@@ -173,12 +173,13 @@ Supervisor: Dr. <a href="https://sites.google.com/site/lichenwang123/">Lichen Wa
 </ul>
 </div>
 </td>
-<td width="7%" style="border: none !important">
-<img style="float:right; max-width:100%; margin-top:0" src="/img/logos/zillow_logo.png"/>
+<td width="10%" style="border: none !important">
+<img style="float:right; max-width:100%; margin:0;" src="/img/logos/zillow_logo.png"/>
 </td>
+</tr>
 <!-- Phd Tulane -->
 <tr style="border: none !important">
-<td width="93%" style="border: none !important">
+<td style="border: none !important">
 <div>
 <ul>
 <li>
@@ -190,7 +191,7 @@ Supervisor: Prof. <a href="http://www.cs.tulane.edu/~zding1/">Zhengming (Allan) 
 </ul>
 </div>
 </td>
-<td width="7%" style="border: none !important">
+<td style="border: none !important">
 <img style="float:right; max-width:100%; margin-top:0" src="/img/logos/tulane_logo_square.png"/>
 </td>
 </tr>
@@ -276,5 +277,9 @@ Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016) <br>
 - Information Sciences
 - Cognitive Computation
   
+**Volunteer**
+- Conference on Computer Vision and Pattern Recognition (CVPR), 2022, New Orleans, USA
+
+
 ---
 

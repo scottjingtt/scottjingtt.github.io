@@ -5,9 +5,65 @@
     <description>Scott's Homepage</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 05 May 2022 15:31:23 -0500</pubDate>
-    <lastBuildDate>Thu, 05 May 2022 15:31:23 -0500</lastBuildDate>
+    <pubDate>Fri, 03 Jun 2022 19:05:12 -0700</pubDate>
+    <lastBuildDate>Fri, 03 Jun 2022 19:05:12 -0700</lastBuildDate>
     <generator>Jekyll v4.2.2</generator>
+    
+      <item>
+        <title>Maximum Structural Generation Discrepancy for Unsupervised Domain Adaptation</title>
+        <description>&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Unsupervised domain adaptation (UDA) has recently become an appealing research topic in visual recognition, since it exploits all accessible well-labeled source data to train a model with high generalization on target domain without any annotations. However, due to the significant domain discrepancy, the bottleneck for UDA is to learn effective domain-invariant feature representations. To fight off such an obstacle, we propose a novel cross-domain learning framework named Maximum Structural Generation Discrepancy (MSGD) to accurately estimate and mitigate domain shift via introducing an intermediate domain. First, the cross-domain topological structure is explored to propagate target samples to generate a novel intermediate domain paired with the specific source instances. The intermediate domain plays as the bridge to gradually reduce distribution divergence across source and target domains. Concretely, the similar category semantic across source and intermediate features tends to naturally conduct the class-level alignment on eliminating their domain shift. In terms of no target annotation, the domain-level alignment manner is suitable to narrow down the distance between intermediate and target domains. Moreover, to produce high-quality generative instances, we develop the class-driven collaborative translation (CDCT) module to generate class-consistent cross-domain samples in each mini-batch with the assistance of pseudo-labels. Extensive experimental analyses on five domain adaptation benchmarks demonstrate the effectiveness of our MSGD on solving UDA problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/posts/20220603/figure1.png&quot; alt=&quot;slides&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;
+&lt;img src=&quot;/img/posts/20220603/MSGD.png&quot; alt=&quot;slides&quot; height=&quot;100%&quot; width=&quot;100%&quot; /&gt;
+&lt;img src=&quot;/img/posts/20220603/figure3.png&quot; alt=&quot;slides&quot; height=&quot;100%&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
+&lt;p&gt;If you think this work is interesting, feel free to cite&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;@ARTICLE{xia2022maximum,
+  author={Xia, Haifeng and Jing, Taotao and Ding, Zhengming},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={Maximum Structural Generation Discrepancy for Unsupervised Domain Adaptation}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TPAMI.2022.3174526}}
+
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;p&gt;[1] H. Xia, T. Jing and Z. Ding, “Maximum Structural Generation Discrepancy for Unsupervised Domain Adaptation,” in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2022.3174526.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 03 Jun 2022 10:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2022/06/03/MSGD/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022/06/03/MSGD/</guid>
+        
+        <category>Domain Adaptation</category>
+        
+        <category>Transfer Learning</category>
+        
+        <category>Unsupervised Domain Adaptation</category>
+        
+        <category>Structural Generation</category>
+        
+        <category>Collaborative Translation</category>
+        
+        
+      </item>
     
       <item>
         <title>Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval</title>
@@ -46,7 +102,7 @@
 &lt;p&gt;[1] Jing, Taotao, Haifeng Xia, Jihun Hamm, Zhengming Ding. “Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval.” IEEE Transactions on Image Processing (2022).&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 02 May 2022 12:00:00 -0500</pubDate>
+        <pubDate>Mon, 02 May 2022 10:00:00 -0700</pubDate>
         <link>http://localhost:4000/2022/05/02/AMF/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/05/02/AMF/</guid>
         
@@ -75,7 +131,7 @@
 &lt;img src=&quot;/img/posts/20220427/slides2.jpg&quot; alt=&quot;slides&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;
 &lt;img src=&quot;/img/posts/20220427/talk1.jpg&quot; alt=&quot;slides&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 27 Apr 2022 12:00:00 -0500</pubDate>
+        <pubDate>Wed, 27 Apr 2022 10:00:00 -0700</pubDate>
         <link>http://localhost:4000/2022/04/27/QualifyingExam/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/04/27/QualifyingExam/</guid>
         
@@ -120,7 +176,7 @@
 
 &lt;p&gt;[1] Jing, Taotao, Bingrong Xu, and Zhengming Ding. “Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation.” IEEE Transactions on Image Processing 30 (2021): 8200-8211.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2022 10:00:00 -0600</pubDate>
+        <pubDate>Fri, 11 Mar 2022 08:00:00 -0800</pubDate>
         <link>http://localhost:4000/2022/03/11/TFKT/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/11/TFKT/</guid>
         
@@ -163,7 +219,7 @@
 
 &lt;p&gt;[1] Jing, Taotao, Hongfu Liu, and Zhengming Ding. “Towards novel target discovery through open-set domain adaptation.” In Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 9322-9331. 2021.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2022 10:00:00 -0600</pubDate>
+        <pubDate>Fri, 11 Mar 2022 08:00:00 -0800</pubDate>
         <link>http://localhost:4000/2022/03/11/SROSDA/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/11/SROSDA/</guid>
         
@@ -180,8 +236,17 @@
     
       <item>
         <title>PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car</title>
-        <description>&lt;h3 id=&quot;psi&quot;&gt;PSI&lt;/h3&gt;
+        <description>&lt;h1 id=&quot;abstract&quot;&gt;Abstract&lt;/h1&gt;
+&lt;p&gt;Prediction of pedestrian behavior is critical for fully autonomous vehicles to drive in busy city streets safely and efficiently. The future autonomous cars need to fit into mixed conditions with not only technical but also social capabilities. As more algorithms and datasets have been developed to predict pedestrian behaviors, these efforts lack the benchmark labels and the capability to estimate the temporal-dynamic intent changes of the pedestrians, provide explanations of the interaction scenes, and support algorithms with social intelligence. This paper pro- poses and shares another benchmark dataset called the IUPUI- CSRC Pedestrian Situated Intent (PSI) data with two innovative labels besides comprehensive computer vision labels. The first novel label is the dynamic intent changes for the pedestrians to cross in front of the ego-vehicle, achieved from 24 drivers with diverse backgrounds. The second one is the text-based explanations of the driver reasoning process when estimating pedestrian intents and predicting their behaviors during the interaction period. These innovative labels can enable several computer vision tasks, including pedestrian intent/behavior pre- diction, vehicle-pedestrian interaction segmentation, and video- to-language mapping for explainable algorithms. The released dataset can fundamentally improve the development of pedestrian behavior prediction models and develop socially intelligent au- tonomous cars to interact with pedestrians efficiently. The dataset has been evaluated with different tasks and is released to the public to access.&lt;/p&gt;
+
+&lt;h3 id=&quot;psi&quot;&gt;PSI&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&quot;/img/research/PSI.png&quot; alt=&quot;PSI&quot; height=&quot;100%&quot; width=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;dataset-website&quot;&gt;Dataset &lt;a href=&quot;http://situated-intent.net/pedestrian_dataset/&quot;&gt;[Website]&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;code-github&quot;&gt;Code &lt;a href=&quot;https://github.com/PSI-Intention2022/PSI-Intention&quot;&gt;[GitHub]&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;more-resource---situated-intent&quot;&gt;More Resource - &lt;a href=&quot;http://situated-intent.net&quot;&gt;[Situated Intent]&lt;/a&gt;&lt;/h3&gt;
 
 &lt;h3 id=&quot;citation&quot;&gt;Citation&lt;/h3&gt;
 &lt;p&gt;If you think this work is interesting, feel free to cite&lt;/p&gt;
@@ -208,7 +273,7 @@
 
 &lt;p&gt;[1] Chen, Tina, Renran Tian, Yaobin Chen, Joshua Domeyer, Heishiro Toyoda, Rini Sherony, Taotao Jing, and Zhengming Ding. “PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car.” arXiv preprint arXiv:2112.02604 (2021).&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2022 10:00:00 -0600</pubDate>
+        <pubDate>Fri, 11 Mar 2022 08:00:00 -0800</pubDate>
         <link>http://localhost:4000/2022/03/11/PSI/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/11/PSI/</guid>
         
@@ -255,7 +320,7 @@
 
 &lt;p&gt;[1] Wang, Lichen, Bin Sun, Joseph Robinson, Taotao Jing, and Yun Fu. “Ev-action: Electromyography-vision multi-modal action dataset.” In 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020), pp. 160-167. IEEE, 2020.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2022 10:00:00 -0600</pubDate>
+        <pubDate>Fri, 11 Mar 2022 08:00:00 -0800</pubDate>
         <link>http://localhost:4000/2022/03/11/EVAction/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/11/EVAction/</guid>
         
@@ -296,7 +361,7 @@
 
 &lt;p&gt;[1] Jing, Taotao, and Zhengming Ding. “Adversarial dual distinct classifiers for unsupervised domain adaptation.” In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 605-614. 2021.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2022 10:00:00 -0600</pubDate>
+        <pubDate>Fri, 11 Mar 2022 08:00:00 -0800</pubDate>
         <link>http://localhost:4000/2022/03/11/ADCN/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/11/ADCN/</guid>
         
@@ -335,7 +400,7 @@
 
 &lt;p&gt;[1] Jing, Taotao, Haifeng Xia, and Zhengming Ding. “Adaptively-accumulated knowledge transfer for partial domain adaptation.” In Proceedings of the 28th ACM International Conference on Multimedia, pp. 1606-1614. 2020.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2022 10:00:00 -0600</pubDate>
+        <pubDate>Fri, 11 Mar 2022 08:00:00 -0800</pubDate>
         <link>http://localhost:4000/2022/03/11/AAKT/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/11/AAKT/</guid>
         
@@ -433,113 +498,11 @@ $&lt;/p&gt;
 
 &lt;p&gt;Ref. Three [3]&lt;/p&gt;
 </description>
-        <pubDate>Wed, 09 Mar 2022 18:05:00 -0600</pubDate>
+        <pubDate>Wed, 09 Mar 2022 16:05:00 -0800</pubDate>
         <link>http://localhost:4000/2022/03/09/post_test/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/09/post_test/</guid>
         
         <category>Test</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>First Blog Test</title>
-        <description>&lt;blockquote&gt;
-  &lt;h2 id=&quot;indent-test&quot;&gt;Indent test.&lt;/h2&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;#codetest&quot;&gt;Jump to Code Test section &lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;image-test&quot;&gt;Image Test&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;p&gt;This is the catalog section. 
-&lt;img src=&quot;/img/posts/post-bg-20191125.jpg&quot; alt=&quot;Insert Image Test&quot; height=&quot;50%&quot; width=&quot;30%&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/img/website/scott.jpg&quot; alt=&quot;Scott Jing&quot; height=&quot;100px&quot; width=&quot;100px&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;list-test&quot;&gt;List Test&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;ul&gt;
-  &lt;li&gt;Item One
-    &lt;ul&gt;
-      &lt;li&gt;Sub item one&lt;/li&gt;
-      &lt;li&gt;Sub item two
-        &lt;ul&gt;
-          &lt;li&gt;subsub item one&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Item Two&lt;/li&gt;
-  &lt;li&gt;Item Three&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;math-equation-test&quot;&gt;Math Equation Test&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;p&gt;This is an inline equation $T(n) = T(\frac{1}{n}) + \frac{1}{n^2} \cdot log_{5}{3^n}$&lt;/p&gt;
-
-&lt;p&gt;Independent euqation test:&lt;/p&gt;
-
-&lt;p&gt;$
-O(n) = \sum_{i=0}^{i=n}f_{XY}(x,y)
-$&lt;/p&gt;
-
-&lt;p id=&quot;codetest&quot;&gt;&lt;/p&gt;
-&lt;h3 id=&quot;code-test&quot;&gt;Code Test&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;This is an inline sample Python code&lt;/code&gt;&lt;/p&gt;
-&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
-2
-3
-4
-5
-&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;TestFunc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;ow&quot;&gt;in&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;range&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;n&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
-        &lt;span class=&quot;n&quot;&gt;z&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;
-    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;z&lt;/span&gt;
-
-&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;table-test&quot;&gt;Table Test&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;col1&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;col2&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;col3&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;02442424001&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;00020000&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;0452425424003&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;reference-test&quot;&gt;Reference Test&lt;/h3&gt;
-
-&lt;p&gt;Ref. One [1]&lt;/p&gt;
-
-&lt;p&gt;Ref. Two [2]&lt;/p&gt;
-
-&lt;p&gt;Ref. Three [3]&lt;/p&gt;
-</description>
-        <pubDate>Sun, 24 Nov 2019 18:05:00 -0600</pubDate>
-        <link>http://localhost:4000/2019/11/24/post_test/</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/11/24/post_test/</guid>
-        
-        <category>Test</category>
-        
-        <category>Paper Review</category>
-        
-        <category>Scripts &amp; Tools</category>
-        
-        <category>Life</category>
-        
-        <category>Work</category>
         
         
       </item>
