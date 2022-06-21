@@ -47,6 +47,7 @@ I am a Ph.D. candidate in the department of [Computer Science, Tulane University
 
 ---
 ### News
+- June 2022: I will be serving as a volunteer mentor for CVPR 2022 welcoming students from underrepresented groups and first-time attendees to the world of artificial intelligence and computer vision. It is an honor to contribute to improving the diversity of the CV community. 
 - June 2022: I start a new position as a **Computer Vision Intern** at *Zillow Group, Inc.*
 - May 2022: We get one paper on domain adaptation accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. Congratulations to Haifeng. 
 - May 2022: Our paper about sketch-based image retrieval is accepted by **IEEE Transactions on Image Processing (TIP)**.
@@ -256,9 +257,10 @@ Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016) <br>
 ---
 
 ### Presentations & Talks
-- Oral presentation: "Towards Novel Target Discovery Through Open-Set Domain Adaptation" &nbsp;&nbsp; (ICCV 2021)<br>
-- Poster presentation: "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation." &nbsp;&nbsp; (WACV 2021)<br>
-- Poster presentation: "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation" &nbsp;&nbsp; (ACM MM 2020)<br>
+- Oral: "Towards Novel Target Discovery Through Open-Set Domain Adaptation" &nbsp;&nbsp; (ICCV 2021)<br>
+- Poster: "PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car" &nbsp;&nbsp; (CVPR 2022)<br>
+- Poster: "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation." &nbsp;&nbsp; (WACV 2021)<br>
+- Poster: "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation" &nbsp;&nbsp; (ACM MM 2020)<br>
 
 ### Academic Service
 **Converence Reviewer**
