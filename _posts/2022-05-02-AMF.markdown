@@ -13,7 +13,7 @@ tags:
     - Zero-shot Learning
     - Transfer Learning
     - Image Retrieval
-    - Multi-modal Learning
+    - Multimodal Learning
     - Dataset
 ---
 

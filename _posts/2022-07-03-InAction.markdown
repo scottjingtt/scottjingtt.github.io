@@ -11,8 +11,7 @@ header-mask: 0.5
 tags:
     - Interpretable AI
     - Autonomous Driving
-    - Multi-Modal Learning
-    - Multi-modality Learning
+    - Multimodal Learning
 ---
 
 ### Abstract

@@ -12,7 +12,7 @@ tags:
     - Domain Adaptation
     - Open-set Domain Adaptation
     - Transfer Learning
-    - Multi-modality Learning
+    - Multimodal Learning
 ---
 ### TFKT
 ![SROSDA](/img/research/SROSDA.png){:height="100%" width="100%"}
