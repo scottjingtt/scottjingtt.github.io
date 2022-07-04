@@ -47,6 +47,7 @@ I am a Ph.D. candidate in the department of [Computer Science, Tulane University
 
 ---
 ### News
+- July 2022: Our paper about interpretable driving decision prediction is accepted by **ECCV 2022**.
 - June 2022: I will be serving as a volunteer mentor for CVPR 2022 welcoming students from underrepresented groups and first-time attendees to the world of artificial intelligence and computer vision. It is an honor to contribute to improving the diversity of the CV community. 
 - June 2022: I start a new position as a **Computer Vision Intern** at *Zillow Group, Inc.*
 - May 2022: We get one paper on domain adaptation accepted by **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**. Congratulations to Haifeng. 
@@ -71,6 +72,7 @@ I am a Ph.D. candidate in the department of [Computer Science, Tulane University
 - **Jing, Taotao**, Bingrong Xu, and Zhengming Ding. "Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation." *IEEE Transactions on Image Processing* (**TIP**), 2021. [[Paper](https://ieeexplore.ieee.org/document/9547057)][[Code](https://github.com/scottjingtt/TFKT)]
 
 **Conference Paper**
+- **Jing, Taotao**, Haifeng Xia, Renran Tian, Haoran Ding, Xiao Luo, Joshua Domeyer, Rini Sherony, and Zhengming Ding. "InAction: Interpretable Action Decision Making for Autonomous Driving" *In Proceedings of the European Conference on Computer Vision* (**ECCV**), 2022. [[Paper(Comming soon)]()][[Code]()]
 - **Jing, Taotao**, Hongfu Liu, and Zhengming Ding. "Towards Novel Target Discovery Through Open-Set Domain Adaptation." *In Proceedings of the IEEE/CVF International Conference on Computer Vision* (**ICCV**) (**Oral**), 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf)][[Code](https://github.com/scottjingtt/SROSDA)]
 - Xia, Haifeng, **Taotao Jing**, and Zhengming Ding "Semi-supervised Domain Adaptation Retrieval via Discriminative Hashing Learning." *In Proceedings of the ACM International Conference on Multimedia* (**MM**) (**Oral**), 2021. [[Paper](https://www.crcv.ucf.edu/chenchen/DHLing_MM_2021.pdf)]
 - **Jing, Taotao**, and Zhengming Ding. "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation." *In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**), 2021. [[Paper](https://arxiv.org/pdf/2008.11878.pdf)]
