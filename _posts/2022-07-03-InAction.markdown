@@ -29,7 +29,7 @@ Autonomous driving attracts lots of interest in interpretable action decision mo
 If you think this work is interesting, feel free to cite
 ```
 @InProceedings{jing2022inaction,
-  author = {Jing, Taotao and Xia, Haifeng and Tian, Renran and Ding, Haoran and Luo, Xiao and Domeyer, Joshua and Sherony, Rini and Zhengming Ding},
+  author = {Jing, Taotao and Xia, Haifeng and Tian, Renran and Ding, Haoran and Luo, Xiao and Domeyer, Joshua and Sherony, Rini and Ding, Zhengming},
   title = {InAction: Interpretable Action Decision Making for Autonomous Driving},
   booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
   month = {October},
