@@ -17,20 +17,20 @@ tags:
 ### Abstract
 Autonomous driving attracts lots of interest in interpretable action decision models that mimic human cognition. Existing interpretable autonomous driving models explore static human explanations, which ignore the implicit visual semantics that are not annotated explicitly or even consistent across annotators. In this paper, we propose a novel Interpretable Action decision making (InAction) model to provide an enriched explanation from both explicit human annotation and implicit visual semantics. First, a proposed visual-semantic module captures the region-based action-inducing components from the visual inputs, which automatically learns the implicit visual semantics to provide a human-understandable explanation in action decision making. Second, an explicit reasoning module is developed by incorporating global visual features and action-inducing visual semantics, which aims to jointly align the human-annotated explanation and action decision making in a multi-task fashion. Experimental results on two autonomous driving benchmarks demonstrate the effectiveness of our InAction model for explaining both implicitly and explicitly by comparing it to existing interpretable autonomous driving models. 
 
-# Framework
-![slides](/img/posts/20220703/framework.pdf){:height="50%" width="50%"}
+### Framework
+![slides](/img/posts/20220703/framework.pdf){:height="70%" width="70%"}
 
-# Explicit Human-annotated Explanation
-![slides](/img/posts/20220703/compare.pdf){:height="50%" width="50%"}
+### Explicit Human-annotated Explanation
+![slides](/img/posts/20220703/compare.pdf){:height="70%" width="70%"}
 
-# Visualization of Learned Prototypes
-![slides](/img/posts/20220703/prototype.pdf){:height="50%" width="50%"}
+### Visualization of Learned Prototypes
+![slides](/img/posts/20220703/prototype.pdf){:height="70%" width="70%"}
 
-# Implicit Visual-Semantic AND Explicit Human-annotated Explainable Action Prediction
-![slides](/img/posts/20220703/InAction.pdf){:height="50%" width="50%"}
+### Implicit Visual-Semantic AND Explicit Human-annotated Explainable Action Prediction
+![slides](/img/posts/20220703/InAction.pdf){:height="70%" width="70%"}
 
-# Visualization of Reasoning Process via Learned Prototypes Activation
-![slides](/img/posts/20220703/reasoning.pdf){:height="50%" width="50%"}
+### Visualization of Reasoning Process via Learned Prototypes Activation
+![slides](/img/posts/20220703/reasoning.pdf){:height="70%" width="70%"}
 
 
 ### Citation
