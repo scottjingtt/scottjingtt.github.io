@@ -265,7 +265,7 @@ Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016) <br>
 - Poster: "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation" &nbsp;&nbsp; (ACM MM 2020)<br>
 
 ### Academic Service
-**Converence Reviewer**
+**Conference Reviewer**
 - European Conference on Computer Vision (ECCV)
 - Conference on Computer Vision and Pattern Recognition (CVPR)
 - Winter Conference on Applications of Computer Vision (WACV)
