@@ -31,7 +31,7 @@ Email: tjing [AT] tulane [DOT] edu
 [<a href = "/files/CV.pdf">CV </a>]
 [<a href = "https://scholar.google.com/citations?user=OTPyfwkAAAAJ&hl=en&oi=ao"> Google Scholar </a>]
 [<a href = "https://dblp.uni-trier.de/pers/hd/j/Jing:Taotao"> DBLP </a>]
-[<a href = "https://publons.com/researcher/4941569/taotao-jing"> Publons </a>]
+[<a href = "https://www.webofscience.com/wos/author/record/2470795"> WOS </a>]
 [<a href = "https://www.researchgate.net/profile/Taotao-Jing"> Research Gate </a>]
 [<a href = "https://www.linkedin.com/in/taotaojing/"> LinkedIn </a>]
 [<a href = "https://github.com/scottjingtt" > Github </a>]
