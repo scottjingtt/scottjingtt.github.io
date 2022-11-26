@@ -1,0 +1,43 @@
+I";<h3 id="abstract">Abstract</h3>
+<p>Autonomous driving attracts lots of interest in interpretable action decision models that mimic human cognition. Existing interpretable autonomous driving models explore static human explanations, which ignore the implicit visual semantics that are not annotated explicitly or even consistent across annotators. In this paper, we propose a novel Interpretable Action decision making (InAction) model to provide an enriched explanation from both explicit human annotation and implicit visual semantics. First, a proposed visual-semantic module captures the region-based action-inducing components from the visual inputs, which automatically learns the implicit visual semantics to provide a human-understandable explanation in action decision making. Second, an explicit reasoning module is developed by incorporating global visual features and action-inducing visual semantics, which aims to jointly align the human-annotated explanation and action decision making in a multi-task fashion. Experimental results on two autonomous driving benchmarks demonstrate the effectiveness of our InAction model for explaining both implicitly and explicitly by comparing it to existing interpretable autonomous driving models.</p>
+
+<h3 id="framework">Framework</h3>
+<p><img src="/img/posts/20220703/framework.png" alt="slides" height="70%" width="70%" /></p>
+
+<h3 id="explicit-human-annotated-explanation">Explicit Human-annotated Explanation</h3>
+<p><img src="/img/posts/20220703/compare.png" alt="slides" height="70%" width="70%" /></p>
+
+<h3 id="visualization-of-learned-prototypes">Visualization of Learned Prototypes</h3>
+<p><img src="/img/posts/20220703/prototype.png" alt="slides" height="70%" width="70%" /></p>
+
+<h3 id="implicit-visual-semantic-and-explicit-human-annotated-explainable-action-prediction">Implicit Visual-Semantic AND Explicit Human-annotated Explainable Action Prediction</h3>
+<p><img src="/img/posts/20220703/InAction.png" alt="slides" height="70%" width="70%" /></p>
+
+<h3 id="visualization-of-reasoning-process-via-learned-prototypes-activation">Visualization of Reasoning Process via Learned Prototypes Activation</h3>
+<p><img src="/img/posts/20220703/reasoning.png" alt="slides" height="70%" width="70%" /></p>
+
+<h3 id="citation">Citation</h3>
+<p>If you think this work is interesting, feel free to cite</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code><table class="rouge-table"><tbody><tr><td class="rouge-gutter gl"><pre class="lineno">1
+2
+3
+4
+5
+6
+7
+8
+</pre></td><td class="rouge-code"><pre>@InProceedings{jing2022inaction,
+  author = {Jing, Taotao and Xia, Haifeng and Tian, Renran and Ding, Haoran and Luo, Xiao and Domeyer, Joshua and Sherony, Rini and Ding, Zhengming},
+  title = {InAction: Interpretable Action Decision Making for Autonomous Driving},
+  booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+  month = {October},
+  year = {2022}
+}
+
+</pre></td></tr></tbody></table></code></pre></div></div>
+
+<h3 id="reference">Reference</h3>
+
+<p>[1] Jing, Taotao, Haifeng Xia, Renran Tian, Haoran Ding, Xiao Luo, Joshua Domeyer, Rini Sherony, and Zhengming Ding. “InAction: Interpretable Action Decision Making for Autonomous Driving” <em>In Proceedings of the European Conference on Computer Vision</em> (<strong>ECCV</strong>), 2022.</p>
+
+:ET

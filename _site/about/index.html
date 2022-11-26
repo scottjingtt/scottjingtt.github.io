@@ -203,7 +203,7 @@
   </div>
 </div>
 
-    <!-- Page Header -->
+    <!-- Page Header --> <!-- short=true set header lower height-->
 
 
 <!-- For post page, use larger width for the titles -->
@@ -218,7 +218,7 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         
-        <div class="site-heading">
+        <div class="site-heading" id="tag-heading">
         
           <h1 style="color:rgb(162, 153, 136) !important">About</h1>
           <span class="subheading" style="color:rgb(162, 153, 136) !important">About who I am.</span>
@@ -228,7 +228,7 @@
   </div>
 </header>
 
-
+ 
 
 <!-- Main Content -->
 <div class="container" style="width:90%">
@@ -275,7 +275,7 @@ Email: tjing [AT] tulane [DOT] edu
 [<a href="/files/CV.pdf">CV </a>]
 [<a href="https://scholar.google.com/citations?user=OTPyfwkAAAAJ&amp;hl=en&amp;oi=ao"> Google Scholar </a>]
 [<a href="https://dblp.uni-trier.de/pers/hd/j/Jing:Taotao"> DBLP </a>]
-[<a href="https://publons.com/researcher/4941569/taotao-jing"> Publons </a>]
+[<a href="https://www.webofscience.com/wos/author/record/2470795"> WOS </a>]
 [<a href="https://www.researchgate.net/profile/Taotao-Jing"> Research Gate </a>]
 [<a href="https://www.linkedin.com/in/taotaojing/"> LinkedIn </a>]
 [<a href="https://github.com/scottjingtt"> Github </a>]
@@ -292,7 +292,9 @@ Email: tjing [AT] tulane [DOT] edu
 <hr />
 <h3 id="news">News</h3>
 <ul>
-  <li>June 2022: I am starting a new position as a <strong>Computer Vision Intern</strong> at <em>Zillow Group, Inc.</em></li>
+  <li>July 2022: Our paper about interpretable driving decision prediction is accepted by <strong>ECCV 2022</strong>.</li>
+  <li>June 2022: I will be serving as a volunteer mentor for CVPR 2022 welcoming students from underrepresented groups and first-time attendees to the world of artificial intelligence and computer vision. It is an honor to contribute to improving the diversity of the CV community.</li>
+  <li>June 2022: I start a new position as a <strong>Computer Vision Intern</strong> at <em>Zillow Group, Inc.</em></li>
   <li>May 2022: We get one paper on domain adaptation accepted by <strong>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</strong>. Congratulations to Haifeng.</li>
   <li>May 2022: Our paper about sketch-based image retrieval is accepted by <strong>IEEE Transactions on Image Processing (TIP)</strong>.</li>
   <li>Apr. 2022: I passed the oral qualifying exam and became a Ph.D. candidate officially.</li>
@@ -319,6 +321,7 @@ Email: tjing [AT] tulane [DOT] edu
 
 <p><strong>Conference Paper</strong></p>
 <ul>
+  <li><strong>Jing, Taotao</strong>, Haifeng Xia, Renran Tian, Haoran Ding, Xiao Luo, Joshua Domeyer, Rini Sherony, and Zhengming Ding. “InAction: Interpretable Action Decision Making for Autonomous Driving” <em>In Proceedings of the European Conference on Computer Vision</em> (<strong>ECCV</strong>), 2022. [<a href="">Paper(Comming soon)</a>][<a href="">Code</a>]</li>
   <li><strong>Jing, Taotao</strong>, Hongfu Liu, and Zhengming Ding. “Towards Novel Target Discovery Through Open-Set Domain Adaptation.” <em>In Proceedings of the IEEE/CVF International Conference on Computer Vision</em> (<strong>ICCV</strong>) (<strong>Oral</strong>), 2021. [<a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf">Paper</a>][<a href="https://github.com/scottjingtt/SROSDA">Code</a>]</li>
   <li>Xia, Haifeng, <strong>Taotao Jing</strong>, and Zhengming Ding “Semi-supervised Domain Adaptation Retrieval via Discriminative Hashing Learning.” <em>In Proceedings of the ACM International Conference on Multimedia</em> (<strong>MM</strong>) (<strong>Oral</strong>), 2021. [<a href="https://www.crcv.ucf.edu/chenchen/DHLing_MM_2021.pdf">Paper</a>]</li>
   <li><strong>Jing, Taotao</strong>, and Zhengming Ding. “Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation.” <em>In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision</em> (<strong>WACV</strong>), 2021. [<a href="https://arxiv.org/pdf/2008.11878.pdf">Paper</a>]</li>
@@ -508,13 +511,14 @@ Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016) <br />
 
 <h3 id="presentations--talks">Presentations &amp; Talks</h3>
 <ul>
-  <li>Oral presentation: “Towards Novel Target Discovery Through Open-Set Domain Adaptation”    (ICCV 2021)<br /></li>
-  <li>Poster presentation: “Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation.”    (WACV 2021)<br /></li>
-  <li>Poster presentation: “Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation”    (ACM MM 2020)<br /></li>
+  <li>Oral: “Towards Novel Target Discovery Through Open-Set Domain Adaptation”    (ICCV 2021)<br /></li>
+  <li>Poster: “PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car”    (CVPR 2022)<br /></li>
+  <li>Poster: “Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation.”    (WACV 2021)<br /></li>
+  <li>Poster: “Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation”    (ACM MM 2020)<br /></li>
 </ul>
 
 <h3 id="academic-service">Academic Service</h3>
-<p><strong>Converence Reviewer</strong></p>
+<p><strong>Conference Reviewer</strong></p>
 <ul>
   <li>European Conference on Computer Vision (ECCV)</li>
   <li>Conference on Computer Vision and Pattern Recognition (CVPR)</li>
@@ -565,29 +569,47 @@ Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016) <br />
         
         
         
-                <a data-sort="0009" 
+                <a data-sort="0010" 
                     href="/archive/?tag=Test"
                     title="Test"
                     rel="2"
                     style="color:rgb(38, 55, 85) !important">Test</a>
         
-                <a data-sort="0004" 
+                <a data-sort="0005" 
                     href="/archive/?tag=Transfer+Learning"
                     title="Transfer Learning"
                     rel="7"
                     style="color:rgb(38, 55, 85) !important">Transfer Learning</a>
         
-                <a data-sort="0006" 
+                <a data-sort="0007" 
                     href="/archive/?tag=Domain+Adaptation"
                     title="Domain Adaptation"
                     rel="5"
                     style="color:rgb(38, 55, 85) !important">Domain Adaptation</a>
         
-                <a data-sort="0008" 
+                <a data-sort="0009" 
                     href="/archive/?tag=Dataset"
                     title="Dataset"
                     rel="3"
                     style="color:rgb(38, 55, 85) !important">Dataset</a>
+        
+                <a data-sort="0009" 
+                    href="/archive/?tag=Multimodal+Learning"
+                    title="Multimodal Learning"
+                    rel="3"
+                    style="color:rgb(38, 55, 85) !important">Multimodal Learning</a>
+        
+                <a data-sort="0010" 
+                    href="/archive/?tag=Autonomous+Driving"
+                    title="Autonomous Driving"
+                    rel="2"
+                    style="color:rgb(38, 55, 85) !important">Autonomous Driving</a>
+        
+                <a data-sort="0010" 
+                    href="/archive/?tag=Interpretable+AI"
+                    title="Interpretable AI"
+                    rel="2"
+                    style="color:rgb(38, 55, 85) !important">Interpretable AI</a>
     </div>
 </section>
 
