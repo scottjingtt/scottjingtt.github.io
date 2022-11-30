@@ -7,7 +7,7 @@
 <td width="20%" style="border: none !important">
 <div>
 <br>
-<img src='/img/website/scott.jpg' style="max-width:100%; margin-top:50%"/>
+<img src='/img/website/scott.jpg' style="max-width:100%; margin-top:30%"/>
 </div>
 </td>
 <td width="80%" style="border: none !important">
@@ -283,7 +283,7 @@ Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016) <br>
   
 **Volunteer**
 - Conference on Computer Vision and Pattern Recognition (CVPR), 2022, New Orleans, USA
-
+- Conference on Neural Information Processing Systems (NeurIPS), 2022, New Orleans, USA
 
 ---
 
