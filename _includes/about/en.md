@@ -35,6 +35,7 @@ Email: tjing [AT] tulane [DOT] edu
 [<a href = "https://www.researchgate.net/profile/Taotao-Jing"> Research Gate </a>]
 [<a href = "https://www.linkedin.com/in/taotaojing/"> LinkedIn </a>]
 [<a href = "https://github.com/scottjingtt" > Github </a>]
+[<a href = "https://www.semanticscholar.org/author/Taotao-Jing/113933538"> Semantic Scholar </a>]
 </span>
 </p>
 </td>
@@ -266,6 +267,7 @@ Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016) <br>
 
 ### Academic Service
 **Conference Reviewer**
+- International Joint Conference on Artificial Intelligence (IJCAI)
 - European Conference on Computer Vision (ECCV)
 - Conference on Computer Vision and Pattern Recognition (CVPR)
 - Winter Conference on Applications of Computer Vision (WACV)
