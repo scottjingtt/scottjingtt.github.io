@@ -48,6 +48,7 @@ I am a Ph.D. candidate in the department of [Computer Science, Tulane University
 
 ---
 ### News
+- Feb. 2023: Our paper about domain generalization is accepted by **IEEE Transactions on Image Processing (TIP)**.
 - July 2022: Our paper about interpretable driving decision prediction is accepted by **ECCV 2022**.
 - June 2022: I will be serving as a volunteer mentor for CVPR 2022 welcoming students from underrepresented groups and first-time attendees to the world of artificial intelligence and computer vision. It is an honor to contribute to improving the diversity of the CV community. 
 - June 2022: I start a new position as a **Computer Vision Intern** at *Zillow Group, Inc.*
