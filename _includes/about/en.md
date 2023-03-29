@@ -48,6 +48,7 @@ I am a Ph.D. candidate in the department of [Computer Science, Tulane University
 
 ---
 ### News
+- Mar. 2023: Our paper about few-shot domain adaptation is accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
 - Feb. 2023: Our paper about domain generalization is accepted by **IEEE Transactions on Image Processing (TIP)**.
 - July 2022: Our paper about interpretable driving decision prediction is accepted by **ECCV 2022**.
 - June 2022: I will be serving as a volunteer mentor for CVPR 2022 welcoming students from underrepresented groups and first-time attendees to the world of artificial intelligence and computer vision. It is an honor to contribute to improving the diversity of the CV community. 
@@ -282,7 +283,7 @@ Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016) <br>
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 - IET Image Processig
 - Journal of Electronic Imaging (JEI)
-- Information Sciences
+- Information Sciences (INS)
 - Cognitive Computation
   
 **Volunteer**
