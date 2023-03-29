@@ -70,6 +70,7 @@ I am a Ph.D. candidate in the department of [Computer Science, Tulane University
 ---
 ### Publications
 **Journal Paper**
+- **Jing, Taotao**, Haifeng Xia, Jihun Hamm, and Zhengming Ding. "Marginalized Augmented Few-shot Domain Adaptation." *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2023. [[Paper]()][[Code]()]
 - Xia, Haifeng, **Taotao Jing**, and Zhengming Ding. "Generative Inference Network for Imbalanced Domain Generalization." *IEEE Transactions on Image Processing* (**TIP**), 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10061463)][[Code]()]
 - Xia, Haifeng, **Taotao Jing**, and Zhengming Ding. "Maximum Structural Generation Discrepancy for Unsupervised Domain Adaptation." *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022. [[Paper](https://ieeexplore.ieee.org/document/9772946)][[Code]()]
 - **Jing, Taotao**, Haifeng Xia, Jihun Hamm, and Zhengming Ding. "Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval." *IEEE Transactions on Image Processing* (**TIP**), 2022. [[Paper](https://ieeexplore.ieee.org/document/9775617)][[Code](https://github.com/scottjingtt/AMF_GZS_SBIR)]
