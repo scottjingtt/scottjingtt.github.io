@@ -47,7 +47,8 @@ Email: tjing [AT] tulane [DOT] edu
 I am a Ph.D. candidate in the department of [Computer Science, Tulane University](https://sse.tulane.edu/cs), advised by [Prof. Zhengming Allan Ding](http://www.cs.tulane.edu/~zding1/). My research interests lie in computer vision, deep learning, transfer learning, and interpretable machine learning.
 
 ---
-### News
+### News 🔖
+- June 2023: 🔥 We're thrilled to announce the release of the 🚶🚗Pedestrian Situated Intent Dataset ([PSI 2.0](https://github.com/PSI-Intention2022/PSI-Dataset)) and the upcoming 🏆 [IEEE ITSS Student Competition in Pedestrian and Driver Behavior Prediction](https://github.com/PSI-Intention2022/PSI-Competition) for automated driving! 🛎 🤖
 - Mar. 2023: Our paper about few-shot domain adaptation is accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
 - Feb. 2023: Our paper about domain generalization is accepted by **IEEE Transactions on Image Processing (TIP)**.
 - July 2022: Our paper about interpretable driving decision prediction is accepted by **ECCV 2022**.
