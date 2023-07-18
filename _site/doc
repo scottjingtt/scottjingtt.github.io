@@ -27,7 +27,7 @@ Hux Blog User Manual
 2. Installed dependencies in the `Gemfile`:
 
 ```sh
-$ bundle install 
+$ sudo bundle install 
 ```
 
 3. Serve the website (`localhost:4000` by default):

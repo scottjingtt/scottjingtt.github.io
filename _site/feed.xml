@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mr. Jing</title>
-    <description>Scott's Homepage</description>
+    <description>Scott&apos;s Homepage</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 25 Nov 2022 23:14:23 -0600</pubDate>
-    <lastBuildDate>Fri, 25 Nov 2022 23:14:23 -0600</lastBuildDate>
-    <generator>Jekyll v4.2.2</generator>
+    <pubDate>Sat, 11 Feb 2023 23:24:47 -0500</pubDate>
+    <lastBuildDate>Sat, 11 Feb 2023 23:24:47 -0500</lastBuildDate>
+    <generator>Jekyll v4.3.1</generator>
     
       <item>
         <title>InAction: Interpretable Action Decision Making for Autonomous Driving</title>
@@ -54,7 +54,7 @@
 &lt;p&gt;[1] Jing, Taotao, Haifeng Xia, Renran Tian, Haoran Ding, Xiao Luo, Joshua Domeyer, Rini Sherony, and Zhengming Ding. “InAction: Interpretable Action Decision Making for Autonomous Driving” &lt;em&gt;In Proceedings of the European Conference on Computer Vision&lt;/em&gt; (&lt;strong&gt;ECCV&lt;/strong&gt;), 2022.&lt;/p&gt;
 
 </description>
-        <pubDate>Sun, 03 Jul 2022 12:00:00 -0500</pubDate>
+        <pubDate>Sun, 03 Jul 2022 13:00:00 -0400</pubDate>
         <link>http://localhost:4000/2022/07/03/InAction/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/07/03/InAction/</guid>
         
@@ -106,7 +106,7 @@
 &lt;p&gt;[1] H. Xia, T. Jing and Z. Ding, “Maximum Structural Generation Discrepancy for Unsupervised Domain Adaptation,” in IEEE Transactions on Pattern Analysis and Machine Intelligence, doi: 10.1109/TPAMI.2022.3174526.&lt;/p&gt;
 
 </description>
-        <pubDate>Fri, 03 Jun 2022 12:00:00 -0500</pubDate>
+        <pubDate>Fri, 03 Jun 2022 13:00:00 -0400</pubDate>
         <link>http://localhost:4000/2022/06/03/MSGD/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/06/03/MSGD/</guid>
         
@@ -160,7 +160,7 @@
 &lt;p&gt;[1] Jing, Taotao, Haifeng Xia, Jihun Hamm, Zhengming Ding. “Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval.” IEEE Transactions on Image Processing (2022).&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 02 May 2022 12:00:00 -0500</pubDate>
+        <pubDate>Mon, 02 May 2022 13:00:00 -0400</pubDate>
         <link>http://localhost:4000/2022/05/02/AMF/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/05/02/AMF/</guid>
         
@@ -189,7 +189,7 @@
 &lt;img src=&quot;/img/posts/20220427/slides2.jpg&quot; alt=&quot;slides&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;
 &lt;img src=&quot;/img/posts/20220427/talk1.jpg&quot; alt=&quot;slides&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 27 Apr 2022 12:00:00 -0500</pubDate>
+        <pubDate>Wed, 27 Apr 2022 13:00:00 -0400</pubDate>
         <link>http://localhost:4000/2022/04/27/QualifyingExam/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/04/27/QualifyingExam/</guid>
         
@@ -234,7 +234,7 @@
 
 &lt;p&gt;[1] Jing, Taotao, Bingrong Xu, and Zhengming Ding. “Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation.” IEEE Transactions on Image Processing 30 (2021): 8200-8211.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2022 10:00:00 -0600</pubDate>
+        <pubDate>Fri, 11 Mar 2022 11:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022/03/11/TFKT/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/11/TFKT/</guid>
         
@@ -277,7 +277,7 @@
 
 &lt;p&gt;[1] Jing, Taotao, Hongfu Liu, and Zhengming Ding. “Towards novel target discovery through open-set domain adaptation.” In Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 9322-9331. 2021.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2022 10:00:00 -0600</pubDate>
+        <pubDate>Fri, 11 Mar 2022 11:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022/03/11/SROSDA/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/11/SROSDA/</guid>
         
@@ -331,7 +331,7 @@
 
 &lt;p&gt;[1] Chen, Tina, Renran Tian, Yaobin Chen, Joshua Domeyer, Heishiro Toyoda, Rini Sherony, Taotao Jing, and Zhengming Ding. “PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car.” arXiv preprint arXiv:2112.02604 (2021).&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2022 10:00:00 -0600</pubDate>
+        <pubDate>Fri, 11 Mar 2022 11:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022/03/11/PSI/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/11/PSI/</guid>
         
@@ -378,7 +378,7 @@
 
 &lt;p&gt;[1] Wang, Lichen, Bin Sun, Joseph Robinson, Taotao Jing, and Yun Fu. “Ev-action: Electromyography-vision multi-modal action dataset.” In 2020 15th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2020), pp. 160-167. IEEE, 2020.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2022 10:00:00 -0600</pubDate>
+        <pubDate>Fri, 11 Mar 2022 11:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022/03/11/EVAction/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/11/EVAction/</guid>
         
@@ -419,7 +419,7 @@
 
 &lt;p&gt;[1] Jing, Taotao, and Zhengming Ding. “Adversarial dual distinct classifiers for unsupervised domain adaptation.” In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision, pp. 605-614. 2021.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2022 10:00:00 -0600</pubDate>
+        <pubDate>Fri, 11 Mar 2022 11:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022/03/11/ADCN/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/11/ADCN/</guid>
         
@@ -458,7 +458,7 @@
 
 &lt;p&gt;[1] Jing, Taotao, Haifeng Xia, and Zhengming Ding. “Adaptively-accumulated knowledge transfer for partial domain adaptation.” In Proceedings of the 28th ACM International Conference on Multimedia, pp. 1606-1614. 2020.&lt;/p&gt;
 </description>
-        <pubDate>Fri, 11 Mar 2022 10:00:00 -0600</pubDate>
+        <pubDate>Fri, 11 Mar 2022 11:00:00 -0500</pubDate>
         <link>http://localhost:4000/2022/03/11/AAKT/</link>
         <guid isPermaLink="true">http://localhost:4000/2022/03/11/AAKT/</guid>
         

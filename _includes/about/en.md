@@ -13,7 +13,7 @@
 <td width="80%" style="border: none !important">
 <h3 href='scottjingtt.github.io'>Taotao(Scott) Jing</h3>
 <p>
-<span style="font-weight:bold">Ph.D. Candidate</span><br>
+<!-- <span style="font-weight:bold">Dr.</span><br> -->
 Department of Computer Science<br>
 Tulane University
 </p>
@@ -44,10 +44,11 @@ Email: tjing [AT] tulane [DOT] edu
 </table>
 
 ### Biography
-I am a Ph.D. candidate in the department of [Computer Science, Tulane University](https://sse.tulane.edu/cs), advised by [Prof. Zhengming Allan Ding](http://www.cs.tulane.edu/~zding1/). My research interests lie in computer vision, deep learning, transfer learning, and interpretable machine learning.
+I obtained my Ph.D. from the department of [Computer Science, Tulane University](https://sse.tulane.edu/cs), advised by [Prof. Zhengming Allan Ding](http://www.cs.tulane.edu/~zding1/). I specialize in computer vision, deep learning, transfer learning, and interpretable machine learning. My research aims to develop transparent and trustworthy AI systems, bridging the gap between humans and AI.
 
 ---
 ### News 🔖
+- July 2023: Successfully defended my Ph.D. dissertation. 🎉 🎓
 - June 2023: 🔥 We're thrilled to announce the release of the 🚶🚗Pedestrian Situated Intent Dataset ([PSI 2.0](https://github.com/PSI-Intention2022/PSI-Dataset)) and the upcoming 🏆 [IEEE ITSS Student Competition in Pedestrian and Driver Behavior Prediction](https://github.com/PSI-Intention2022/PSI-Competition) for automated driving! 🛎 🤖
 - Mar. 2023: Our paper about few-shot domain adaptation is accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
 - Feb. 2023: Our paper about domain generalization is accepted by **IEEE Transactions on Image Processing (TIP)**.
