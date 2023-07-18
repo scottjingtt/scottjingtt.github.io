@@ -99,7 +99,7 @@ I obtained my Ph.D. from the department of [Computer Science, Tulane University]
 <div>
 <ul>
 <li>
-<strong>Ph.D.</strong> Student in Computer Science &nbsp;&nbsp;(Jan. 2021 - <strong>Present</strong>) <br>
+<strong>Ph.D.</strong> Student in Computer Science &nbsp;&nbsp;(Jan. 2021 - Aug. 2023) <br>
 <a href="https://sse.tulane.edu/cs"> Department of Computer Science <br>
 Tulane University, New Orleans, USA </a>
 </li>
@@ -169,24 +169,6 @@ Northeastern University, Boston, USA </a>
 ### Research Experience
 <table style="border: none !important">
 <tbody>
-<!-- 2022 Summer Zillow -->
-<tr style="border: none !important">
-<td width="90%" style="border: none !important">
-<div>
-<ul>
-<li>
-<a href="https://www.zillowgroup.com">Zillow Group</a>, Seattle, USA <br>
-Computer Vision Intern &nbsp;&nbsp; (June 2022 - <strong>Present</strong>) <br>
-Supervisor: Dr. <a href="https://sites.google.com/site/lichenwang123/">Lichen Wang </a> Dr. <a href="http://www.singbingkang.com">Sing Bing Kang </a><br>
-<strong>Topic</strong>: Transfer Learning, Indoor Visual Analysis
-</li>
-</ul>
-</div>
-</td>
-<td width="10%" style="border: none !important">
-<img style="float:right; max-width:100%; margin:0;" src="/img/logos/zillow_logo.png"/>
-</td>
-</tr>
 <!-- Phd Tulane -->
 <tr style="border: none !important">
 <td style="border: none !important">
@@ -203,6 +185,24 @@ Supervisor: Prof. <a href="http://www.cs.tulane.edu/~zding1/">Zhengming (Allan) 
 </td>
 <td style="border: none !important">
 <img style="float:right; max-width:100%; margin-top:0" src="/img/logos/tulane_logo_square.png"/>
+</td>
+</tr>
+<!-- 2022 Summer Zillow -->
+<tr style="border: none !important">
+<td width="90%" style="border: none !important">
+<div>
+<ul>
+<li>
+<a href="https://www.zillowgroup.com">Zillow Group</a>, Seattle, USA <br>
+Computer Vision Intern &nbsp;&nbsp; (June 2022 - Dec. 2022) <br>
+Supervisor: Dr. <a href="https://sites.google.com/site/lichenwang123/">Lichen Wang </a> Dr. <a href="http://www.singbingkang.com">Sing Bing Kang </a><br>
+<strong>Topic</strong>: Transfer Learning, Indoor Visual Analysis
+</li>
+</ul>
+</div>
+</td>
+<td width="10%" style="border: none !important">
+<img style="float:right; max-width:100%; margin:0;" src="/img/logos/zillow_logo.png"/>
 </td>
 </tr>
 <!-- Phd Purdue -->
