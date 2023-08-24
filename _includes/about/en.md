@@ -7,7 +7,7 @@
 <td width="20%" style="border: none !important">
 <div>
 <br>
-<img src='/img/website/scott.jpg' style="max-width:100%; margin-top:0%"/>
+<img src='/img/website/scott.jpg' style="max-width:100%; margin-top:5%"/>
 </div>
 </td>
 <td width="80%" style="border: none !important">
