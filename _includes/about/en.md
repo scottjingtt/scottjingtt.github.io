@@ -47,7 +47,7 @@ I am a Senior Computer Vision Engineer in the Multimedia Team at Qualcomm Inc. I
 
 ---
 ### News 🔖
-- Aug. 2023: Start as a new position as a **Senior Computer Vision Engineer** at *Qualcomm Inc.* 💻
+- Aug. 2023: Start a new position as **Senior Computer Vision Engineer** at *Qualcomm Inc.* 💻
 - July 2023: Successfully defended my Ph.D. dissertation. 🎉 🎓
 - June 2023: 🔥 We're thrilled to announce the release of the 🚶🚗Pedestrian Situated Intent Dataset ([PSI 2.0](https://github.com/PSI-Intention2022/PSI-Dataset)) and the upcoming 🏆 [IEEE ITSS Student Competition in Pedestrian and Driver Behavior Prediction](https://github.com/PSI-Intention2022/PSI-Competition) for automated driving! 🛎 🤖
 - Mar. 2023: Our paper about few-shot domain adaptation is accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
