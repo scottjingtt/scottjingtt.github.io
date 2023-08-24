@@ -11,19 +11,19 @@
 </div>
 </td>
 <td width="80%" style="border: none !important">
-<h3 href='scottjingtt.github.io'>Taotao(Scott) Jing</h3>
+<h3 href='scottjingtt.github.io'>Taotao(Scott) Jing, Ph.D.</h3>
 <p>
 <!-- <span style="font-weight:bold">Dr.</span><br> -->
-Department of Computer Science<br>
-Tulane University
+Computer Vision Engineer, Senior<br>
+Multimedian Group, Qualcomm Inc.<br>
 </p>
 <p>
-6823 St. Charles Avenue<br>
-New Orleans, LA 70118
+San Diego, CA 92121
 </p>
 <p>
 <span>
-Email: tjing [AT] tulane [DOT] edu
+Email (work): tjing [AT] qti [DOT] qualcomm.com <br>
+Email (personal): scottjingtt [AT] gmail [DOT] com
 </span>
 </p>
 <p>
@@ -44,10 +44,11 @@ Email: tjing [AT] tulane [DOT] edu
 </table>
 
 ### Biography
-I obtained my Ph.D. from the department of [Computer Science, Tulane University](https://sse.tulane.edu/cs), advised by [Prof. Zhengming Allan Ding](http://www.cs.tulane.edu/~zding1/). I specialize in computer vision, deep learning, transfer learning, and interpretable machine learning. My research aims to develop transparent and trustworthy AI systems, bridging the gap between humans and AI.
+I am a Senior Computer Vision Engineer in the Multimedia Team at Qualcomm Inc. I obtained my Ph.D. in Computer Science from [Tulane University, USA](https://sse.tulane.edu/cs), under the guidance of [Prof. Zhengming Allan Ding](http://www.cs.tulane.edu/~zding1/). My research expertise lies in **Computer Vision, Transfer Learning, and Interpretable AI**, encompassing diverse areas such as *Image Classification, Domain Adaptation, and Interpretable Autonomous Vehicle* tasks. Prior to my doctoral studies, I earned my Master's degree in Computer System Engineering from Northeastern University, USA, where I had the privilege of collaborating with [Professor Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) at [SMILE Lab](https://web.northeastern.edu/smilelab/). I initiated my academic journey with a Bachelor's degree from [Xi'an Jiaotong University, China](http://en.xjtu.edu.cn). My academic endeavors have endowed me with a resilient groundwork in state-of-the-art technologies and advanced research methodologies in the field of computer science. My fervent commitment to research is centered around cultivating transparent and dependable AI systems, thereby effectively narrowing the divide between human capabilities and artificial intelligence.
 
 ---
 ### News 🔖
+- Aug. 2023: Start as a new position as a **Senior Computer Vision Engineer** at *Qualcomm Inc.* 💻
 - July 2023: Successfully defended my Ph.D. dissertation. 🎉 🎓
 - June 2023: 🔥 We're thrilled to announce the release of the 🚶🚗Pedestrian Situated Intent Dataset ([PSI 2.0](https://github.com/PSI-Intention2022/PSI-Dataset)) and the upcoming 🏆 [IEEE ITSS Student Competition in Pedestrian and Driver Behavior Prediction](https://github.com/PSI-Intention2022/PSI-Competition) for automated driving! 🛎 🤖
 - Mar. 2023: Our paper about few-shot domain adaptation is accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
@@ -176,7 +177,7 @@ Northeastern University, Boston, USA </a>
 <ul>
 <li>
 <a href="https://sse.tulane.edu/cs">Tulane University</a>, New Orleans, USA <br>
-Research Assistant &nbsp;&nbsp; (Jan. 2021 - <strong>Present</strong>) <br>
+Research Assistant &nbsp;&nbsp; (Jan. 2021 - Aug. 2023) <br>
 Supervisor: Prof. <a href="http://www.cs.tulane.edu/~zding1/">Zhengming (Allan) Ding </a> <br>
 <strong>Topic</strong>: Interpretable Machine Learning, Domain Adaptation, Multi-view Learning
 </li>
@@ -273,6 +274,7 @@ Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016) <br>
 
 ### Academic Service
 **Conference Reviewer**
+- Neural Information Processing Systems (NeurIPS)
 - International Joint Conference on Artificial Intelligence (IJCAI)
 - European Conference on Computer Vision (ECCV)
 - Conference on Computer Vision and Pattern Recognition (CVPR)
