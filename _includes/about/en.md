@@ -14,7 +14,7 @@
 <h3 href='scottjingtt.github.io'>Taotao(Scott) Jing, Ph.D.</h3>
 <h4>
 Computer Vision Engineer, Senior <br>
-Multimedian Group, Qualcomm Inc. <br>
+Multimedia Group, Qualcomm Inc. <br>
 </h4>
 <p>
 San Diego, CA 92121, USA
