@@ -7,22 +7,21 @@
 <td width="20%" style="border: none !important">
 <div>
 <br>
-<img src='/img/website/scott.jpg' style="max-width:100%; margin-top:10%"/>
+<img src='/img/website/scott.jpg' style="max-width:100%; margin-top:0%"/>
 </div>
 </td>
 <td width="80%" style="border: none !important">
 <h3 href='scottjingtt.github.io'>Taotao(Scott) Jing, Ph.D.</h3>
+<h4>
+Computer Vision Engineer, Senior <br>
+Multimedian Group, Qualcomm Inc. <br>
+</h4>
 <p>
-<!-- <span style="font-weight:bold">Dr.</span><br> -->
-Computer Vision Engineer, Senior<br>
-Multimedian Group, Qualcomm Inc.<br>
-</p>
-<p>
-San Diego, CA 92121
+San Diego, CA 92121, USA
 </p>
 <p>
 <span>
-Email (work): tjing [AT] qti [DOT] qualcomm.com <br>
+Email (work): tjing [AT] qti [DOT] qualcomm [DOT] com <br>
 Email (personal): scottjingtt [AT] gmail [DOT] com
 </span>
 </p>
