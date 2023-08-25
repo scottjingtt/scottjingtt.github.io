@@ -11,7 +11,7 @@
 </div>
 </td>
 <td width="80%" style="border: none !important">
-<h3 href='scottjingtt.github.io'>Taotao(Scott) Jing, Ph.D.</h3>
+<h2 href='scottjingtt.github.io'>Taotao(Scott) Jing, Ph.D.</h2>
 <h4>
 Computer Vision Engineer, Senior <br>
 Multimedia Group, Qualcomm Inc. <br>
