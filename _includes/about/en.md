@@ -14,7 +14,7 @@
 <h2 href='scottjingtt.github.io'>Taotao(Scott) Jing, Ph.D.</h2>
 <h4>
 Computer Vision Engineer, Senior <br>
-Multimedia Group, Qualcomm Inc. <br>
+Multimedia R&D, Qualcomm Inc. <br>
 </h4>
 <p>
 San Diego, CA 92121, USA
@@ -43,10 +43,11 @@ Email (personal): scottjingtt [AT] gmail [DOT] com
 </table>
 
 ### Biography
-I am a Senior Computer Vision Engineer in the Multimedia Team at Qualcomm Inc. I obtained my Ph.D. in Computer Science from [Tulane University, USA](https://sse.tulane.edu/cs), under the guidance of [Prof. Zhengming Allan Ding](http://www.cs.tulane.edu/~zding1/). My research expertise lies in **Computer Vision, Transfer Learning, and Interpretable AI**, encompassing diverse areas such as *Image Classification, Domain Adaptation, and Interpretable Autonomous Vehicle* tasks. Prior to my doctoral studies, I earned my Master's degree in Computer System Engineering from Northeastern University, USA, where I had the privilege of collaborating with [Professor Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) at [SMILE Lab](https://web.northeastern.edu/smilelab/). I initiated my academic journey with a Bachelor's degree from [Xi'an Jiaotong University, China](http://en.xjtu.edu.cn). My academic endeavors have endowed me with a resilient groundwork in state-of-the-art technologies and advanced research methodologies in the field of computer science. My fervent commitment to research is centered around cultivating transparent and dependable AI systems, thereby effectively narrowing the divide between human capabilities and artificial intelligence.
+I am a Senior Computer Vision Engineer in the Multimedia R&D Team at Qualcomm Inc. I obtained my Ph.D. in Computer Science from [Tulane University, USA](https://sse.tulane.edu/cs), under the guidance of [Prof. Zhengming Allan Ding](http://www.cs.tulane.edu/~zding1/). My research expertise lies in **Computer Vision, Transfer Learning, and Interpretable AI**, encompassing diverse areas such as *Image Classification, Domain Adaptation, and Interpretable Autonomous Vehicle* tasks. Prior to my doctoral studies, I earned my Master's degree in Computer System Engineering from Northeastern University, USA, where I had the privilege of collaborating with [Professor Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) at [SMILE Lab](https://web.northeastern.edu/smilelab/). I initiated my academic journey with a Bachelor's degree from [Xi'an Jiaotong University, China](http://en.xjtu.edu.cn). My academic endeavors have endowed me with a resilient groundwork in state-of-the-art technologies and advanced research methodologies in the field of computer science. My fervent commitment to research is centered around cultivating transparent and dependable AI systems, thereby effectively narrowing the divide between human capabilities and artificial intelligence.
 
 ---
 ### News 🔖
+- Oct. 2023: Our paper about panorama indoor room layout estimation is accepted by WACV 2024. 
 - Aug. 2023: Start a new position as **Senior Computer Vision Engineer** at *Qualcomm Inc.* 💻
 - July 2023: Successfully defended my Ph.D. dissertation. 🎉 🎓
 - June 2023: 🔥 We're thrilled to announce the release of the 🚶🚗Pedestrian Situated Intent Dataset ([PSI 2.0](https://github.com/PSI-Intention2022/PSI-Dataset)) and the upcoming 🏆 [IEEE ITSS Student Competition in Pedestrian and Driver Behavior Prediction](https://github.com/PSI-Intention2022/PSI-Competition) for automated driving! 🛎 🤖
@@ -68,7 +69,34 @@ I am a Senior Computer Vision Engineer in the Multimedia Team at Qualcomm Inc. I
 - Jan. 2020: We get one paper accepted by **FG 2020**.
 - Jan. 2019: Begin my new journey as a **Ph.D.** student at Purdue University, USA.
 - Sep. 2018: Start working as **Research Assistant** at Purdue University, USA
-  
+
+
+---
+### Work Experience
+<table style="border: none !important">
+<tbody>
+<!-- Qualcomm -->
+<tr style="border: none !important">
+<td style="border: none !important">
+<div>
+<ul>
+<li>
+<a href="https://www.qualcomm.com">Qualcomm Technologies, Inc.</a>, San Diego, USA <br>
+Position: Computer Vision Engineer, Senior &nbsp;&nbsp; (Aug. 2023 - Present) <br>
+Group: Multimedia R&D <br>
+</li>
+</ul>
+</div>
+</td>
+<td style="border: none !important">
+<img style="float:right; max-width:100%; margin-top:0" src="/img/logos/qualcomm_logo.jpg"/>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+
 ---
 ### Publications
 **Journal Paper**
@@ -79,6 +107,7 @@ I am a Senior Computer Vision Engineer in the Multimedia Team at Qualcomm Inc. I
 - **Jing, Taotao**, Bingrong Xu, and Zhengming Ding. "Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation." *IEEE Transactions on Image Processing* (**TIP**), 2021. [[Paper](https://ieeexplore.ieee.org/document/9547057)][[Code](https://github.com/scottjingtt/TFKT)]
 
 **Conference Paper**
+- **Jing, Taotao**, Lichen Wang, Naji Khosravan, Zhiqiang Wan, Zachary Bessinger, Zhengming Ding, and Sing Bing Kang. "iBARLE: imBalance-Aware Room Layout Estimation" *In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**), 2024. [[Paper](https://arxiv.org/pdf/2308.15050.pdf)][[Code]()]
 - **Jing, Taotao**, Haifeng Xia, Renran Tian, Haoran Ding, Xiao Luo, Joshua Domeyer, Rini Sherony, and Zhengming Ding. "InAction: Interpretable Action Decision Making for Autonomous Driving" *In Proceedings of the European Conference on Computer Vision* (**ECCV**), 2022. [[Paper(Comming soon)]()][[Code]()]
 - **Jing, Taotao**, Hongfu Liu, and Zhengming Ding. "Towards Novel Target Discovery Through Open-Set Domain Adaptation." *In Proceedings of the IEEE/CVF International Conference on Computer Vision* (**ICCV**) (**Oral**), 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf)][[Code](https://github.com/scottjingtt/SROSDA)]
 - Xia, Haifeng, **Taotao Jing**, and Zhengming Ding "Semi-supervised Domain Adaptation Retrieval via Discriminative Hashing Learning." *In Proceedings of the ACM International Conference on Multimedia* (**MM**) (**Oral**), 2021. [[Paper](https://www.crcv.ucf.edu/chenchen/DHLing_MM_2021.pdf)]
