@@ -88,7 +88,7 @@ Group: Multimedia R&D <br>
 </ul>
 </div>
 </td>
-<td style="border: none !important">
+<td width="10%" style="border: none !important">
 <img style="float:right; max-width:100%; margin-top:0" src="/img/logos/qualcomm_logo.jpg"/>
 </td>
 </tr>
