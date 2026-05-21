@@ -1,0 +1,183 @@
+- id: MAF
+  type: journal
+  title: "Marginalized Augmented Few-shot Domain Adaptation"
+  authors: "<strong>Jing, Taotao</strong>, Haifeng Xia, Jihun Hamm, and Zhengming Ding"
+  venue: "IEEE Transactions on Neural Networks and Learning Systems"
+  venue_short: "TNNLS"
+  year: 2023
+  image: "/img/research/MAF.png"
+  page:
+  pdf:
+  code:
+  data:
+
+- id: IDG
+  type: journal
+  title: "Generative Inference Network for Imbalanced Domain Generalization"
+  authors: "Xia, Haifeng, <strong>Taotao Jing</strong>, and Zhengming Ding"
+  venue: "IEEE Transactions on Image Processing"
+  venue_short: "TIP"
+  year: 2023
+  image: "/img/research/IDG.png"
+  page:
+  pdf: "https://ieeexplore.ieee.org/abstract/document/10061463"
+  code: "https://github.com/HaifengXia/IDG"
+  data:
+
+- id: MSGD
+  type: journal
+  title: "Maximum Structural Generation Discrepancy for Unsupervised Domain Adaptation"
+  authors: "Xia, Haifeng, <strong>Taotao Jing</strong>, and Zhengming Ding"
+  venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence"
+  venue_short: "TPAMI"
+  year: 2022
+  image: "/img/research/MSGD.png"
+  page: "/2022/06/03/MSGD/index.html"
+  pdf: "https://ieeexplore.ieee.org/document/9772946"
+  code:
+  data:
+
+- id: AMF
+  type: journal
+  title: "Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval"
+  authors: "<strong>Jing, Taotao</strong>, Haifeng Xia, Jihun Hamm, and Zhengming Ding"
+  venue: "IEEE Transactions on Image Processing"
+  venue_short: "TIP"
+  year: 2022
+  image: "/img/research/AMF.png"
+  page: "/2022/05/02/AMF/index.html"
+  pdf: "https://ieeexplore.ieee.org/document/9775617"
+  code: "https://github.com/scottjingtt/AMF_GZS_SBIR"
+  data: "https://github.com/scottjingtt/AMF_GZS_SBIR/tree/main/data"
+
+- id: TFKT
+  type: journal
+  title: "Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation"
+  authors: "<strong>Jing, Taotao</strong>, Bingrong Xu, and Zhengming Ding"
+  venue: "IEEE Transactions on Image Processing"
+  venue_short: "TIP"
+  year: 2021
+  image: "/img/research/TFKT.png"
+  page: "/2022/03/11/TFKT/index.html"
+  pdf: "https://ieeexplore.ieee.org/document/9547057"
+  code: "https://github.com/scottjingtt/TFKT"
+  data:
+
+- id: iBARLE
+  type: conference
+  title: "iBARLE: imBalance-Aware Room Layout Estimation"
+  authors: "<strong>Jing, Taotao</strong>, Lichen Wang, Naji Khosravan, Zhiqiang Wan, Zachary Bessinger, Zhengming Ding, and Sing Bing Kang"
+  venue: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision"
+  venue_short: "WACV"
+  year: 2024
+  image:
+  page:
+  pdf: "https://arxiv.org/pdf/2308.15050.pdf"
+  code:
+  data:
+
+- id: InAction
+  type: conference
+  title: "InAction: Interpretable Action Decision Making for Autonomous Driving"
+  authors: "<strong>Jing, Taotao</strong>, Haifeng Xia, Renran Tian, Haoran Ding, Xiao Luo, Joshua Domeyer, Rini Sherony, and Zhengming Ding"
+  venue: "European Conference on Computer Vision"
+  venue_short: "ECCV"
+  year: 2022
+  image: "/img/research/InAction.png"
+  page: "/2022/07/03/InAction/index.html"
+  pdf:
+  code:
+  data:
+
+- id: SROSDA
+  type: conference
+  title: "Towards Novel Target Discovery Through Open-Set Domain Adaptation"
+  authors: "<strong>Jing, Taotao</strong>, Hongfu Liu, and Zhengming Ding"
+  venue: "IEEE/CVF International Conference on Computer Vision"
+  venue_short: "ICCV"
+  note: "Oral"
+  year: 2021
+  image: "/img/research/SROSDA.png"
+  page: "/2022/03/11/SROSDA/index.html"
+  pdf: "https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf"
+  code: "https://github.com/scottjingtt/SROSDA"
+  data:
+
+- id: DHLing
+  type: conference
+  title: "Semi-supervised Domain Adaptation Retrieval via Discriminative Hashing Learning"
+  authors: "Xia, Haifeng, <strong>Taotao Jing</strong>, and Zhengming Ding"
+  venue: "ACM International Conference on Multimedia"
+  venue_short: "MM"
+  note: "Oral"
+  year: 2021
+  image: "/img/research/DHLing.png"
+  page:
+  pdf: "https://www.crcv.ucf.edu/chenchen/DHLing_MM_2021.pdf"
+  code:
+  data:
+
+- id: ADCN
+  type: conference
+  title: "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation"
+  authors: "<strong>Jing, Taotao</strong>, and Zhengming Ding"
+  venue: "IEEE Winter Conference on Applications of Computer Vision"
+  venue_short: "WACV"
+  year: 2021
+  image: "/img/research/ADCN.png"
+  page: "/2022/03/11/ADCN/index.html"
+  pdf: "https://arxiv.org/pdf/2008.11878.pdf"
+  code:
+  data:
+
+- id: AAKT
+  type: conference
+  title: "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation"
+  authors: "<strong>Jing, Taotao</strong>, Haifeng Xia, and Zhengming Ding"
+  venue: "ACM International Conference on Multimedia"
+  venue_short: "MM"
+  year: 2020
+  image: "/img/research/AAKT.png"
+  page: "/2022/03/11/AAKT/index.html"
+  pdf: "https://dl.acm.org/doi/abs/10.1145/3394171.3413986"
+  code:
+  data:
+
+- id: EV
+  type: conference
+  title: "EV-Action: Electromyography-Vision Multi-Modal Action Dataset"
+  authors: "Wang, Lichen, Bin Sun, Joseph Robinson, <strong>Taotao Jing</strong>, and Yun Fu"
+  venue: "IEEE International Conference on Automatic Face and Gesture Recognition"
+  venue_short: "FG"
+  year: 2020
+  image: "/img/research/EV.png"
+  page: "/2022/03/11/EVAction/index.html"
+  pdf: "https://arxiv.org/pdf/1904.12602.pdf"
+  code: "https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset"
+  data:
+
+- id: PSI
+  type: preprint
+  title: "PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car"
+  authors: "Chen, Tina*, <strong>Taotao Jing*</strong>, Renran Tian, Yaobin Chen, Joshua Domeyer, Heishiro Toyoda, Rini Sherony, and Zhengming Ding"
+  venue: "Preprint"
+  venue_short: "arXiv"
+  year: 2022
+  image: "/img/research/PSI.png"
+  page: "/2022/03/11/PSI/index.html"
+  pdf: "https://arxiv.org/pdf/2112.02604.pdf"
+  code: "https://github.com/PSI-Intention2022/PSI-Intention"
+  data: "http://situated-intent.net/pedestrian_dataset/"
+
+- id: DCDF
+  type: preprint
+  title: "Discriminative Cross-Domain Feature Learning for Partial Domain Adaptation"
+  authors: "<strong>Jing, Taotao</strong>, Ming Shao, and Zhengming Ding"
+  venue: "arXiv preprint arXiv:2008.11360"
+  venue_short: "arXiv"
+  year: 2020
+  image: "/img/research/DCDF.png"
+  page:
+  pdf: "https://arxiv.org/abs/2008.11360"
+  code:
+  data:

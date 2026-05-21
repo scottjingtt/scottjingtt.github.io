@@ -1,0 +1,57 @@
+.publication-list {
+  padding-left: 1.2em;
+}
+
+.publication-list li {
+  margin-bottom: 0.65em;
+}
+
+.publication-cards {
+  display: grid;
+  gap: 18px;
+}
+
+.publication-card {
+  display: grid;
+  grid-template-columns: 200px minmax(0, 1fr);
+  gap: 20px;
+  padding: 18px;
+  border: 1px solid #ddd;
+  background: #f7f7f7;
+}
+
+.publication-card__image {
+  width: 200px;
+  height: 120px;
+  object-fit: cover;
+  background: #fff;
+}
+
+.publication-card__title {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 20px;
+  line-height: 1.3;
+}
+
+.publication-card__authors,
+.publication-card__venue,
+.publication-links {
+  margin-bottom: 6px;
+}
+
+.publication-links a {
+  margin-right: 8px;
+}
+
+@media (max-width: 767px) {
+  .publication-card {
+    grid-template-columns: 1fr;
+  }
+
+  .publication-card__image {
+    width: 100%;
+    height: auto;
+    max-height: 220px;
+  }
+}

@@ -5,7 +5,7 @@ header-img: img/website/home-bg.jpg
 email: tomjayad@gmail.com
 description: "Scott's Homepage"
 keyword: "Scott, Blog, Homepage"
-url: "scottjingtt.github.io"              # your host, for absolute URL
+url: "https://scottjingtt.github.io"      # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -28,7 +28,7 @@ linkedin_username:  taotaojing/
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","package-lock.json","README.md","README.zh.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
 #timezone: CN  

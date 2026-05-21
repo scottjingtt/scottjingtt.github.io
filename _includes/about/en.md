@@ -99,24 +99,7 @@ Group: Multimedia R&D <br>
 
 ---
 ### Publications
-**Journal Paper**
-- **Jing, Taotao**, Haifeng Xia, Jihun Hamm, and Zhengming Ding. "Marginalized Augmented Few-shot Domain Adaptation." *IEEE Transactions on Neural Networks and Learning Systems* (**TNNLS**), 2023. [[Paper]()][[Code]()]
-- Xia, Haifeng, **Taotao Jing**, and Zhengming Ding. "Generative Inference Network for Imbalanced Domain Generalization." *IEEE Transactions on Image Processing* (**TIP**), 2023. [[Paper](https://ieeexplore.ieee.org/abstract/document/10061463)][[Code]()]
-- Xia, Haifeng, **Taotao Jing**, and Zhengming Ding. "Maximum Structural Generation Discrepancy for Unsupervised Domain Adaptation." *IEEE Transactions on Pattern Analysis and Machine Intelligence* (**TPAMI**), 2022. [[Paper](https://ieeexplore.ieee.org/document/9772946)][[Code]()]
-- **Jing, Taotao**, Haifeng Xia, Jihun Hamm, and Zhengming Ding. "Augmented Multi-Modality Fusion for Generalized Zero-Shot Sketch-based Visual Retrieval." *IEEE Transactions on Image Processing* (**TIP**), 2022. [[Paper](https://ieeexplore.ieee.org/document/9775617)][[Code](https://github.com/scottjingtt/AMF_GZS_SBIR)]
-- **Jing, Taotao**, Bingrong Xu, and Zhengming Ding. "Towards Fair Knowledge Transfer for Imbalanced Domain Adaptation." *IEEE Transactions on Image Processing* (**TIP**), 2021. [[Paper](https://ieeexplore.ieee.org/document/9547057)][[Code](https://github.com/scottjingtt/TFKT)]
-
-**Conference Paper**
-- **Jing, Taotao**, Lichen Wang, Naji Khosravan, Zhiqiang Wan, Zachary Bessinger, Zhengming Ding, and Sing Bing Kang. "iBARLE: imBalance-Aware Room Layout Estimation" *In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**), 2024. [[Paper](https://arxiv.org/pdf/2308.15050.pdf)][[Code]()]
-- **Jing, Taotao**, Haifeng Xia, Renran Tian, Haoran Ding, Xiao Luo, Joshua Domeyer, Rini Sherony, and Zhengming Ding. "InAction: Interpretable Action Decision Making for Autonomous Driving" *In Proceedings of the European Conference on Computer Vision* (**ECCV**), 2022. [[Paper(Comming soon)]()][[Code]()]
-- **Jing, Taotao**, Hongfu Liu, and Zhengming Ding. "Towards Novel Target Discovery Through Open-Set Domain Adaptation." *In Proceedings of the IEEE/CVF International Conference on Computer Vision* (**ICCV**) (**Oral**), 2021. [[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Jing_Towards_Novel_Target_Discovery_Through_Open-Set_Domain_Adaptation_ICCV_2021_paper.pdf)][[Code](https://github.com/scottjingtt/SROSDA)]
-- Xia, Haifeng, **Taotao Jing**, and Zhengming Ding "Semi-supervised Domain Adaptation Retrieval via Discriminative Hashing Learning." *In Proceedings of the ACM International Conference on Multimedia* (**MM**) (**Oral**), 2021. [[Paper](https://www.crcv.ucf.edu/chenchen/DHLing_MM_2021.pdf)]
-- **Jing, Taotao**, and Zhengming Ding. "Adversarial Dual Distinct Classifiers for Unsupervised Domain Adaptation." *In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision* (**WACV**), 2021. [[Paper](https://arxiv.org/pdf/2008.11878.pdf)]
-- **Jing, Taotao**, Haifeng Xia, and Zhengming Ding, "Adaptively-Accumulated Knowledge Transfer for Partial Domain Adaptation," *In Proceedings of the ACM International Conference on Multimedia* (**MM**), 2020. [[Paper](https://dl.acm.org/doi/abs/10.1145/3394171.3413986)]
-- Wang, Lichen, Bin Sun, Joseph Robinson, **Taotao Jing**, and Yun Fu. “EV-Action: Electromyography-Vision Multi-Modal Action Dataset.” *In IEEE International Conference on Automatic Face and Gesture Recognition* (**FG**), 2020. &nbsp;[[Code](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset)] [[Paper](https://github.com/wanglichenxj/EV-Action-Electromyography-Vision-Multi-Modal-Action-Dataset/blob/master/presentations/FG20_EVAction.pdf)]
-
-**Preprint**
-- Chen, Tina\*, **Taotao Jing**\*, Renran Tian, Yaobin Chen, Joshua Domeyer, Heishiro Toyoda, Rini Sherony, and Zhengming Ding. “PSI: A Pedestrian Behavior Dataset for Socially Intelligent Autonomous Car.” *Preprint* (Arxiv), 2022. &nbsp;[[Code](https://github.com/PSI-Intention2022/PSI-Intention)] [[Paper](https://arxiv.org/pdf/2112.02604.pdf)][[Homepage](http://situated-intent.net/pedestrian_dataset/)]
+{% include publications.html mode="compact" %}
 
 ---
 ### Education
@@ -324,4 +307,3 @@ Research Assistant &nbsp;&nbsp; (Sep. 2015 - Jul. 2016) <br>
 - Conference on Neural Information Processing Systems (NeurIPS), 2022, New Orleans, USA
 
 ---
-

@@ -1,0 +1,54 @@
+{% assign mode = include.mode | default: "compact" %}
+{% assign publications = site.data.publications %}
+
+{% if mode == "cards" %}
+<div class="publication-cards">
+  {% for paper in publications %}
+  <article class="publication-card" id="{{ paper.id }}">
+    {% if paper.image %}
+    <img class="publication-card__image" src="{{ paper.image | prepend: site.baseurl }}" alt="{{ paper.id }}">
+    {% endif %}
+    <div class="publication-card__body">
+      <h2 class="publication-card__title">
+        {% if paper.page %}
+        <a href="{{ paper.page | prepend: site.baseurl }}">{{ paper.title }}</a>
+        {% else %}
+        {{ paper.title }}
+        {% endif %}
+      </h2>
+      <p class="publication-card__authors">{{ paper.authors }}</p>
+      <p class="publication-card__venue">
+        <em>{{ paper.venue }}</em>
+        {% if paper.venue_short %} (<strong>{{ paper.venue_short }}</strong>){% endif %}{% if paper.note %} (<strong>{{ paper.note }}</strong>){% endif %}, {{ paper.year }}
+      </p>
+      <p class="publication-links">
+        <a href="{{ paper.pdf | default: '' }}">[PDF]</a>
+        <a href="{{ paper.code | default: '' }}">[Code]</a>
+        <a href="{{ paper.data | default: '' }}">[Data]</a>
+      </p>
+    </div>
+  </article>
+  {% endfor %}
+</div>
+{% else %}
+{% assign groups = "journal:Journal Paper,conference:Conference Paper,preprint:Preprint" | split: "," %}
+{% for group in groups %}
+{% assign group_parts = group | split: ":" %}
+{% assign group_type = group_parts[0] %}
+{% assign group_title = group_parts[1] %}
+<p><strong>{{ group_title }}</strong></p>
+<ul class="publication-list">
+  {% for paper in publications %}
+  {% if paper.type == group_type %}
+  <li>
+    {{ paper.authors }}. "{{ paper.title }}."
+    <em>{{ paper.venue }}</em>
+    {% if paper.venue_short %} (<strong>{{ paper.venue_short }}</strong>){% endif %}{% if paper.note %} (<strong>{{ paper.note }}</strong>){% endif %}, {{ paper.year }}.
+    [[<a href="{{ paper.pdf | default: '' }}">Paper</a>]][[<a href="{{ paper.code | default: '' }}">Code</a>]]
+    {% if paper.data %}[[<a href="{{ paper.data }}">Data</a>]]{% endif %}
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>
+{% endfor %}
+{% endif %}
