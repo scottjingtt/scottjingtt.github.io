@@ -70,7 +70,7 @@
   venue: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision"
   venue_short: "WACV"
   year: 2024
-  image:
+  image: "/img/research/iBARLE.png"
   page:
   pdf: "https://arxiv.org/pdf/2308.15050.pdf"
   code:

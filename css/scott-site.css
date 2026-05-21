@@ -1,3 +1,29 @@
+.about-profile {
+  width: 100%;
+}
+
+.about-profile__photo-cell {
+  vertical-align: top;
+  padding-right: 24px;
+}
+
+.about-profile__bio-cell {
+  vertical-align: top;
+}
+
+.about-profile__photo-wrap {
+  display: flex;
+  justify-content: center;
+  padding-top: 8px;
+}
+
+.about-profile__photo {
+  display: block;
+  width: min(220px, 100%);
+  height: auto;
+  margin: 0;
+}
+
 .publication-list {
   padding-left: 1.2em;
 }
@@ -53,6 +79,28 @@
 }
 
 @media (max-width: 767px) {
+  .about-profile,
+  .about-profile tbody,
+  .about-profile tr,
+  .about-profile td {
+    display: block;
+    width: 100% !important;
+  }
+
+  .about-profile__photo-cell {
+    padding-right: 0;
+  }
+
+  .about-profile__photo-wrap {
+    justify-content: flex-start;
+    padding-top: 0;
+    margin-bottom: 16px;
+  }
+
+  .about-profile__photo {
+    width: min(240px, 70vw);
+  }
+
   .publication-card {
     grid-template-columns: 1fr;
     align-items: start;

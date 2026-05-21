@@ -1,16 +1,15 @@
 <!-- 
 ![Scott Jing](/img/website/scott.jpg){:height="30%" width="30%"} -->
 
-<table style="border: none !important">
+<table class="about-profile" style="border: none !important">
 <tbody>
 <tr style="border: none">
-<td width="20%" style="border: none !important">
-<div>
-<br>
-<img src='/img/website/scott.jpg' style="max-width:100%; margin-top:20%"/>
+<td class="about-profile__photo-cell" width="28%" style="border: none !important">
+<div class="about-profile__photo-wrap">
+<img class="about-profile__photo" src='/img/website/scott-20260205.jpeg' alt="Taotao Scott Jing"/>
 </div>
 </td>
-<td width="80%" style="border: none !important">
+<td class="about-profile__bio-cell" width="72%" style="border: none !important">
 <h2 href='scottjingtt.github.io'>Taotao(Scott) Jing, Ph.D.</h2>
 <h4>
 Computer Vision Engineer, Senior <br>
