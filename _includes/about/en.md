@@ -12,8 +12,8 @@
 <td class="about-profile__bio-cell" width="72%" style="border: none !important">
 <h2 href='scottjingtt.github.io'>Taotao(Scott) Jing, Ph.D.</h2>
 <h4>
-Computer Vision Engineer, Senior <br>
-Multimedia R&D, Qualcomm Inc. <br>
+AI/ML Researcher, Senior <br>
+Multimodal Foundation Models, Agentic AI on Edge, Efficient Embodied AI <br>
 </h4>
 <p>
 San Diego, CA 92121, USA
@@ -42,12 +42,12 @@ Email (personal): scottjingtt [AT] gmail [DOT] com
 </table>
 
 ### Biography
-I am a Senior Computer Vision Engineer in the Multimedia R&D Team at Qualcomm Inc. I obtained my Ph.D. in Computer Science from [Tulane University, USA](https://sse.tulane.edu/cs), under the guidance of [Prof. Zhengming Allan Ding](http://www.cs.tulane.edu/~zding1/). My research expertise lies in **Computer Vision, Transfer Learning, and Interpretable AI**, encompassing diverse areas such as *Image Classification, Domain Adaptation, and Interpretable Autonomous Vehicle* tasks. Prior to my doctoral studies, I earned my Master's degree in Computer System Engineering from Northeastern University, USA, where I had the privilege of collaborating with [Professor Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) at [SMILE Lab](https://web.northeastern.edu/smilelab/). I initiated my academic journey with a Bachelor's degree from [Xi'an Jiaotong University, China](http://en.xjtu.edu.cn). My academic endeavors have endowed me with a resilient groundwork in state-of-the-art technologies and advanced research methodologies in the field of computer science. My fervent commitment to research is centered around cultivating transparent and dependable AI systems, thereby effectively narrowing the divide between human capabilities and artificial intelligence.
+I am a Senior AI/ML Researcher at Qualcomm Inc., focusing on **Multimodal Foundation Models, Agentic AI on Edge, and Efficient Embodied AI**. I obtained my Ph.D. in Computer Science from [Tulane University, USA](https://sse.tulane.edu/cs), under the guidance of [Prof. Zhengming Allan Ding](http://www.cs.tulane.edu/~zding1/). My research expertise lies in **Computer Vision, Transfer Learning, and Interpretable AI**, encompassing diverse areas such as *Image Classification, Domain Adaptation, and Interpretable Autonomous Vehicle* tasks. Prior to my doctoral studies, I earned my Master's degree in Computer System Engineering from Northeastern University, USA, where I had the privilege of collaborating with [Professor Yun Raymond Fu](http://www1.ece.neu.edu/~yunfu/) at [SMILE Lab](https://web.northeastern.edu/smilelab/). I initiated my academic journey with a Bachelor's degree from [Xi'an Jiaotong University, China](http://en.xjtu.edu.cn). My academic endeavors have endowed me with a resilient groundwork in state-of-the-art technologies and advanced research methodologies in the field of computer science. My fervent commitment to research is centered around cultivating transparent and dependable AI systems, thereby effectively narrowing the divide between human capabilities and artificial intelligence.
 
 ---
 ### News 🔖
 - Oct. 2023: Our paper about panorama indoor room layout estimation is accepted by WACV 2024. 
-- Aug. 2023: Start a new position as **Senior Computer Vision Engineer** at *Qualcomm Inc.* 💻
+- Aug. 2023: Start a new position as **AI/ML Researcher, Senior** at *Qualcomm Inc.* 💻
 - July 2023: Successfully defended my Ph.D. dissertation. 🎉 🎓
 - June 2023: 🔥 We're thrilled to announce the release of the 🚶🚗Pedestrian Situated Intent Dataset ([PSI 2.0](https://github.com/PSI-Intention2022/PSI-Dataset)) and the upcoming 🏆 [IEEE ITSS Student Competition in Pedestrian and Driver Behavior Prediction](https://github.com/PSI-Intention2022/PSI-Competition) for automated driving! 🛎 🤖
 - Mar. 2023: Our paper about few-shot domain adaptation is accepted by **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**.
@@ -81,8 +81,8 @@ I am a Senior Computer Vision Engineer in the Multimedia R&D Team at Qualcomm In
 <ul>
 <li>
 <a href="https://www.qualcomm.com">Qualcomm Technologies, Inc.</a>, San Diego, USA <br>
-Position: Computer Vision Engineer, Senior &nbsp;&nbsp; (Aug. 2023 - Present) <br>
-Group: Multimedia R&D <br>
+Position: AI/ML Researcher, Senior &nbsp;&nbsp; (Aug. 2023 - Present) <br>
+Focus: Multimodal Foundation Models, Agentic AI on Edge, Efficient Embodied AI <br>
 </li>
 </ul>
 </div>

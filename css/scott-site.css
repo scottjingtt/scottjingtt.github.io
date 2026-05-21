@@ -3,12 +3,12 @@
 }
 
 .about-profile__photo-cell {
-  vertical-align: top;
+  vertical-align: middle;
   padding-right: 24px;
 }
 
 .about-profile__bio-cell {
-  vertical-align: top;
+  vertical-align: middle;
 }
 
 .about-profile__photo-wrap {
@@ -17,11 +17,11 @@
   padding-top: 8px;
 }
 
-.about-profile__photo {
+.post-container .about-profile__photo {
   display: block;
-  width: min(220px, 100%);
+  width: min(260px, 100%);
   height: auto;
-  margin: 0;
+  margin: 0 auto;
 }
 
 .publication-list {
@@ -97,7 +97,7 @@
     margin-bottom: 16px;
   }
 
-  .about-profile__photo {
+  .post-container .about-profile__photo {
     width: min(240px, 70vw);
   }
 
