@@ -1,20 +1,28 @@
 .about-profile {
   width: 100%;
+  table-layout: fixed;
+}
+
+.about-profile__row {
+  vertical-align: middle;
 }
 
 .about-profile__photo-cell {
-  vertical-align: middle;
+  text-align: center;
+  vertical-align: middle !important;
   padding-right: 24px;
 }
 
 .about-profile__bio-cell {
-  vertical-align: middle;
+  vertical-align: middle !important;
 }
 
 .about-profile__photo-wrap {
   display: flex;
+  align-items: center;
   justify-content: center;
-  padding-top: 8px;
+  padding-top: 0;
+  width: 100%;
 }
 
 .post-container .about-profile__photo {

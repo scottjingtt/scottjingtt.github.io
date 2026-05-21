@@ -1,15 +1,15 @@
 <!-- 
-![Scott Jing](/img/website/scott.jpg){:height="30%" width="30%"} -->
+![Scott Jing](/img/website/scott-20260205.jpeg){:height="30%" width="30%"} -->
 
 <table class="about-profile" style="border: none !important">
 <tbody>
-<tr style="border: none">
-<td class="about-profile__photo-cell" width="28%" style="border: none !important">
+<tr class="about-profile__row" style="border: none; vertical-align: middle">
+<td class="about-profile__photo-cell" width="28%" valign="middle" align="center" style="border: none !important; vertical-align: middle !important; text-align: center">
 <div class="about-profile__photo-wrap">
 <img class="about-profile__photo" src='/img/website/scott-20260205.jpeg' alt="Taotao Scott Jing"/>
 </div>
 </td>
-<td class="about-profile__bio-cell" width="72%" style="border: none !important">
+<td class="about-profile__bio-cell" width="72%" valign="middle" style="border: none !important; vertical-align: middle !important">
 <h2 href='scottjingtt.github.io'>Taotao(Scott) Jing, Ph.D.</h2>
 <h4>
 AI/ML Researcher, Senior <br>
